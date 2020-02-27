@@ -1,0 +1,24 @@
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}
+
+baseurl: "/template_site" # the subpath of your site, replace with the name of the github repository where you will host your site
+url: "" # the base hostname & protocol for your site, e.g. http://github-username.io
+
+title: Course Title
+author: Professor's Names
+externallink: columbia.edu #can include an external url here
+description:  >- # this means to ignore newlines until "baseurl:"
+  You can add a description of your course or project here. It should be about this long or shorter.
+
+
+# Build settings - no need to change these
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+theme: minima
+plugins:
+  - jekyll-feed

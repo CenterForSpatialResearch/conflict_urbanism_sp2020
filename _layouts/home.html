@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Final Projects" }}</h2> -->
+    <!-- <h3>This website collects a student-led publication from the Spring 2019 seminar, Conflict Urbanism: Puerto Rico Now taught by Laura Kurgan and Frances Negrón-Muntaner. This is the fourth in a series of multidisciplinary Mellon seminars at the Columbia Center for Spatial Research on the topic of Conflict Urbanism, as part of a multi-university initiative in Architecture, Urbanism and the Humanities. This Spring 2019 course focused on the role of natural and economic disaster in terms of the spatial restructuring of Puerto Rico today.</h3> -->
+
+
+    <div class="row">
+
+      {%- for post in site.posts -%}
+      <div class="col-xs-6 col-sm-4">
+
+        <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span> -->
+        {%- if post.image -%}
+        <a href="{{ post.url | relative_url }}">
+        <div class ="post__img">
+            <img class = "img img-fluid full-width" src="{{ post.image }}" alt="{{ post.title }}"/>
+          </div>
+          </a>
+        {%- endif -%}
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+
+
+      </div>
+      {%- endfor -%}
+
+    </div>
+
+  {%- endif -%}
+
+</div>
