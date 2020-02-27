@@ -10,9 +10,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://github-usernam
 
 title: Conflict Urbanism
 author: Laura Kurgan
-externallink: columbia.edu #can include an external url here
+externallink: ljk33@columbia.edu #can include an external url here
 description:  >- # this means to ignore newlines until "baseurl:"
-  You can add a description of your course or project here. It should be about this long or shorter.
+  Student projects from the Spring 2020 Conflict Urbanism seminar.
 
 
 # Build settings - no need to change these
