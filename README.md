@@ -118,7 +118,7 @@ To update your post after you have made changes to your markdown file in your te
 
 Conflict Urbanism Puerto Rico Now [Page](http://puerto-rico-now.c4sr.columbia.edu/)
 
-Methods for Spatial Research tutorials [Page] (https://github.com/CenterForSpatialResearch/methods-in-spatial-research-sp2020)
+Methods for Spatial Research tutorials [Page](https://github.com/CenterForSpatialResearch/methods-in-spatial-research-sp2020)
 
 #### Office Hours: 
 
