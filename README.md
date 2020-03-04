@@ -123,8 +123,11 @@ Methods for Spatial Research tutorials [Page](https://github.com/CenterForSpatia
 #### Office Hours: 
 
 Nadine -- nf2337@columbia.edu -- Wed 11-2, Thurs 9-12
+
 Tola -- tola.oniyangi@columbia.edu -- Wed 11:30-1:30, Fri 11-1
+
 CSR Office - 654 Schermerhorn Extension 
+
 Please email to set up an appointment ahead of time. 
 
 ______________________________________________________________________________________________________________
