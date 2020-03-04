@@ -1,99 +1,132 @@
-## A simple jekyll template for course publications
+---
+layout: post
+date:   2020-01-01
+image: "/template_site/images/csr_thumbnail.png"
+title:  "Tutorial - how to make a post on this site"
+author: ""
+---
 
-This repository contains a template built using [Jekyll](https://jekyllrb.com/) and GitHub pages that can be used to create simple websites or class publications.
+This document contains instructions for how to create a page on this website.
 
-You can preview the template [here](https://centerforspatialresearch.GitHub.io/template_site/).
+The template for this website was developed by the [Columbia Center for Spatial Research](c4sr.columbia.edu) (CSR) based on the Minima [Jekyll](https://jekyllrb.com/) theme in order to facilitate creating collaborative student publications in our seminars each year.
 
-It was developed by the [Columbia Center for Spatial Research](c4sr.columbia.edu) (CSR) based on the Minima Jekyll theme in order to facilitate creating collaborative student publications in our seminars each year. Our goals were to create a framework that:
-- uses static pages (rather than a database-driven system)
-- could be easily customized
-- is straightforward enough that it can be used by students with no prior experience making things on the web
+This document is written as a tutorial for students taking courses that use this template to produce a collaborative web publication.
 
-In spring 2019 the template was used by the [Conflict Urbanism: Puerto Rico Now](puerto-rico-now.c4sr.columbia.edu/) seminar, taught by Laura Kurgan and Frances Negrón-Muntaner.
+It will walk you through how to compose a post using a simple markup language called markdown. And then how to upload it to this website which is hosted on GitHub.
 
-We are making this template available for others to adapt or use in their own courses.
+The class website you will collectively contribute to is built using a static site generator called [Jekyll](https://jekyllrb.com/). For more on what Jekyll is or how to use it to build your own website please refer to this great tutorial from the [Programming Historian](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).
+For more information on how the CSR template is set up please see the README [here](/README.md).
 
-In what follows we briefly outline how to adapt this template for your own use.
+This tutorial accomplishes two things:
+  - you will become familiar with editing and composing documents using markdown syntax.
+  - you will create a template document for your final project that you can edit in order to publish your final project.
 
-## Getting started
 
-This guide was written for beginners. In it you will learn:
-- how to clone the template to your own GitHub account and host it on GitHub pages
-- the basic structure of a Jekyll site
-- how to make posts and begin populating your site with material
-Because this guide has beginners in mind, it has instructions for using GitHub's web interface to upload and make changes to files. If you are familiar with using GitHub via the command line please feel free to do this instead.
+#### Before you begin
+**Create a GitHub Account**  
+1. visit [github.com](https://github.com/) and sign up for a Github account if you do not already have one
+2. ask to be added as a contributor to the repository for your class's website if you are not already
+**Download and install the text editor of your choice**
+1. to create your post you will compose a plain text document. To do this you can use Notepad on Windows or Text Editor on Mac, however there are a number of great text editors out there that will help make things easier. [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/) are two good options. Download and install one of these if you would like.
 
-First, a few notes:
-This template is built using Jekyll, but what is Jekyll? Briefly, Jekyll is a tool that creates static websites from plain text. *The Programming Historian*'s [Building a static website with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-GitHub-pages) is a great introduction to Jekyll. And Alex Gil's [series of posts](https://www.chronicle.com/blogs/profhacker/jekyll1/60913) in the Chronicle of Higher Education are a great overview of the motivations for using Jekyll in university contexts.
-
-The key information to know at this point is that you and your students write material in simple markdown syntax and Jekyll turns this into an HTML website.
-
-This tutorial does not assume any prior knowledge of HTML/CSS, it does however assume a basic familiarity with the functionality of GitHub, and that you have a GitHub account. Create one now [here](https://GitHub.com/) if you don't have one already.  
-
-## Setting up your site
-
-### Step 1: familiarize yourself with the structure of the site
-1. Review the template_site here: [centerforspatialresearch.github.io/template_site/](https://centerforspatialresearch.github.io/template_site/)
-    - on the homepage, notice that there is (1) a header with a title, and link to an about page, (2) a grid of 'posts',and (3) a footer with the name and other key details about the site
-    - in a sample post, notice that there is a central column of text with simple formatting and inline images and maps
-2. This website is being powered by content contained in [this](https://github.com/CenterForSpatialResearch/template_site) repository.
-
-    - the `_includes`, `_layout`, `_sass`, and `assets` folders contain the files that define the CSR template. You do not need to change any files inside these folders
+#### Step 1: familiarize yourself with the structure of the site
+1. in a browser open both the GitHub repository and the class website (your professor should have given you links to both). The two pages will look something like this:
+![screenshot of repository and class website]
+1. this GitHub repository is currently hosting a simple website. If you have already been added as a collaborator to the repository, click on the repository's `Settings` and scroll down to the `GitHub Pages` section locate the URL of the site. Or ask the owner of the repository to send you the link. Navigate to this website to take a look at it.
+2. the simple website you just visited above is being hosted by this repository. Scroll up to look at the structure of the folders and files. Key things to note here:
+    - the `_includes`, `_layout`, `_sass`, and `assets` folders contain the files that define the CSR template. You will not need to change any files inside these folders
+    - the `images` folder is where any images that you include in the website should be placed
     - the `_posts` folder is what contains the markdown files that will become individual pages on the website.
-      - open the `_posts` folder and you'll see that each individual `.md` file here is one page on the template website
-      - open one of the `.md` files and select `Raw` which will allow you to view the unformatted file
-          - this is written in markdown, and has a special header which is used by the template to (1) format the page's title & author, (2)populate the homepage of the site with an image, and title. The header looks like this:
+
+#### Step 2: compose a new post
+1. open the `_posts` folder. Each page on the website is made by producing a new file in the `_posts` folder of the repository.
+2. open one of the `.md` files and select `Raw` which will allow you to view the unformatted file
+3. this is written in markdown, and has a special header which is used by the template to (1) format the page's title & author, (2) populate the homepage of the site with an image, and title. The header looks something like this:
           ```
           ---
           layout: post
           date:   2020-01-01
-          image: "/template_site/images/csr_thumbnail.png"
+          image: "/your-site-name/images/csr_thumbnail.png"
           title:  "Template Post: Title of Your Final Project"
           author: "Names Of Everyone In Your Group"
           ---
-
           ```
-    - the `images` folder is where any images that you include in the website should be placed
-    - the `about.md` file is where you can add any text that will go in the 'about'
-    - the `_config.yml` file is where key information about your site gets set (like the title, and all of the information contained in the site's footer)
+4. the body of the post has sample text showing the simple markdown syntax. [This webpage](https://guides.github.com/features/mastering-markdown/) is also a good resource as it provides a comprehensive guide to markdown syntax
+5. open the text editor of your choice (we suggest either [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/), download one of these if you haven't already)
+6. create a new empty file in your text editor
+7. **Copy** all of the raw markdown from `.md` file in this repository and **paste** it in to this empty file.
+8. Save the file in the following format `2020-01-03-lastname.md`
+9. once you save the file your text editor will recognize you are writing in markdown and will start highlighting the special syntax of this language:
+![syntax highlight]
+10. now we will edit this file to get familiar with how to write in markdown
+11. edit the document's header (the area highlighted in a magenta dashed line above).
+    - layout should stay labeled as post: `layout: post`
+    - change the date to today's date
+    - leave the image as-is for now
+    - change the title to your uni:  `title:  "xyz2222"`
+    - change the author to your name: `author: "Jane Adams"`
 
-That's it! Next we will clone the repository and walk through how to change key information to customize it for your own use.
+12. edit the document to practice formatting text and including links. Write in the document so you have:
+    - a paragraph of text (use your final project proposal)
+    - a word in bold,
+    - a word in italics
+    - a link to the github repository for the tutorials for this class
+    - (optional) an iframe with the webmap you created in tutorial 4 or 5 embedded
 
-### Step 2: fork this repository
-1. 'fork' this repository to your own GitHub account (or to a GitHub organization where you are a collaborator)
-    - use the fork button at the top of this page
-    - you should now have a copy of this repository and all of its files associated with your own GitHub account
-2. publish your forked repository using GitHub pages
-    - navigate to your repository's `Settings` tab
-    - scroll down to the `GitHub Pages` section
-    - select `master branch as the source`
-    - a notice will appear that says `Your site is ready to be published at:` then the URL of your new website. After a few minutes, refresh this page and the notice will read `Your site is published at....`. Click on this link to see your new website
+13. embed an image in your post. This is a two step process
+**Step one:** you must upload your image to a folder in the class website Github repository.
+**Step two:** you must link to that image from within your post.
 
-### Step 3: change the site name & set up the config.yml file
-Currently your repository inherited the name of this CSR template repository that you forked it from: `template_site`. This means that the site's URL from GitHub Pages is also something like `yourgithubusername.github.io/template_site` (see note at the end of the guide about custom URLs) lets change this
-1. navigate to the `Settings` of your repository, change the name of the repository to whatever you would like (note it cannot contain any spaces). Moving forward we will refer to it as `your-course-name`
-2. as noted above, changing the name of the repository to `your-course-name` will also change the name of the sub-folder that your site is published from (if you scroll down to the `GitHub Pages` section of the `Settings` page you will see that the link to your site has changed). This will cause many of the links of your site to break. But fear not! To fix this we will make changes to the `_config.yml` file
-3. navigate to the `_config.yml` file in your repository, open it, and then click the pencil icon to be able to edit the `_config.yml` file in your browser
-4. change the `baseurl:` to match the sub-folder that your site is published from. It should be something like `baseurl: "/your-course-name"`. Note formatting here is important, the repository/sub-folder name must be in quotes and there must be a colon immediately after baseurl
-5. change other key information about your site. Update the title of your site, author, and description. Note: these do not need to be contained in quotes, the text you put here will appear exactly as you type it in the header and footer of your site's homepage
-6. when you are finished editing your `_config.yml` file scroll down to commit your changes (this saves all of the changes you made, and keeps a record of what those changes were)
-7. next we need to change the links to images contained in the site's post
-8. open the `_posts` folder, and open the `2020-01-01-last-first.md` file, again click on the pencil icon to open up the editor mode.
-9. there are two links to images in this post that need to be updated with your new repository/sub-folder name in order to function. Currently both look like `/template_site/images/image-name.png` replace `template_site` with your new repository/sub-folder name
-10. commit your changes
-11. wait a few minutes, and then navigate to the new link to your GitHub Pages site (you can find it in the `Settings` for your repository) check to see that everything is working.
+    1. find an image that is in the [public domain](https://en.wikipedia.org/wiki/Public_domain) or for which you have image rights.  
+    2. save the image with a reasonable file name (you might as a class want to decide on a convention here like `lastname_description.jpg`)
+    3. upload the image to the `images` folder in the Github repository for your site
+    ![image upload]
+    4. After dragging the image file you have chosen into the uploader, enter a descriptive caption for your commit, and select `Commit Changes`
+    5. Check the folder to verify that the image was uploaded
+**Now we'll embed the image in to the body of your post.**
+    1. You'll use the following syntax:  `![description of image](/your-site-name/images/lastname_description.jpg)` replace `your-site-name` with the name of the repository for the site, and replace `lastname_description.jpg` with the file name of the image you just uploaded
+    - note: the information between the [ ] contains a description of the image that gets used by screen readers to make your website more accessible
+    - the information in the () contains the path to the image within our website
+      **Note** the file path must start with a `/` i.e. it must be something like `/your-site-name/images/` if you do not include the `/` then the link will not work.
+14. save your post
+15. now replace the thumbnail image that appears on the course website landing page. This image, currently a placeholder, is defined in the header of your post. To change it you will need to first choose and upload an image, and then change the link in the yaml header
 
-Now you are ready to start adding your own material to your new website.
+    1. choose an image that is representative of your project, crop it to have a **square** aspect ratio that is at least 300px wide
 
-### Step 4: site setup for your students
-There are a few steps to set up your site so that your students or other collaborators can add material directly to the site
-1. ask students to create their own account with GitHub & to send you the username associated with their account.
-2. add all students as 'Collaborators' to the repository of your website
-    - Navigate to the repository's page on GitHub, click on `Settings` and then `Collaborators & teams`
-    - add each of the student GitHub usernames to invite them to be 'collaborators' on the repository
-3. add the new url for your published GitHub pages site to the 'about' text for your repository so students and others can easily find it.
-4. direct your students to this tutorial to learn how to create a post and upload images    
+    2. just like you did in step 13 above upload this image to the `images` folder
+
+    3. update the yaml header of your post, replace the path in the `image` field to match the repository name and file name of the square image you just uploaded to github. Just like above, replace `your-project-name` with the name of your site's repository, and replace `lastname_description2.png` with the name of the square image you just uploaded:
+    ```
+    ---
+    layout: post
+    date:   2019-03-20
+    image: "/your-project-name/images/lastname_description2.png"
+    title:  "Provisional Title of Your Final Project"
+    author: "Names Of Everyone In Your Group"
+    ---
+    ```
+16. **Save your post**
+
+#### Step 3: upload your post to the repository
+Now we will `commit` this new post to the group repository which will mean that is becomes visible on the group website.
+
+1. navigate to the `_posts` folder of the repository. And select `Upload Files`. Drag the markdown file containing your post to the window. Write a commit message, and commit your post
+2. wait 1-2 minutes, then visit/refresh the class website URL. Your post should have appeared
+
+#### Step 4: making changes to/editing your post
+To update your post after you have made changes to your markdown file in your text editor:
+1. Navigate to the `_posts` folder in the repository
+
+2. Select `Upload Files` as you did in step 3 above. **Note: make sure that you did not change the name of your file**. Drag the markdown file containing your post into the window. Write a commit message and commit your post
+
+3. Wait 1-2 minutes, then visit/refresh the class website URL. The updates to your post should have appeared
+
+______________________________________________________________________________________________________________
 
 
-### Advanced notes:
-- GitHub pages supports the use of custom URLs, instructions are available [here](https://help.GitHub.com/en/GitHub/working-with-GitHub-pages/configuring-a-custom-domain-for-your-GitHub-pages-site). If you change this you will likely need to change the base URL in the config.yml file of your site, as well as any links to images and other resources within your posts. These previously would have been '/template_site' or what ever you changed them to when renaming your repository in the steps above.
+Tutorial written by Dare Brawley, for *Conflict Urbanism: Puerto Rico Now*, a spring 2019 seminar offered by the [Center for Spatial Research](http://c4sr.columbia.edu). More information about the course is available [here](http://c4sr.columbia.edu/courses/conflict-urbanism-puerto-rico-now).
+
+
+[syntax highlight]: tutorial_img/tutorial_1_syntax_highlight.png
+[image upload]: tutorial_img/tutorial_2_image_upload.png
+[screenshot of repository and class website]: tutorial_img/tutorial_0_twosites.png
