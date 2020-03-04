@@ -1,12 +1,4 @@
----
-layout: post
-date:   2020-01-01
-image: "/template_site/images/csr_thumbnail.png"
-title:  "Tutorial - how to make a post on this site"
-author: ""
----
-
-This document contains instructions for how to create a page on this website.
+Instructions for how to create a post on this website.
 
 The template for this website was developed by the [Columbia Center for Spatial Research](c4sr.columbia.edu) (CSR) based on the Minima [Jekyll](https://jekyllrb.com/) theme in order to facilitate creating collaborative student publications in our seminars each year.
 
@@ -120,6 +112,20 @@ To update your post after you have made changes to your markdown file in your te
 2. Select `Upload Files` as you did in step 3 above. **Note: make sure that you did not change the name of your file**. Drag the markdown file containing your post into the window. Write a commit message and commit your post
 
 3. Wait 1-2 minutes, then visit/refresh the class website URL. The updates to your post should have appeared
+
+
+#### Useful links: 
+
+Conflict Urbanism Puerto Rico Now: http://puerto-rico-now.c4sr.columbia.edu/ 
+
+Methods for Spatial Research tutorials page: https://github.com/CenterForSpatialResearch/methods-in-spatial-research-sp2020 
+
+#### Office Hours: 
+
+Nadine -- nf2337@columbia.edu -- Wed 11-2, Thurs 9-12
+Tola -- tola.oniyangi@columbia.edu -- Wed 11:30-1:30, Fri 11-1
+CSR Office - 654 Schermerhorn Extension 
+Please email to set up an appointment ahead of time. 
 
 ______________________________________________________________________________________________________________
 
