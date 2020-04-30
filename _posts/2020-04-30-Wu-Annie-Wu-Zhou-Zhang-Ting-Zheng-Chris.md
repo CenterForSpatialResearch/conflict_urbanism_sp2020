@@ -41,9 +41,9 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 ![description of image](/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Fishing.jpg)
 &nbsp;
-<img src="/images/ExtractiveUrbanism_Fishing.jpg" alt="Fishing" class="full-img">
+<img src="/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Fishing.jpg" alt="Fishing" class="full-img">
 &nbsp;
-<img src="/images/ExtractiveUrbanism_Fishing.jpg" alt="Fishing" width="300">
+<img src="/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Fishing.jpg" alt="Fishing" width="300">
 &nbsp;
 &nbsp;
 ![description of image](/conflict_urbanism_sp2020/images/sample_image.png)
