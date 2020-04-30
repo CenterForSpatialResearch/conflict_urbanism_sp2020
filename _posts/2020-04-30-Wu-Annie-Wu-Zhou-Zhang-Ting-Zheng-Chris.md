@@ -43,7 +43,7 @@ To embed images first ensure that the file is at least 740px wide. Then place th
 &nbsp;
 <img src="/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Fishing.jpg" alt="Fishing" class="full-img">
 &nbsp;
-<img src="/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Fishing.jpg" alt="Fishing" width="300">
+<img src="/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Fishing.jpg" alt="Fishing" width="100%">
 &nbsp;
 &nbsp;
 ![description of image](/conflict_urbanism_sp2020/images/sample_image.png)
