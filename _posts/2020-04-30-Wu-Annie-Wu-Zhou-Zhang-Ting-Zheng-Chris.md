@@ -51,7 +51,7 @@ If you want to include html files (i.e. an interactive map) host these via your 
 
 <div class="iframe-column"><iframe src="https://tz2436.github.io/ExtractiveUrbanism/Test.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 
-<div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+
 
 All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
 
