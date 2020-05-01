@@ -1,63 +1,65 @@
 ---
 layout: post
 date:   2020-04-30
-image: "/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Sites.jpg"
-title:  "Extractive Urbanism"
+image: "/conflict_urbanism_sp2020/images/extractive_moz/ExtractiveUrbanism_Sites.jpg"
+title:  "Extractive Urbanism: Social and Territorial Fragmentation in Mozambibque's Energy Extraction Landscape"
 author: "Annie Wu, Chris Zheng, Ting Zhang, Zhou Wu"
 ---
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.
+#### Introduction  
+The conflict we address is extractive urbanism, a model for development of new cities. Many places rich in natural resources have reaped great benefits by simply exploiting and exporting themselves.  
 
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.
+Urban construction of these places is aiming to reinforce this low-cost money-making cycle. Called extractive urbanism. Sounds exciting, but considering who exactly benefits in this capital game, stories are not so rosy.  
 
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.
+Africa’s urban population will almost triple in the coming 35 years, with more than 1.3 billion Africans living in cities by 2050. But the initial driving force of these urban growth, is more a desire finding fiscal reservoir from external capital, than a natural increasing demand. And it is in this particular economic form of foreign investment orientation that African cities are rising from the ground up. (Image & Charts)
+P5 Mozambique is one of the shining stars. The country's economy has taken off from relying on foreign direct investment, which is now turning into controlling domestic resources and making profits by exporting them abroad.  
 
-#### Please use level 4 headings for major section divisions
-(make sure to put two spaces after the end of the heading)
+Nearly 70 per cent of capital flows in exports come from the mining and mining supporting industries, logistics, energy producing, etc. And the spatial byproducts of this economic model is the rising of Mozambique's new cities.  
 
-Write **words in bold** like this.
+Tete, an interior city of Mozambique, which owns several largest mines. Palma in Cabo Delgado, a  future center of gas mining. Cuamba, Montepuez, Mulevala, Manica and Chibuto.  
 
-Italics are *similar* and are formatted like this.
+If we spatially position large mining and mining serving companies, they are highly aligned with those rising cities.  
 
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.
+However, when we look at the nationality of these companies, only less than 40% of them are owned by Mozambican people.  
 
-See this is now a new paragraph.
+Taking a step closer, in terms of annual profits, most of the highest value creating ones do not belong to Mozambicans.  
 
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
+And several interesting numbers need to be mentioned questioning who actually benefits from this extractive economy model. For the largest aluminum mining company Mozal in Mozambique,“Initial investment in Mozal amounted to 40% of GDP but only created around 1,500 direct jobs, with nearly one third held by foreigners (Quote)”, and “it is estimated that from the US$1.2 billion revenue posted per year, only US$200 million enters the Mozambican economy (Quote)”. And the ratio of Mozambican people living under the basic poverty line is 46.1 percent (Diagram).  
 
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
+Here are parts of mega extractive projects we have mapped out in previous slides. Viewed from an altitude of 4,000 meters, these are the original seeds of Mozambican’s extractive economy and urban development.  
 
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.
+<div class="iframe-column"><iframe src="https://zhouwu-211.github.io/webmap_1/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).
+####City Scale Research | Moatize, Tete Province, Mozambique  
+In the second chapter, we zoom into the city scale and further research on one called Moatize in Tete, which owns several largest mines. And another one is called Palma in Cabo Delgado, a potential natural gas mining center.  
 
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:
-![description of image](/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Fishing.jpg)
-![description of image](/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Moatize_TEST01.png)
-![description of image](/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Moatize_TEST02.jpg)
-![description of image](/conflict_urbanism_sp2020/images/Moatize_04_Giftest.gif)
-<img src="/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Fishing.jpg" alt="Fishing" style="width:100%;">
-&nbsp;
-&nbsp;
-![description of image](/conflict_urbanism_sp2020/images/sample_image.png)
+**Brief Introduction of Coal Mining**  
+In Mozambique, coal mining is the fastest growing industrial segment. Significant reserves of coking coal have been discovered in the Tete province, which have attracted numbers of prominent foreign mining companies.
+As you can see, according to Business Monitor International report, coal production in Mozambique has been rapidly increasing since 2009. And also make Mozambique itself rank among the top 10 largest coal production and export countries in the world. 
 
-If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.jpg)
+
+**Leading Companies and Their Investment in related Key Infrastructure**  
+Foreign investments are not only developing mines in the country, but also constructing key infrastructure to facilitate export of mining commodities.  
+As the map shows, Brazilian Company Vale Mining has invested in developing railroad projects — the Sena railroad, the Nacala corridor for transporting coal from the Moatize mine to the sea port like City Beira and Nacala for exports.  
+The Cahora Bassa Dam marked in the map is another key infrastructure located in Tete Province, used to convert the Zambezi River power into electricity. Partial energy generated is then sent to mines in order to support extraction activities.  
+
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_01.jpg)
+
+**Tete Province with Exploration Licenses**  
+Zooming into Tete province. Tete is a "commodity extraction frontier" rich in coal. It holds an estimated 23 billion tons of mostly untapped coal reserves, with the natural resource boom still in its early stages. Here comes the 1st major conflicts: Land Acquisition.  
+Mining concessions and exploration licenses approved by the government cover around 34% of Tete province land.  
+Including licenses pending approval, around 60% of the province's land are covered.  
+
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_02.jpg)
+
+
+
+
+
 
 <div class="iframe-column"><iframe src="https://tz2436.github.io/ExtractiveUrbanism/Test.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
-<div class="iframe-column"><iframe src="https://zhouwu-211.github.io/webmap_1/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
-<div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
-
-All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:
 
 
-<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 **Test_imagefullsize**
 &nbsp;
