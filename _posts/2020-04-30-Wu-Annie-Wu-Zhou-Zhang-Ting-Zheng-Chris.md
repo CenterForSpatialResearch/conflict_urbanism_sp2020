@@ -11,17 +11,11 @@ The conflict we address is extractive urbanism, a model for development of new c
 Urban construction of these places is aiming to reinforce this low-cost money-making cycle. Called extractive urbanism. Sounds exciting, but considering who exactly benefits in this capital game, stories are not so rosy.  
 
 Africa’s urban population will almost triple in the coming 35 years, with more than 1.3 billion Africans living in cities by 2050. But the initial driving force of these urban growth, is more a desire finding fiscal reservoir from external capital, than a natural increasing demand. And it is in this particular economic form of foreign investment orientation that African cities are rising from the ground up. (Image & Charts)
-P5 Mozambique is one of the shining stars. The country's economy has taken off from relying on foreign direct investment, which is now turning into controlling domestic resources and making profits by exporting them abroad.  
+Mozambique is one of the shining stars. The country's economy has taken off from relying on foreign direct investment, which is now turning into controlling domestic resources and making profits by exporting them abroad.  
 
-Nearly 70 per cent of capital flows in exports come from the mining and mining supporting industries, logistics, energy producing, etc. And the spatial byproducts of this economic model is the rising of Mozambique's new cities.  
+Nearly 70 per cent of capital flows in exports come from the mining and mining supporting industries, logistics, energy producing, etc. And the spatial byproducts of this economic model is the rising of Mozambique's new cities. Tete, an interior city of Mozambique, which owns several largest mines. Palma in Cabo Delgado, a  future center of gas mining. Cuamba, Montepuez, Mulevala, Manica and Chibuto.  
 
-Tete, an interior city of Mozambique, which owns several largest mines. Palma in Cabo Delgado, a  future center of gas mining. Cuamba, Montepuez, Mulevala, Manica and Chibuto.  
-
-If we spatially position large mining and mining serving companies, they are highly aligned with those rising cities.  
-
-However, when we look at the nationality of these companies, only less than 40% of them are owned by Mozambican people.  
-
-Taking a step closer, in terms of annual profits, most of the highest value creating ones do not belong to Mozambicans.  
+If we spatially position large mining and mining serving companies, they are highly aligned with those rising cities.However, when we look at the nationality of these companies, only less than 40% of them are owned by Mozambican people. Taking a step closer, in terms of annual profits, most of the highest value creating ones do not belong to Mozambicans.  
 
 And several interesting numbers need to be mentioned questioning who actually benefits from this extractive economy model. For the largest aluminum mining company Mozal in Mozambique,“Initial investment in Mozal amounted to 40% of GDP but only created around 1,500 direct jobs, with nearly one third held by foreigners (Quote)”, and “it is estimated that from the US$1.2 billion revenue posted per year, only US$200 million enters the Mozambican economy (Quote)”. And the ratio of Mozambican people living under the basic poverty line is 46.1 percent (Diagram).  
 
@@ -103,14 +97,19 @@ Apart from the loss of livelihoods, there are also rising security concerns abou
 
 ![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_06.jpg)  
 
+#### Infrastructure Research | Cahora Bassa Dam  
+Similar to the extraction industries, large-scale supporting infrastructures in Mozambique are often built by foreign capitals. They are mostly done as a point-to-point model, in favor of lowering the cost of transportation and export of the extracted resources, thus often flying through a great area of territory without any connection to the surroundings.  
+&nbsp;
+To be Updated
+&nbsp;
 **Test_imagefullsize**
 &nbsp;
 <img src="/conflict_urbanism_sp2020/images/extractive_moz/Songo.jpg" alt="Income Map" style="width:200%;">
 &nbsp;
-doc
 &nbsp;
 
 #### Reference  
+To be Updated
 &nbsp;
 &nbsp;
 &nbsp;
