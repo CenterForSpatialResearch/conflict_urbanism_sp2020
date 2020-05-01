@@ -100,7 +100,7 @@ Apart from the loss of livelihoods, there are also rising security concerns abou
 #### Infrastructure Research | Cahora Bassa Dam  
 Similar to the extraction industries, large-scale supporting infrastructures in Mozambique are often built by foreign capitals. They are mostly done as a point-to-point model, in favor of lowering the cost of transportation and export of the extracted resources, thus often flying through a great area of territory without any connection to the surroundings.  
 &nbsp;
-To be Updated
+To be Updated  
 &nbsp;
 **Test_imagefullsize**
 &nbsp;
