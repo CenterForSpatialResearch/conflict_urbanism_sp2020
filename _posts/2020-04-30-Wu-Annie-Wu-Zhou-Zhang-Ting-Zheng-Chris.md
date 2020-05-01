@@ -58,3 +58,11 @@ All you need to do to use one is replace the url that is between the two " ". He
 
 
 <div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+**Test_imagefullsize**
+&nbsp;
+<center><img src="/images/extractive_moz/Songo.jpg" alt="Income Map" class="full-img"></center>
+&nbsp;
+Data Source: US Census 2010
+&nbsp;
+&nbsp;
