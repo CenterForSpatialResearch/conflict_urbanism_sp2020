@@ -61,8 +61,8 @@ All you need to do to use one is replace the url that is between the two " ". He
 
 **Test_imagefullsize**
 &nbsp;
-<img src="/conflict_urbanism_sp2020/images/extractive_moz/Songo.jpg" alt="Income Map" style="width:100%;">
+<img src="/conflict_urbanism_sp2020/images/extractive_moz/Songo.jpg" alt="Income Map" class="full-img">
 &nbsp;
-doc
+
 &nbsp;
 &nbsp;
