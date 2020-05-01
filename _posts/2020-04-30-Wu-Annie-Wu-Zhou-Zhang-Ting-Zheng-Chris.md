@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-04-30
-image: "/conflict_urbanism_sp2020/images/csr_thumbnail.png"
+image: "/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Sites.jpg"
 title:  "Extractive Urbanism"
 author: "Annie Wu, Chris Zheng, Ting Zhang, Zhou Wu"
 ---
