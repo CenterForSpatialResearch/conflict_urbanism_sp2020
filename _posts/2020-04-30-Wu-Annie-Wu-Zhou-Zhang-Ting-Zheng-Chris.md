@@ -28,7 +28,7 @@ In the second chapter, we zoom into the city scale and further research on one c
 
 **Brief Introduction of Coal Mining**  
 In Mozambique, coal mining is the fastest growing industrial segment. Significant reserves of coking coal have been discovered in the Tete province, which have attracted numbers of prominent foreign mining companies.
-As you can see, according to Business Monitor International report, coal production in Mozambique has been rapidly increasing since 2009. And also make Mozambique itself rank among the top 10 largest coal production and export countries in the world. 
+As you can see, according to Business Monitor International report, coal production in Mozambique has been rapidly increasing since 2009. And also make Mozambique itself rank among the top 10 largest coal production and export countries in the world.
 
 ![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.jpg)  
 
@@ -85,7 +85,7 @@ A Resettlement plan was made for the construction of  the LNG plant, over 500 ho
 **Afungi LNG Plant | Loss of Main Source of Livelihoods**  
 Among the displaced households, 51% are engaging in fishing, and in coastal villages, the number can be more than 80%. This map shows the vessel fishing and intertidal collecting points as well as the home ports. The restricted marine area will have a huge impact on those fishing grounds.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_04.jpg) 
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_04.jpg)
 
 **Afungi LNG Plant | Development in Place**  
 As part of the resettlement plan, the project promised to provide more social services to the local people, However, there are concerns that the construction of the facilities is happening much faster than that of their supporting social services, which can be true through the satellite images.  
@@ -99,13 +99,42 @@ Apart from the loss of livelihoods, there are also rising security concerns abou
 
 #### Infrastructure Research | Cahora Bassa Dam  
 Similar to the extraction industries, large-scale supporting infrastructures in Mozambique are often built by foreign capitals. They are mostly done as a point-to-point model, in favor of lowering the cost of transportation and export of the extracted resources, thus often flying through a great area of territory without any connection to the surroundings.  
-  
-*To be Updated*  
-  
+
 &nbsp;
-**Test_imagefullsize**
 &nbsp;
-<img src="/conflict_urbanism_sp2020/images/extractive_moz/Songo.jpg" alt="Income Map" style="width:200%;">
+
+**Power Generation and Distribution**  
+The electricity system is one of the examples. In 2014, the country generated 2,626 MW electricity, of which 79% are contributed by the hydropower at Cahora Bassa dam in Tete Province. At 187 gigawatts, Mozambique has the largest power generation potential in Southern Africa from untapped coal, hydro, gas, wind and solar resources. Mozambique is a major exporter of hydropower, coal and natural gas, with the aim of becoming southern Africa’s energy hub.
+&nbsp;
+On the other hand, Mozambique faces substantial challenges in reaching its goal of universal energy access. Its energy access rate is among the lowest of sub-Saharan countries. In a planned future, Mozambique will still sell most of its energy output to South Africa and the Southern African Power Pool, with only a small portion remaining for domestic consumption.
+
+&nbsp;
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Power_GenDist.jpg)  
+
+&nbsp;
+&nbsp;
+
+**Domestic Power Access**  
+Despite the outsized energy generation, there’s a huge gap between the demand and the distribution. Extraction and export segments are among the top priorities of power supply while the whole system is struggling with the existing highly subsidized tariffs.
+&nbsp;
+There are 4.1 million households with no power access in Mozambique. The current access rate for residence is 29%. This number is 57% in urban areas and 15% in rural areas, yet only 36.5% of the country’s people live in a city.
+
+&nbsp;
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Domestic_Power_Access.gif)  
+
+&nbsp;
+&nbsp;
+
+**Cahora Bassa | Inbalanced Energy Distribution**  
+At the heart of Mozambique’s energy system is Cahora Bassa, the giant hydroelectric dam on the Zambezi River in Tete province, opened in 1977. As a colonial legacy, this project is ﬁnanced by foreign investors and the guaranteed sale of electricity to South Africa at below-market prices, in exchange for its support in the colonial war.
+&nbsp;
+In the post civil war era, Cahora Bassa was taken over by the Mozambique government and rendered as a symbol of national identity - ‘o orgulho de Moçambique (the pride of Mozambique)’.
+&nbsp;
+But as a major source of revenue income, annually 70% of the dam’s output has been committed to South Africa’s Eskom utility under a long-term agreement through 2029. A large portion of that is later reimported to Mozambique to serve large extraction industries owned by foreign shareholders. Beyond that, the country plans to expand sales to Malawi, Zambia and Tanzania. This all happens with a majority of the domestic population still having no access to electricity.
+
+&nbsp;
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/CahoraBassa.jpg)  
+
 &nbsp;
 &nbsp;
 
