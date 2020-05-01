@@ -2,7 +2,7 @@
 layout: post
 date:   2020-04-30
 image: "/conflict_urbanism_sp2020/images/extractive_moz/ExtractiveUrbanism_Sites.jpg"
-title:  "Extractive Urbanism: Social and Territorial Fragmentation in Mozambibque's Energy Extraction Landscape"
+title:  "**Extractive Urbanism**: Social and Territorial Fragmentation in Mozambibque's Energy Extraction Landscape"
 author: "Annie Wu, Chris Zheng, Ting Zhang, Zhou Wu"
 ---
 #### Introduction  
@@ -29,30 +29,44 @@ Here are parts of mega extractive projects we have mapped out in previous slides
 
 <div class="iframe-column"><iframe src="https://zhouwu-211.github.io/webmap_1/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
-####City Scale Research | Moatize, Tete Province, Mozambique  
+#### City Scale Research | Moatize, Tete Province, Mozambique  
 In the second chapter, we zoom into the city scale and further research on one called Moatize in Tete, which owns several largest mines. And another one is called Palma in Cabo Delgado, a potential natural gas mining center.  
 
 **Brief Introduction of Coal Mining**  
 In Mozambique, coal mining is the fastest growing industrial segment. Significant reserves of coking coal have been discovered in the Tete province, which have attracted numbers of prominent foreign mining companies.
 As you can see, according to Business Monitor International report, coal production in Mozambique has been rapidly increasing since 2009. And also make Mozambique itself rank among the top 10 largest coal production and export countries in the world. 
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.jpg)
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.jpg)  
 
 **Leading Companies and Their Investment in related Key Infrastructure**  
 Foreign investments are not only developing mines in the country, but also constructing key infrastructure to facilitate export of mining commodities.  
 As the map shows, Brazilian Company Vale Mining has invested in developing railroad projects — the Sena railroad, the Nacala corridor for transporting coal from the Moatize mine to the sea port like City Beira and Nacala for exports.  
 The Cahora Bassa Dam marked in the map is another key infrastructure located in Tete Province, used to convert the Zambezi River power into electricity. Partial energy generated is then sent to mines in order to support extraction activities.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_01.jpg)
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_01.jpg)  
 
 **Tete Province with Exploration Licenses**  
 Zooming into Tete province. Tete is a "commodity extraction frontier" rich in coal. It holds an estimated 23 billion tons of mostly untapped coal reserves, with the natural resource boom still in its early stages. Here comes the 1st major conflicts: Land Acquisition.  
 Mining concessions and exploration licenses approved by the government cover around 34% of Tete province land.  
 Including licenses pending approval, around 60% of the province's land are covered.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_02.jpg)
+[description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_02.jpg)   
 
+**Moatize**  
+Finally we come to Moatize, which is a district of Tete Province. Almost all of the district’s land is divided and licensed to FDI.  
 
+[description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_03.jpg)  
+
+**Resettlement**  
+Vale Mining and Rio Tinto are major extraction companies which have been producing coal from the Moatize mine since 2011, and planned to have further expansion.// Due to the current extraction and expansion, many families have been displaced. Over a thousand families resettled approximately 60 km away from the Moatize coal mining site.  
+
+[description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_04_Gif.gif)  
+
+**Complaints**  
+The local population of Tete province has suffered from the coal boom, since large-scale resettlements have been taking place since 2009. As a consequence, the communities have faced disruptions in accessing food, water and work.  
+Living conditions have decreased drastically, as many farming households who had “previously been living along a river” and were therefore “self-sufficient”, have now been resettled to sites far away from the markets in Moatize, with agricultural land of  “uneven quality and unreliable access to water”. “Food insecurity and dependence on food assistance” provided by the mining companies has become a serious issue for the families.  
+
+[description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06_Gif.gif)
 
 
 
