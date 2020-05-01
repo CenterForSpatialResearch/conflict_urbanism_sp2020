@@ -42,6 +42,7 @@ To embed images first ensure that the file is at least 740px wide. Then place th
 ![description of image](/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Fishing.jpg)
 ![description of image](/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Moatize_TEST01.png)
 ![description of image](/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Moatize_TEST02.jpg)
+![description of image](/conflict_urbanism_sp2020/images/Moatize_04_Giftest.gif)
 <img src="/conflict_urbanism_sp2020/images/ExtractiveUrbanism_Fishing.jpg" alt="Fishing" style="width:100%;">
 &nbsp;
 &nbsp;
