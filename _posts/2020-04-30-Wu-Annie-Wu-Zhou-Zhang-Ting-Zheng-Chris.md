@@ -2,7 +2,7 @@
 layout: post
 date:   2020-04-30
 image: "/conflict_urbanism_sp2020/images/extractive_moz/ExtractiveUrbanism_Sites.jpg"
-title:  "**Extractive Urbanism**: Social and Territorial Fragmentation in Mozambibque's Energy Extraction Landscape"
+title:  "Extractive Urbanism: Social and Territorial Fragmentation in Mozambibque's Energy Extraction Landscape"
 author: "Annie Wu, Chris Zheng, Ting Zhang, Zhou Wu"
 ---
 #### Introduction  
