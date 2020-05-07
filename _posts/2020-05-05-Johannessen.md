@@ -9,7 +9,7 @@ author: "Martine Johannessen & Dylan Goldweit-Denton"
 
 On January 11th, 2006, the Times-Picayune ran an article that would dramatically alter the trajectory of reconstruction in New Orleans after Hurricane Katrina.
 
-![The Green Dot Map](/conflict_urbanism_sp2020/images/Green Dot Map/Times-Picayune-small.png)  
+![The Green Dot Map](/conflict_urbanism_sp2020/images/Green Dot Map/Times-Picayune-medium.png)  
 *Source: ResearchGate*  
   
 **4 MONTHS TO DECIDE,** blared the  headline: **“Nagin panel says hardest hit areas must prove viability.”** The subtitles read "City's footprint may shrink". "Full buyouts for those forced to move."
