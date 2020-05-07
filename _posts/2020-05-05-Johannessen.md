@@ -2,16 +2,14 @@
 layout: post
 date:   2020-05-06
 image: "/conflict_urbanism_sp2020/images/csr_thumbnail.png"
-title:  "The Green Dot Effect"
+title:  "The Green Dot Effect: Neighborhood Recovery after Hurricane Katrina"
 author: "Martine Johannessen, Dylan Goldweit-Denton"
 ---
-
-#### The Green Dot Effect: Neighborhood Recovery after Hurricane Katrina  
 
 
 On January 11th, 2006, the Times-Picayune ran an article that would dramatically alter the trajectory of reconstruction in New Orleans after Hurricane Katrina.
 
-![The Green Dot Map](/conflict_urbanism_sp2020/images/sample_image.png)  
+![The Green Dot Map](/conflict_urbanism_sp2020/images/Green Dot Map/Times-Picayune.png)  
 *Source: ResearchGate*  
 
 
@@ -31,8 +29,8 @@ Next, we will explore the immediate and lasting implications of the map on New O
 - How did recovery vary between neighborhoods, and what was the impact of the Green Dot Map?
 
 
-![History of Map and the BNOB Committee](/conflict_urbanism_sp2020/images/sample_image.png)
-*Source: XX*  
+![History of Map and the BNOB Committee](/conflict_urbanism_sp2020/images/Green Dot Map/Historicalmaps.gif)
+*Source: BNOBC, Times-Picayune*  
 While the Green Dot Map initially reached the public via the Times-Picayune, its origins lie before the publication in the Urban Planning Committee of the Bring New Orleans Back Commission (BNOBC), a group convened by the mayor, Ray Nagin, to guide New Orleans' reconstruction.
 
 An earlier version of the Green Dot Map was created by the BNOBC, a single image in a 69-slide powerpoint presentation titled: “Action Plan for New Orleans: The New American City”. The slides supporting the graphic discussed having parks in every neighborhood, incorporated into the city stormwater management system. Green dots were drawn in dashed green lines, and though they were labeled "areas for future parkland," they were intended to be approximate locations where parks could be incorporated into the neighborhood, not suggesting that the entire neighborhood be replaced by parkland. Next steps were to identify properties that could be part of the system and secure funding for “park restoration.”
@@ -42,9 +40,9 @@ The second map that reached the public was created by the Times-Picayune staff, 
 But the most significant visual aspect of the map, and the piece the public responded to with the strongest opposition, were the solid green circles labeled "approximate areas to become park and greenspace." The dashed green circles of the BNOBC map, intended to be tentative thoughts on future stormwater protection, were suddenly communicated as near-definitive greenspaces that would wipe out entire neighborhoods. This is the aspect of the map that spurred the neighborhood response.
 
 #### The Great Footprint Debate
-![Flooding during Katrina](/conflict_urbanism_sp2020/images/sample_image.png)  
+![Flooding during Katrina](/conflict_urbanism_sp2020/images/Green Dot Map/FLOODING.gif)  
 *Source: NOLA.com*  
-However, while the language of the initial Green Dot map was more provisional than the one published in the Times-Picayune, both maps point to a larger debate that was going on in planning circles in the time, and came to be known as **The Great Footprint Debate**.
+However, while the initial Green Dot map was intended to be more provisional than the one published in the Times-Picayune, both maps point to a larger debate that was going on in planning circles in the time, and came to be known as **The Great Footprint Debate**.
 
 “Should the entire city be restored, the argument went, or should the city “shrink” its “urban footprint,” rebuilding on higher ground and depopulating “far-flung,” heavily damaged neighborhoods so that as “green space” they may “buffer” the urban core from future storms?
 
@@ -52,13 +50,12 @@ However, while the language of the initial Green Dot map was more provisional th
 
 With the city flooded and in need of stronger flood mitigation strategies, greenspacing seemed tempting. But what this strategy ignored was how different communities were impacted - that is, who was covered by the green dots? And who would be allowed to return to the city? Or, as Michael Sorkin eloquently wrote:
 
-# "The idea of a massive, environmentally driven cordon sanitaire has been dropped as a master of planning policy, but the plan is (and perhaps can only be) mute about who, finally will be able to return."  
+###### "The idea of a massive, environmentally driven cordon sanitaire has been dropped as a master of planning policy, but the plan is (and perhaps can only be) mute about who, finally will be able to return."  
 
 
 
-#### Citywide Demographic Changes 2000 to 2010
-*Source: 2000, 2010 Census*
-![Change in Total Population 2000 to 2010](/conflict_urbanism_sp2020/images/sample_image.png)  
+#### Citywide Demographic Changes: 2000 to 2010
+![Change in Total Population 2000 to 2010](/conflict_urbanism_sp2020/images/Green Dot Map/population.gif)  
 Following Hurricane Katrina, New Orleans saw a dramatic decrease of its overall population, from around 483,000 people five years before Katrina in 2000 to 343,000, five years after Katrina in 2010. Visualizing this using these shifts in total population using Census data from 2000 and 2010 shows that population decreases occurred across the city, as people were displaced from their homes and did not or could not return.
 
 Yet while the city shrank in total population size, there was a distinctly racial component to the change in population.
@@ -66,7 +63,7 @@ Yet while the city shrank in total population size, there was a distinctly racia
 ![Change in Black Population 2000 to 2010](/conflict_urbanism_sp2020/images/sample_image.png)
 In 2000, New Orleans over two thirds (67%) of the city was Black. However, five years after Katrina, a disproportionately high number of residents who left New Orleans and did not return were Black - 116,000 of the total 138,000 or 84% of the population lost. So by 2010, the racial demographics of New Orleans had changed significantly. What was once a strongly majority Black city was now just around 60% Black.
 
-![Change in Median Income 2000 to 2010](/conflict_urbanism_sp2020/images/sample_image.png)  
+![Change in Median Income 2000 to 2010](/conflict_urbanism_sp2020/images/Green Dot Map/MedianIncomegif.gif)  
 Layered on top of the racial shift was also a class dimension. Joseph C. Canizaro, a real estate mogul with close ties to Ray Nagin and George Bush, and who had heavy influence in shaping the rebuilding of New Orleans, notably said:
 
 **“As a practical matter, these poor folks don’t have the resources to go back to our city, just like they didn’t have the resources to get out of our city. So we won’t get all those folks back. That’s not what I want, it’s just a fact.”**
@@ -79,7 +76,7 @@ Five years after Katrina, wealth became more concentrated in a few areas, while 
 
 
 #### Citywide Demographic Changes 2000 to 2010
-![Case Study Neighborhoods](/conflict_urbanism_sp2020/images/sample_image.png)  
+![Case Study Neighborhoods](/conflict_urbanism_sp2020/images/Green Dot Map/CaseStudyNeighborhoodsMap.gif)  
 In order to understand the impact of the Green Dot Map at the neighborhood level, we will explore three neighborhoods that all saw significant levels of flooding and damage, but have had different recovery trajectories since 2005. Notably, two were covered by green dots in the Green Dot Map (Broadmoor, Lower Ninth Ward), while the third was not (Lakeview). Thus we can not only begin to understand how the green dots had social and political implications in terms of where they were placed in the city, but additional social and political implications in catalyzing community-led responses.
 ![Broadmoor](/conflict_urbanism_sp2020/images/sample_image.png)
 Broadmoor is generally regarded as one of the biggest "success stories" of neighborhood recovery in New Orleans in the wake of Katrina, despite its location at the epicenter of the crescent and the extensive flooding and damage the neighborhood endured due to the hurricane. This success has been understood as a response to the Green Dot Map, which notably covered the entire Broadmoor neighborhood, and led to a huge community-led planning effort headed by Latoya Cantrell, then president of the Broadmoor Improvement Association, and current mayor of the city of New Orleans. Cantrell worked with residents and religious leaders in the community to oppose the plan laid out in the Green Dot Map and prove the viability of the neighborhood. This community-driven structure established a platform through which neighborhood residents could volunteer or voice their opinions, and facilitated the rebuild and renovation of Andrew H. Wilson Highschool and the reopening of Rosa F. Keller Library. Inside the library today is the defiantly named Green Dot Cafe, a testament to the neighborhood's resiliency and the legacy of the Green Dot Map.  
