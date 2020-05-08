@@ -65,7 +65,7 @@ Following Hurricane Katrina, New Orleans saw a dramatic decrease of its overall 
 
 Yet while the city shrank in total population size, there was a distinctly racial component to the population change.
 
-![Change in Black Population 2000 to 2010](/conflict_urbanism_sp2020/images/sample_image.png)
+![Change in Black Population 2000 to 2010](/conflict_urbanism_sp2020/images/Green Dot Map/Change in Black Population.png)
 In 2000, New Orleans over two thirds (67%) of the city was Black. However, five years after Katrina, the number of Black residents who left New Orleans and did not return was disproportionately high - 116,000 of the total 138,000 or 84% of the population lost. So by 2010, the racial demographics of New Orleans had changed significantly. What was once a strongly majority Black city was now around 60% Black.
 
 ![Change in Median Income 2000 to 2010](/conflict_urbanism_sp2020/images/Green Dot Map/MedianIncomegif.gif)  
@@ -81,21 +81,22 @@ By 2010, five years after Katrina, wealth became more concentrated in a few area
 #### Changes at the Neighborhood Level
 ![Case Study Neighborhoods](/conflict_urbanism_sp2020/images/Green Dot Map/CaseStudyNeighborhoodsMap.gif)  
 In order to understand the impact of the Green Dot Map at the neighborhood level, we will explore three neighborhoods that all saw significant levels of flooding and damage, but have had different recovery trajectories since 2005. Notably, two were covered by green dots in the Green Dot Map (Broadmoor, Lower Ninth Ward), while the third was not (Lakeview). Thus we can not only begin to understand how the green dots had social and political implications in terms of *where* they were placed in the city, but also in terms of their social and political implications for catalyzing neighborhood-level responses.
-![Broadmoor](/conflict_urbanism_sp2020/images/sample_image.png)
+#### Broadmoor
 Broadmoor is generally regarded as one of the biggest "success stories" of post-Katrina neighborhood recovery, despite its location at the epicenter of New Orleans' crescent and the extensive flooding and damage it endured due to the hurricane. This success has been widely understood as a response to the Green Dot Map, which notably covered the entire Broadmoor neighborhood, and led to a huge community-led planning effort headed by Latoya Cantrell, then president of the Broadmoor Improvement Association, and current 2020 mayor of the city of New Orleans. Cantrell worked with residents and religious leaders in the community to oppose the plan laid out in the Green Dot Map and prove the viability of the neighborhood, establishing a platform through which neighborhood residents could volunteer or voice their opinions. As part of the planning process, Cantrell facilitated the rebuild and renovation of Andrew H. Wilson Highschool and the reopening of Rosa F. Keller Library. With the reopening of the library came the inaguaration of a new cafe inside it - the defiantly named Green Dot Cafe, a testament to the neighborhood's resiliency and the legacy of the Green Dot Map.  
 ![Broadmoor gif](/conflict_urbanism_sp2020/images/Green Dot Map/Broadmoorphotos.gif)  
 *Source:*   
-![Lower Ninth Ward](/conflict_urbanism_sp2020/images/sample_image.png)  
+#### Lower Ninth Ward 
 The Lower Ninth Ward was one of the hardest hit neighborhoods because its location directly to the industrial canal, which failed during the storm. Not only did the neighborhood sustain huge damage in 2005, but its recovery efforts have been slow and ongoing, and many residents have still been unable to return to their homes, even in 2020.  
 
 Before the storm the neighborhood “was 98% African American, 59% of families owned their homes and more than half of them had no mortgage" (Source, 20XX). Many non-profits and neighborhood groups emerged in 2006 to rebuild after the flood, such as lowernine.org, 9th Ward NENA, and L9WHA, and many of these organizations are still working to rebuild today. lowernine.org explains: “Rebuilding in the Lower Nine has lagged behind that of other neighborhoods as a result of poverty, the scale of the devastation and local, state and federal government inaction. Dealing first with toxic mold, then toxic FEMA trailers and toxic Chinese Sheetrock, then with unscrupulous contractors, insurance and mortgage companies, and finally struggling under a discriminatory governmental recovery program*, it became clear that the Lower Ninth Ward would be much slower to recover than other areas of New Orleans.”   
 ![Lower Ninth Ward 2005](/conflict_urbanism_sp2020/images/Green Dot Map/LowerninthPhotos.gif)  
 *Source:*    
-![Lakeview](/conflict_urbanism_sp2020/images/sample_image.png)  
+#### Lakeview 
 In contrast with Broadmoor and the Lower Ninth Ward, Lakeview was not covered by a Green Dot, though the neighborhood faced extremely high levels of flooding (higher than Broadmoor, and similar to the Lower Ninth Ward). In this predominantly white, middle-to-upper class neighborhood, many neighborhood associations pre-existed Katrina and contributed to the neighborhood redevelopment effort. However, the Lakeview Civic Improvements Association (LCIA), was the most prominent in steering the City’s District 5 recovery plan, issuing a recovery plan which would revitalize greenspace, rebuild private residences, build infrastructure and much more. The plan cost over over $114 Million.
 
 ![Lakeview](/conflict_urbanism_sp2020/images/Green Dot Map/Lakeviewphotos.gif)  
 *Source:*    
+  
 #### Final Thoughts  
 While our research focuses on the implications of the Green Dot for reconstruction of New Orleans after Katrina, there are lessons to be learned for other cities. As natural disasters continue to increase in frequency and intensity as a result of climate change, and urban inhabitants face displacement in their wake, post-disaster planning will only become more pressing. As Rebecca Solnit wrote,  
 
