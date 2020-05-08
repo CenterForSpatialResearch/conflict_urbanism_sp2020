@@ -29,8 +29,10 @@ Next, we will explore the immediate and lasting implications of the map on New O
 - How did recovery vary between neighborhoods, and what role did the Green Dot Map pllay?
 
 #### History of the Green Dot Map  
-![History of Map and the BNOB Committee](/conflict_urbanism_sp2020/images/Green Dot Map/Historicalmaps.gif) While the Green Dot Map first reached the public via the Times-Picayune, its origins lie before the article, in the Urban Planning Committee of the Bring New Orleans Back Commission (BNOBC), a group convened by the mayor, Ray Nagin, to guide the recovery and reconstruction of the city.  
-*Source: BNOBC, Times-Picayune*    
+![History of Map and the BNOB Committee](/conflict_urbanism_sp2020/images/Green Dot Map/Historicalmaps.gif)  
+*Source: BNOBC, Times-Picayune*  
+While the Green Dot Map first reached the public via the Times-Picayune, its origins lie before the article, in the Urban Planning Committee of the Bring New Orleans Back Commission (BNOBC), a group convened by the mayor, Ray Nagin, to guide the recovery and reconstruction of the city.  
+    
 
 An earlier version of the Green Dot Map was created by the BNOBC, a single image in a 69-slide powerpoint presentation titled: “Action Plan for New Orleans: The New American City”. The slides supporting the graphic discussed having parks in every neighborhood, incorporated into the city stormwater management system, and the green dots looked visually quite different - drawn with dashed green lines and no fill.  Though the areas they covered were labeled "areas for future parkland," they were intended to be approximate locations where parks could be incorporated into the neighborhood, not suggestions that entire neighborhoods be replaced by parks. The presentation proposed a series of next steps, in particular to identify properties that could be part of the system and secure funding for “park restoration.”
 
@@ -51,26 +53,28 @@ Richard Campanella, one of the geographers involved in drafting the BNOBC Green 
 
 With the city flooded and in need of stronger flood mitigation strategies, greenspacing provided an attractive rationale for prioritizing the environmental resiliency of the city to withstand future disasters. But what this strategy ignored was how different communities were impacted - that is, who was covered by the green dots? And who would be allowed to return to the city? Or, as Michael Sorkin eloquently wrote:
 
-#### "The idea of a massive, environmentally driven cordon sanitaire has been dropped as a master of planning policy, but the plan is (and perhaps can only be) mute about who, finally will be able to return." (Sorkin, 2014)  
+***"The idea of a massive, environmentally driven cordon sanitaire has been dropped as a master of planning policy, but the plan is (and perhaps can only be) mute about who, finally will be able to return." (Sorkin, 2014)***  
 
 Others have reflected on the Great Footprint Debate in still less benevolent terms, situating the rationale for greenspacing New Orleans in a longer history of racism and racial tension. As Mike Davis wrote:  
 
-#### “In a nutshell, [the Great Footprint Debate] reframed the historical elite desire to shrink New Orleans’s socioeconomic footprint of Black poverty (and Black political power) as a crusade to reduce the city’s physical footprint to contours commensurate with flood safety and a fiscally viable urban infrastructure.” (Davis, 2014)   
+***“In a nutshell, [the Great Footprint Debate] reframed the historical elite desire to shrink New Orleans’s socioeconomic footprint of Black poverty (and Black political power) as a crusade to reduce the city’s physical footprint to contours commensurate with flood safety and a fiscally viable urban infrastructure.” (Davis, 2014)***   
 
 
 #### Citywide Demographic Changes: 2000 to 2010
 ![Change in Total Population 2000 to 2010](/conflict_urbanism_sp2020/images/Green Dot Map/population.gif)  
+  
 Following Hurricane Katrina, New Orleans saw a dramatic decrease of its overall population, from around 483,000 people in 2000, five years before Katrina,to 343,000 in 2010, five years after Katrina. Visualizing these shifts in total population using Census data from 2000 and 2010 shows that population decreases occurred across the city, as people were displaced from their homes and did not or could not return.
 
 Yet while the city shrank in total population size, there was a distinctly racial component to the population change.
 
-#### Change in Black Population: 2000 to 2010
+#### Change in New Orleans' Black Population: 2000 to 2010
 ![Change in Black Population 2000 to 2010](/conflict_urbanism_sp2020/images/Green Dot Map/Change in Black Population.png)  
+
 In 2000, New Orleans over two thirds (67%) of the city was Black. However, five years after Katrina, the number of Black residents who left New Orleans and did not return was disproportionately high - 116,000 of the total 138,000 or 84% of the population lost. So by 2010, the racial demographics of New Orleans had changed significantly. What was once a strongly majority Black city was now around 60% Black.
  
 Layered on top of the racial shift was also a class dimension. Joseph C. Canizaro, a real estate mogul with close ties to Ray Nagin and George Bush, and who had heavy influence in shaping the rebuilding of New Orleans, remarked once:
 
-**“As a practical matter, these poor folks don’t have the resources to go back to our city, just like they didn’t have the resources to get out of our city. So we won’t get all those folks back. That’s not what I want, it’s just a fact.”**
+***“As a practical matter, these poor folks don’t have the resources to go back to our city, just like they didn’t have the resources to get out of our city. So we won’t get all those folks back. That’s not what I want, it’s just a fact.”***
   
 ![Change in Median Income 2000 to 2010](/conflict_urbanism_sp2020/images/Green Dot Map/MedianIncomegif.gif)  
 
@@ -82,29 +86,29 @@ By 2010, five years after Katrina, wealth became more concentrated in a few area
 #### Changes at the Neighborhood Level
  
 In order to understand the impact of the Green Dot Map at the neighborhood level, we will explore three neighborhoods that all saw significant levels of flooding and damage, but have had different recovery trajectories since 2005. Notably, two were covered by green dots in the Green Dot Map (Broadmoor, Lower Ninth Ward), while the third was not (Lakeview). Thus we can not only begin to understand how the green dots had social and political implications in terms of *where* they were placed in the city, but also in terms of their social and political implications for catalyzing neighborhood-level responses.  
-![Case Study Neighborhoods](/conflict_urbanism_sp2020/images/Green Dot Map/CaseStudyNeighborhoodsMap.gif)  
 
+![Case Study Neighborhoods](/conflict_urbanism_sp2020/images/Green Dot Map/CaseStudyNeighborhoodsMap.gif)   
 #### Broadmoor
-Broadmoor is generally regarded as one of the biggest "success stories" of post-Katrina neighborhood recovery, despite its location at the epicenter of New Orleans' crescent and the extensive flooding and damage it endured due to the hurricane. This success has been widely understood as a response to the Green Dot Map, which notably covered the entire Broadmoor neighborhood, and led to a huge community-led planning effort headed by Latoya Cantrell, then president of the Broadmoor Improvement Association, and current 2020 mayor of the city of New Orleans. Cantrell worked with residents and religious leaders in the community to oppose the plan laid out in the Green Dot Map and prove the viability of the neighborhood, establishing a platform through which neighborhood residents could volunteer or voice their opinions. As part of the planning process, Cantrell facilitated the rebuild and renovation of Andrew H. Wilson Highschool and the reopening of Rosa F. Keller Library. With the reopening of the library came the inaguaration of a new cafe inside it - the defiantly named Green Dot Cafe, a testament to the neighborhood's resiliency and the legacy of the Green Dot Map.  
+Broadmoor is generally regarded as one of the biggest "success stories" of post-Katrina neighborhood recovery, despite its location at the epicenter of New Orleans' crescent and the extensive flooding and damage it endured due to the hurricane. This success has been widely understood as a response to the Green Dot Map, which notably covered the entire Broadmoor neighborhood, and led to a huge community-led planning effort headed by Latoya Cantrell, then president of the Broadmoor Improvement Association, and current 2020 mayor of the city of New Orleans. Cantrell worked with residents and religious leaders in the community to oppose the plan laid out in the Green Dot Map and prove the viability of the neighborhood, establishing a platform through which neighborhood residents could volunteer or voice their opinions. As part of the planning process, Cantrell facilitated the rebuild and renovation of Andrew H. Wilson Highschool and the reopening of Rosa F. Keller Library. With the reopening of the library came the inaguaration of a new cafe inside it - the defiantly named Green Dot Cafe, a testament to the neighborhood's resiliency and the legacy of the Green Dot Map.   
 ![Broadmoor gif](/conflict_urbanism_sp2020/images/Green Dot Map/Broadmoorphotos.gif)  
-Source:  
+*Source:* 
 
 #### Lower Ninth Ward 
 The Lower Ninth Ward was one of the hardest hit neighborhoods because its location directly to the industrial canal, which failed during the storm. Not only did the neighborhood sustain huge damage in 2005, but its recovery efforts have been slow and ongoing, and many residents have still been unable to return to their homes, even in 2020.  
 
 Before the storm the neighborhood “was 98% African American, 59% of families owned their homes and more than half of them had no mortgage" (Source, 20XX). Many non-profits and neighborhood groups emerged in 2006 to rebuild after the flood, such as lowernine.org, 9th Ward NENA, and L9WHA, and many of these organizations are still working to rebuild today. lowernine.org explains: “Rebuilding in the Lower Nine has lagged behind that of other neighborhoods as a result of poverty, the scale of the devastation and local, state and federal government inaction. Dealing first with toxic mold, then toxic FEMA trailers and toxic Chinese Sheetrock, then with unscrupulous contractors, insurance and mortgage companies, and finally struggling under a discriminatory governmental recovery program*, it became clear that the Lower Ninth Ward would be much slower to recover than other areas of New Orleans.”   
 ![Lower Ninth Ward 2005](/conflict_urbanism_sp2020/images/Green Dot Map/LowerninthPhotos.gif)  
-Source:   
+*Source:*   
 #### Lakeview 
 In contrast with Broadmoor and the Lower Ninth Ward, Lakeview was not covered by a Green Dot, though the neighborhood faced extremely high levels of flooding (higher than Broadmoor, and similar to the Lower Ninth Ward). In this predominantly white, middle-to-upper class neighborhood, many neighborhood associations pre-existed Katrina and contributed to the neighborhood redevelopment effort. However, the Lakeview Civic Improvements Association (LCIA), was the most prominent in steering the City’s District 5 recovery plan, issuing a recovery plan which would revitalize greenspace, rebuild private residences, build infrastructure and much more. The plan cost over over $114 Million.
 
 ![Lakeview](/conflict_urbanism_sp2020/images/Green Dot Map/Lakeviewphotos.gif)  
-Source:   
+*Source:*  
   
 #### Concluding Thoughts  
 While our research focuses on the implications of the Green Dot for reconstruction of New Orleans after Katrina, there are lessons to be learned for other cities. As Rebecca Solnit wrote,  
 
-**"“The American Society of Civil Engineers said in 2007 that the U.S. had fallen so far behind in maintaining its public infrastructure—roads, bridges, schools, dams—that it would take more than a trillion and a half dollars over five years to bring it back up to standard. Instead these types of expenditures are being cut back. At the same time, public infrastructure around the world is facing unprecedented stress, with hurricanes, cyclones, floods, and forest fires all increasing in frequency and intensity. It’s easy to imagine a future in which growing numbers of cities have their frail and long-neglected infrastructures knocked out by disasters and then are left to rot, their core services never repairs or rehabilitated. The well-off, meanwhile, will withdraw into gated communities, their needs met by privatized providers.”" (Solnit 2014)**  
+***"The American Society of Civil Engineers said in 2007 that the U.S. had fallen so far behind in maintaining its public infrastructure—roads, bridges, schools, dams—that it would take more than a trillion and a half dollars over five years to bring it back up to standard. Instead these types of expenditures are being cut back. At the same time, public infrastructure around the world is facing unprecedented stress, with hurricanes, cyclones, floods, and forest fires all increasing in frequency and intensity. It’s easy to imagine a future in which growing numbers of cities have their frail and long-neglected infrastructures knocked out by disasters and then are left to rot, their core services never repairs or rehabilitated. The well-off, meanwhile, will withdraw into gated communities, their needs met by privatized providers.” (Solnit 2014)***  
 
 As natural disasters continue to increase in frequency and intensity as a result of climate change, and urban inhabitants face displacement in their wake, post-disaster planning will only become more pressing.
 
