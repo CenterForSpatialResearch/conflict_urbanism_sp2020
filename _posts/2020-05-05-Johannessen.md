@@ -29,10 +29,11 @@ Next, we will explore the immediate and lasting implications of the map on New O
 - How did recovery vary between neighborhoods, and what role did the Green Dot Map pllay?
 
 #### History of the Green Dot Map  
-![History of Map and the BNOB Committee](/conflict_urbanism_sp2020/images/Green Dot Map/Historicalmaps.gif)  
-*Source: BNOBC, Times-Picayune*  
+ 
 While the Green Dot Map first reached the public via the Times-Picayune, its origins lie before the article, in the Urban Planning Committee of the Bring New Orleans Back Commission (BNOBC), a group convened by the mayor, Ray Nagin, to guide the recovery and reconstruction of the city.  
-    
+
+![History of Map and the BNOB Committee](/conflict_urbanism_sp2020/images/Green Dot Map/Historicalmaps.gif)  
+*Source: BNOBC, Times-Picayune*     
 
 An earlier version of the Green Dot Map was created by the BNOBC, a single image in a 69-slide powerpoint presentation titled: “Action Plan for New Orleans: The New American City”. The slides supporting the graphic discussed having parks in every neighborhood, incorporated into the city stormwater management system, and the green dots looked visually quite different - drawn with dashed green lines and no fill.  Though the areas they covered were labeled "areas for future parkland," they were intended to be approximate locations where parks could be incorporated into the neighborhood, not suggestions that entire neighborhoods be replaced by parks. The presentation proposed a series of next steps, in particular to identify properties that could be part of the system and secure funding for “park restoration.”
 
@@ -47,17 +48,19 @@ However, while the initial Green Dot map was intended to be more provisional tha
 
 As New Orleans worked to recover from the devastation left in Katrina's wake, it was left with the difficult task of envisioning its future. With much of the city flooded, damaged, or destroyed, the city had to face the question: how should New Orleans be rebuilt and what would that process look like?  
 
-Richard Campanella, one of the geographers involved in drafting the BNOBC Green Dot Map, explained the core question shaping this reconstruction process, which ultimately led to the vision articulated in the Green Dot Map: "should the entire city be restored...or should the city shrink its urban footprint, rebuilding on higher ground and depopulating far-flug, heavily damaged neighborhoods so that as "green space" they may buffer the urban core future storms?" (Campanella 2015)
+Richard Campanella, one of the geographers involved in drafting the BNOBC Green Dot Map, explained the core question shaping this reconstruction process, which ultimately led to the vision articulated in the Green Dot Map:  
+
+***"Should the entire city be restored...or should the city shrink its urban footprint, rebuilding on higher ground and depopulating far-flug, heavily damaged neighborhoods so that as "green space" they may buffer the urban core future storms?" (Campanella 2015)***
 
 “Greenspacing” had by this time gained favor among environmentally conscious types nationwide… Planners, ecologists, and geographers lectured on the dangers of hardening fluvial deltas with structural solutions, such as levees and canals, and the benefits of softening the urban periphery with multiple lines of defense. Tactics in that strategy included a vast apron of wetlands integrated with non-structural solutions, such as living in higher density on higher ground and building on piers above the grade. (Campanella, 2015)
 
 With the city flooded and in need of stronger flood mitigation strategies, greenspacing provided an attractive rationale for prioritizing the environmental resiliency of the city to withstand future disasters. But what this strategy ignored was how different communities were impacted - that is, who was covered by the green dots? And who would be allowed to return to the city? Or, as Michael Sorkin eloquently wrote:
 
-***"The idea of a massive, environmentally driven cordon sanitaire has been dropped as a master of planning policy, but the plan is (and perhaps can only be) mute about who, finally will be able to return." (Sorkin, 2014)***  
+***"The idea of a massive, environmentally driven cordon sanitaire has been dropped as a master of planning policy, but the plan is (and perhaps can only be) mute about who, finally will be able to return." (Sorkin 2014)***  
 
 Others have reflected on the Great Footprint Debate in still less benevolent terms, situating the rationale for greenspacing New Orleans in a longer history of racism and racial tension. As Mike Davis wrote:  
 
-***“In a nutshell, [the Great Footprint Debate] reframed the historical elite desire to shrink New Orleans’s socioeconomic footprint of Black poverty (and Black political power) as a crusade to reduce the city’s physical footprint to contours commensurate with flood safety and a fiscally viable urban infrastructure.” (Davis, 2014)***   
+***“In a nutshell, [the Great Footprint Debate] reframed the historical elite desire to shrink New Orleans’s socioeconomic footprint of Black poverty (and Black political power) as a crusade to reduce the city’s physical footprint to contours commensurate with flood safety and a fiscally viable urban infrastructure.” (Davis 2014)***   
 
 
 #### Citywide Demographic Changes: 2000 to 2010
@@ -70,9 +73,9 @@ Yet while the city shrank in total population size, there was a distinctly racia
 #### Change in New Orleans' Black Population: 2000 to 2010
 ![Change in Black Population 2000 to 2010](/conflict_urbanism_sp2020/images/Green Dot Map/Change in Black Population.png)  
 
-In 2000, New Orleans over two thirds (67%) of the city was Black. However, five years after Katrina, the number of Black residents who left New Orleans and did not return was disproportionately high - 116,000 of the total 138,000 or 84% of the population lost. So by 2010, the racial demographics of New Orleans had changed significantly. What was once a strongly majority Black city was now around 60% Black.
+In 2000, over two thirds (67%) of the New Orleans was Black. But five years after Katrina, as thousands of residents left the city and were not able to return, New Orleans experienced a disproportionately high loss of Black residents. Of the total 138,000 people who did not return to the city by 2010, 116,000, or 84%, were Black. Five years after Katrina, the racial demographics of New Orleans had changed significantly - what was once a strongly majority Black city was now around 60% Black.
  
-Layered on top of the racial shift was also a class dimension. Joseph C. Canizaro, a real estate mogul with close ties to Ray Nagin and George Bush, and who had heavy influence in shaping the rebuilding of New Orleans, remarked once:
+Layered on top of the racial shift was also a class dimension. Joseph C. Canizaro, a real estate mogul with close ties to Ray Nagin and George Bush, and who had heavy influence in shaping the rebuilding of New Orleans, remarked:
 
 ***“As a practical matter, these poor folks don’t have the resources to go back to our city, just like they didn’t have the resources to get out of our city. So we won’t get all those folks back. That’s not what I want, it’s just a fact.”***
   
