@@ -10,7 +10,7 @@ Midterm - Final Project Outline
 
 For the purposes of the Conflict Urbanism Final Project, we intend to look at the Israeli settlement Har Homa through a lens of infrapolitics and the urbanization of warfare, exploring these concepts spatially in the context of Israeli occupation through the example of Har Homa. Conceived by former Israeli Prime Minister Yitzhak Rabin in the first half of the 1990s (Rosen, 2012, p. 36), *Har Homa* is situated on a hilltop in the southern parts of East Jerusalem - and is also referred to as Jabal Abu Ghneim. The settlement was particularly controversial from its inception, owing in part to the fact that it in part was built on Palestinian expropriated land (Greenberg, 1997).
 
-![Jabal Abu Ghneim](/har_homa_images_for_site/har_homa_2.jpg)
+![Jabal Abu Ghneim](images/har_homa_2.jpg)
 
 Building on a solid theoretical underpinning - notably through Eyal Weizman’s theory of optical urbanism, and the notion of bypass urbanism, our project aims contextualize the conversation around these concepts in regard to the continued presence of **Israeli settlements** in the West Bank. Har Homa’s location on a hilltop, the topology of which is clearly mirrored in its urban layout, makes it a particularly appropriate example to illustrate the anatomy of an Israeli settlement. We aim to explore Har Homa through a topographical 3D modeling of the settlement, using it as the tool to expose underlying infrastructural connections between it and the wider Israeli settlement apparatus - as well as vis-à-vis Israel proper. We seek to address, among other things, transport links, water supply, and electrical grids - both on a systemic scale, as well as on a micro-scale pertaining to local conditions in the settlement.
 
