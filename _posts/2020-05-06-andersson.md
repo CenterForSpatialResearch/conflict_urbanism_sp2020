@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-08
-image: "/har_homa_images_for_site/thumbnail.png"
+image: "/conflict_urbanism_sp2020/images/har_homa_images_for_site/thumbnail.png"
 title: "Har Homa: Exploring the Infrastructure(s) of an Israeli settlement"
 author: "Massimiliano Malago & Sebastian Andersson"
 ---
