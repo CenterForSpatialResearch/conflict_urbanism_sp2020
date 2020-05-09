@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-08
-image: "conflict_urbanism_sp2020/images/har_homa_images_for_site/thumbnail.png"
+image: "/images/har_homa_images_for_site/thumbnail.png"
 title: "Har Homa: Exploring the Infrastructure(s) of an Israeli settlement"
 author: "Massimiliano Malago & Sebastian Andersson"
 ---
@@ -40,7 +40,7 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
-![description of image](/conflict_urbanism_sp2020/images/sample_image.png)
+![description of image](/conflict_urbanism_sp2020/images/har_homa_2.jpg)
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
