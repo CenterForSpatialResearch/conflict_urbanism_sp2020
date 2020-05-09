@@ -40,7 +40,7 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
-![description of image](/conflict_urbanism_sp2020/images/har_homa_2.jpg)
+![har homa](/images/har_homa_images_for_site/har_homa_2.jpg)
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
@@ -126,6 +126,16 @@ References
 Efrat, Z. (2018). The Object of Zionism. Leipzig: Spector Books.
 
 Howe, K. (1997). Revealing the Holy Land : the photographic exploration of Palestine. Santa Barbara, CA: University of California Press, 37.
+
+Institute for Palestine Studies. (1997). Peace Monitor: 16 February-15 May 1997, Journal of Palestine Studies, 26(4), pp. 126-137
+
+Kaminker, S. (1997). For Arabs Only: Building Restrictions in East Jerusalem, Journal of Palestine Studies, 26(4), pp. 5-16
+
+Lipschits, O., Gadot, Y., Arubas, B. & Oeming, M. (2011). Palace and Village, Paradise and Oblivion: Unraveling the Riddles of Ramat Rahel, Near Eastern Archaeology, 74(1), pp. 1-49
+
+Segal, R. & Weizman, E. (2003). A Civilian Occupation: The Politics of Israeli Architecture. Verso Books.
+
+The Palestine Exploration Fund. (1888). The Survey of Western Palestine - A General Index. London: Harrison & Sons, 86.
 
 Institute for Palestine Studies. (1997). Peace Monitor: 16 February-15 May 1997, Journal of Palestine Studies, 26(4), pp. 126-137
 
