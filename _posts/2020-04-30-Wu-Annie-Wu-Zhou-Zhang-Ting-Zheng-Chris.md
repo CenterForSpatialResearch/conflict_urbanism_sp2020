@@ -120,7 +120,8 @@ Despite the outsized energy generation, there’s a huge gap between the demand 
 There are 4.1 million households with no power access in Mozambique. The current access rate for residence is 29%. This number is 57% in urban areas and 15% in rural areas, yet only 36.5% of the country’s people live in a city.
 
 &nbsp;
-<iframe frameborder="0" class="juxtapose" width="100%" height="3132" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=858c6230-9313-11ea-a879-0edaf8f81e27"></iframe>
+
+<iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=858c6230-9313-11ea-a879-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" ></iframe>
 
 &nbsp;
 &nbsp;
