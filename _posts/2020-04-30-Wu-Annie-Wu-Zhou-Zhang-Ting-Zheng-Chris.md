@@ -19,8 +19,8 @@ Moreover, In terms of annual profits, most of the highest value-creating ones do
 
 
 <iframe frameborder="0" width="100%" height="900" src="https://tz2436.github.io/ExtractiveUrbanism/index.html"></iframe>
+***<center>Net Profits and Nationalities of Large Mining Companies</center>***
 &nbsp;
-<center>***Net Profits and Nationalities of Large Mining Companies***</center>
 &nbsp;
 &nbsp;
 
