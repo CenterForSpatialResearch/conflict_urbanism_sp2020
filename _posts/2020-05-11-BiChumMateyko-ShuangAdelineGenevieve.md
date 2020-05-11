@@ -10,7 +10,7 @@ author: "Adeline Chum, Genevieve Mateyko, Shuang Bi"
 
 **Covid-19 and the Coastal GasLink Pipeline: Construction Continues**  
 
-![LNG import was confined to Japan up until the 1980s, before slowly expanding in the following decades.](/conflict_urbanism_sp2020/images/CoastalGaslink/Cover.jpg)  
+![LNG import was confined to Japan up until the 1980s, before slowly expanding in the following decades.](../images/CoastalGaslink/Cover.jpg)  
 
 <div align="center"><i> CGL continues to clear pipeline route amidst COVID-19 pandemic (Source: 2020)</i></div>   
 
