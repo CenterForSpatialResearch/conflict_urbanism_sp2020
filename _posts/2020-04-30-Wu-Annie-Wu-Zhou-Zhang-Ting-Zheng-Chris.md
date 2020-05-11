@@ -6,9 +6,6 @@ title:  "Extractive Urbanism: Social and Territorial Fragmentation in Mozambibqu
 author: "Annie Wu, Chris Zheng, Ting Zhang, Zhou Wu"
 ---
 Mozambique’s booming extractive industries have spurred the country’s making of modernity in the post civil war era. Through the lens of urbanism - urban development, foreign investments, infrastructure construction, settlements and resettlements, etc. - this project looks at how the extractive boom is building the country’s economy while characterizing it with spatial and socio economic fragmentation across the national territory.
-&nbsp;
-&nbsp;
-&nbsp;
 
 #### **Introduction**  
 
@@ -26,13 +23,13 @@ Moreover, In terms of annual profits, most of the highest value-creating ones do
 &nbsp;
 
 #### **City Scale Research | Moatize, Tete Province, Mozambique**  
-##### **Brief Introduction of Coal Mining**  
+**Brief Introduction of Coal Mining**  
 In Mozambique, coal mining is the fastest growing industrial segment. Significant reserves of coking coal have been discovered in the Tete province, which have attracted numbers of prominent foreign mining companies. According to Business Monitor International Report, coal production in Mozambique has been rapidly increasing since 2009. And make Mozambique itself rank among the top 10 largest coal production and export countries in the world.
 
 ![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.jpg)
 &nbsp;
 
-## **Foreign Investment in Coal Related Infrastructure**  
+**Foreign Investment in Coal Related Infrastructure**  
 Not only focusing on the development of mines in the country, key infrastructure would also be invested and constructed to facilitate export of mining commodities. There are two developing railroad projects which Brazilian Company Vale Mining has invested— the Sena railroad project and the Nacala corridor. Both are mainly serving for transporting coal or other products for export from the Moatize mine to the seaport like City Beira and Nacala for exports, instead of passenger use.
 
 ![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_01.jpg)  
