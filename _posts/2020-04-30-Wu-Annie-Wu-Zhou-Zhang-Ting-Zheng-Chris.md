@@ -6,6 +6,9 @@ title:  "Extractive Urbanism: Social and Territorial Fragmentation in Mozambibqu
 author: "Annie Wu, Chris Zheng, Ting Zhang, Zhou Wu"
 ---
 Mozambique’s booming extractive industries have spurred the country’s making of modernity in the post civil war era. Through the lens of urbanism - urban development, foreign investments, infrastructure construction, settlements and resettlements, etc. - this project looks at how the extractive boom is building the country’s economy while characterizing it with spatial and socio economic fragmentation across the national territory.
+&nbsp;
+&nbsp;
+&nbsp;
 
 #### **Introduction**  
 
@@ -23,7 +26,7 @@ Moreover, In terms of annual profits, most of the highest value-creating ones do
 &nbsp;
 
 #### **City Scale Research | Moatize, Tete Province, Mozambique**  
-## **Brief Introduction of Coal Mining**  
+###### **Brief Introduction of Coal Mining**  
 In Mozambique, coal mining is the fastest growing industrial segment. Significant reserves of coking coal have been discovered in the Tete province, which have attracted numbers of prominent foreign mining companies. According to Business Monitor International Report, coal production in Mozambique has been rapidly increasing since 2009. And make Mozambique itself rank among the top 10 largest coal production and export countries in the world.
 
 ![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.jpg)
@@ -127,8 +130,11 @@ But as a major source of revenue income, annually 70% of the dam’s output has 
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-#### **Reference:**  
+#### **References:**  
 1. Amanam, Usua, “Natural Gas in East Africa: Domestic and Regional Use”, Stanford University, 2017.
 1. Kirshner, Joshua, Marcus Power, “Mining and extractive urbanism: Post Development in a Mozambican boomtown”, Geoforum, 61 (2015) 67–78.
 1. Noorloos, Femke, Marjan Kloosterboer, “Africa’s new cities: The contested future of urbanization” Urban Studies. 55(2018): 1223–1241.
