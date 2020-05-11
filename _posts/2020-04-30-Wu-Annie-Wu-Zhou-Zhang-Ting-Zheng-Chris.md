@@ -19,7 +19,7 @@ Moreover, In terms of annual profits, most of the highest value-creating ones do
 
 test
 
-<div class="iframe-column"><iframe src="https://tz2436.github.io/ExtractiveUrbanism/index.html" style="position:absolute;top:0;left:0;width:100%;height:'2400';display:block" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://tz2436.github.io/ExtractiveUrbanism/index.html" style="position:absolute;top:0;left:0;width:100%;height:'2400';" frameborder="0"></iframe></div>
 &nbsp;
 &nbsp;
 &nbsp;
