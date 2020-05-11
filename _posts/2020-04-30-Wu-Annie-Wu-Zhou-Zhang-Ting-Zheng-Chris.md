@@ -54,13 +54,13 @@ Finally we come to Moatize, which is a district of Tete Province. Almost all of 
 **Resettlement**  
 Vale Mining and Rio Tinto are major extraction companies which have been producing coal from the Moatize mine since 2011, and planned to have further expansion.// Due to the current extraction and expansion, many families have been displaced. Over a thousand families resettled approximately 60 km away from the Moatize coal mining site.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_04_Gif.gif)  
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_04.gif)  
 
 **Complaints**  
 The local population of Tete province has suffered from the coal boom, since large-scale resettlements have been taking place since 2009. As a consequence, the communities have faced disruptions in accessing food, water and work.  
 Living conditions have decreased drastically, as many farming households who had “previously been living along a river” and were therefore “self-sufficient”, have now been resettled to sites far away from the markets in Moatize, with agricultural land of  “uneven quality and unreliable access to water”. “Food insecurity and dependence on food assistance” provided by the mining companies has become a serious issue for the families.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06_Gif.gif)
+![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.gif)
 
 &nbsp;
 
