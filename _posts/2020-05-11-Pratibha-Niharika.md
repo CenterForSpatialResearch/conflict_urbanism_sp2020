@@ -84,7 +84,9 @@ Pakistan is an agrarian economy, with over 90% of harvests within the country de
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/Final Kashmor landsat compiled.jpg)  
 &nbsp;
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="450" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=40b18eda-93de-11ea-a879-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="600" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=04e6b2e2-93e1-11ea-a879-0edaf8f81e27"></iframe>
+
+<iframe frameborder="0" class="juxtapose" width="100%" height="600" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4acf205a-93e1-11ea-a879-0edaf8f81e27"></iframe>
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/borderlandsat.jpg)  
 &nbsp;
