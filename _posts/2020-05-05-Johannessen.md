@@ -12,7 +12,7 @@ On January 11th, 2006, the Times-Picayune ran an article that would dramatically
 ![The Green Dot Map](/conflict_urbanism_sp2020/images/Green Dot Map/Times-Picayune-medium.png)  
 *Source: ResearchGate*  
   
-**4 MONTHS TO DECIDE,** blared the  headline: **“Nagin panel says hardest hit areas must prove viability.”** The accompanying subtitles read "City's footprint may shrink" and "Full buyouts for those forced to move."
+**"4 MONTHS TO DECIDE,"** blared the  headline: **“Nagin panel says hardest hit areas must prove viability.”** The accompanying subtitles read "City's footprint may shrink" and "Full buyouts for those forced to move."
 
 Thus, the infamous "Green Dot Map" entered the local lexicon, and for thousands of displaced New Orleanians, "this map represented the graphic manifestation of their worst fears of losing their homes and the right to return to their neighborhoods." (Lamb 2019)
 
