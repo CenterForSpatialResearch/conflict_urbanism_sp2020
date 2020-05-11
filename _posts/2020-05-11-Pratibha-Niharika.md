@@ -46,7 +46,7 @@ On Feb 20 2019, India announced the decision to block the flow of water from thr
   <br/>
   <br/>
   <br/>
-![description of image](/conflict_urbanism_sp2020/images/Hydropolitics/_FINAL_Catalog_Dam_GIF.gif)  
+![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/_FINAL_Catalog_Dam_GIF.gif)  
 &nbsp;
 
 #### Water as Conflict
@@ -75,8 +75,11 @@ For Pakistan, with its semi-arid climate and erratic rainfall patterns that get 
 
 
 The dependence on the Indus for irrigation dates back to the early civilizations of Mohenjodaro and Harappa. These systems were transformed by modern engineering work in the 1850s and further expanded and upgraded under the British occupation of India, into the largest and most complex canal irrigation system in the world. The attribution for most of this comprehensive infrastructure is given to Sir Arthur Cotton, who believed that in order to properly utilize the fluvial resource, it was important “to establish canals for irrigation wherever they were practicable, and to supersede rain and well-water by river water, which carried with it fertilizing matter greatly augmenting its value as compared with all other water.”
+
 Pakistan is an agrarian economy, with over 90% of harvests within the country depending on this extensive canal network, which spans over an area of 36 million acres. According to Pakistan Economic Survey data, the agriculture sector of the country employs 42% of the entire labour force of the nation, which evidently illustrates the importance of the water sources from the Indus for the country. 
 
+![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/Final Kashmor landsat compiled.jpg)  
+&nbsp;
 
 #### Case Study: Kaveri River
 
