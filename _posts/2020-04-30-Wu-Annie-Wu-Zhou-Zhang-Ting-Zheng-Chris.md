@@ -17,7 +17,6 @@ Nearly 70 percent of capital flows in exports come from the mining and mining su
 
 Moreover, In terms of annual profits, most of the highest value-creating ones do not belong to Mozambicans. For the largest aluminum mining company Mozal in Mozambique, “Initial investment in Mozal amounted to 40% of GDP but only created around 1,500 direct jobs, with nearly one third held by foreigners”, and “it is estimated that from the US$1.2 billion revenue posted per year, only US$200 million enters the Mozambican economy ”. And the ratio of Mozambican people living under the basic poverty line is a stunning 46.1 percent.
 
-test8
 
 <iframe frameborder="0" width="100%" height="900" src="https://tz2436.github.io/ExtractiveUrbanism/index.html"></iframe>
 &nbsp;
