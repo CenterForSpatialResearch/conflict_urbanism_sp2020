@@ -46,7 +46,7 @@ On Feb 20 2019, India announced the decision to block the flow of water from thr
   <br/>
   <br/>
   <br/>
-![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/_FINAL_Catalog_Dam_GIF.gif)  
+![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/Compressed_FINAL_Catalog_Dam_GIF.gif)  
 &nbsp;
 
 #### Water as Conflict
