@@ -80,7 +80,7 @@ Pakistan is an agrarian economy, with over 90% of harvests within the country de
 
 #### Case Study: Kaveri River
 
-<div class="iframe-column"><iframe src="http://www.arcgis.com/apps/MapJournal/index.html?appid=27f210f1ba314d2e8cab294c724abba8" style="position:absolute;top:0;left:-175;width:150%;height:800px;" frameborder="0" scrolling="no"></iframe></div>
+<div class="iframe-column"><iframe src="https://www.arcgis.com/apps/MapJournal/index.html?appid=27f210f1ba314d2e8cab294c724abba8" style="position:absolute;top:0;left:-175;width:150%;height:800px;" frameborder="0" scrolling="no"></iframe></div>
 
   <br/>
   <br/>
