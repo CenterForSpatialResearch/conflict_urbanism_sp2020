@@ -46,8 +46,8 @@ On Feb 20 2019, India announced the decision to block the flow of water from thr
   <br/>
   <br/>
   <br/>
-
-
+![description of image](/conflict_urbanism_sp2020/images/Hydropolitcs/_FINAL_Catalog_Dam_GIF.gif)  
+&nbsp;
 
 #### Water as Conflict
 
