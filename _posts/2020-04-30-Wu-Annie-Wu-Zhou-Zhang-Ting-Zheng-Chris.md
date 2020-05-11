@@ -7,7 +7,7 @@ author: "Annie Wu, Chris Zheng, Ting Zhang, Zhou Wu"
 ---
 Mozambique’s booming extractive industries have spurred the country’s making of modernity in the post civil war era. Through the lens of urbanism - urban development, foreign investments, infrastructure construction, settlements and resettlements, etc. - this project looks at how the extractive boom is building the country’s economy while characterizing it with spatial and socio economic fragmentation across the national territory.
 
-#### **Introduction**  
+#### **Overview**  
 
 The conflict this project addresses is extractive urbanism, a model for the development of new cities. Many places rich in natural resources have reaped great benefits by simply exploiting and exporting themselves. Urban construction of these places is aiming to reinforce this low-cost money-making cycle, called extractive urbanism.
 
@@ -98,7 +98,6 @@ Apart from the loss of livelihoods, there are also rising security concerns abou
 
 #### **Infrastructure Research | Cahora Bassa Dam**  
 Similar to the extraction industries, large-scale supporting infrastructures in Mozambique are often built by foreign capitals. They are mostly done as a point-to-point model, in favor of lowering the cost of transportation and export of the extracted resources, thus often flying through a great area of territory without any connection to the surroundings.  
-&nbsp;
 
 **Power Generation and Distribution**  
 The electricity system is one of the examples. In 2014, the country generated 2,626 MW electricity, of which 79% are contributed by the hydropower at Cahora Bassa dam in Tete Province. At 187 gigawatts, Mozambique has the largest power generation potential in Southern Africa from untapped coal, hydro, gas, wind and solar resources. Mozambique is a major exporter of hydropower, coal and natural gas, with the aim of becoming southern Africa’s energy hub.
