@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-05-11
-image: "/conflict_urbanism_sp2020/images/CostaslGaslink/Cover_rcm_unistoten.jpg"
+image: "/conflict_urbanism_sp2020/images/CoastalGaslink/Cover_rcm_unistoten.jpg"
 title:  "Global GasLink: The Right to Land, from First Nations to Multinational Corporations"
 author: "Adeline Chum, Genevieve Mateyko, Shuang Bi"
 ---
@@ -37,7 +37,7 @@ The Gidimtâ€™en Access Checkpoint, 20 kilometers (12.5 miles) east of the Unistâ
 
 The proposed terminus point for the Coastal GasLink pipeline is at a Northern coastal town in British Columbia called Kitimat, founded in 1953 by an aluminum manufacturing company. The port town is home to less than 9,000 residents, including members of the nearby Haisla First Nation, after which the town is named: Kitimaat. The town itself, while being host to a lucrative international port of trade, suffers from distinct social and economic equalities. Kitimat endures frequent boil water advisories, which prevents residents from safely drinking their own tap water, in addition to ongoing environmental pollution caused by local industries. The threat of tanker spills and burst pipelines hangs in the air with the recently proposed Coastal GasLink pipeline project.
 
-![Pop Up Worker Camps along Pipeline](../images/CoastalGaslink/LNG_workcamps.jpg)
+![Pop Up Worker Camps along Pipeline](/conflict_urbanism_sp2020/images/CoastalGaslink/LNG_workcamps.jpg)
 <div align="center"><i>Cedar Valley Lodge is first of two temporary dormitories to be constructed in the LNG Kitimat camp. (Source: LNG Canada, 2019)</i></div>  
 
 <br/>
@@ -45,7 +45,7 @@ The proposed terminus point for the Coastal GasLink pipeline is at a Northern co
 
 <div align="center"> <b>Kitimat's Liquification Natural Gas Terminal</b></div>  
 
-<!-- ![Kitimat LNG Satellite](conflict_urbanism_sp2020/images/CoastalGaslink/Kitimaat.jpg)   -->
+<!-- ![Kitimat LNG Satellite](/conflict_urbanism_sp2020/images/CoastalGaslink/Kitimaat.jpg)   -->
 <!-- <div align="center"><i> </i></div>   -->
 
 <br/>
