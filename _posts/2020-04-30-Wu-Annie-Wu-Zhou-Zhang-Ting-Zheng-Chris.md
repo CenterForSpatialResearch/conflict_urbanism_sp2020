@@ -17,7 +17,7 @@ Nearly 70 percent of capital flows in exports come from the mining and mining su
 
 Moreover, In terms of annual profits, most of the highest value-creating ones do not belong to Mozambicans. For the largest aluminum mining company Mozal in Mozambique, “Initial investment in Mozal amounted to 40% of GDP but only created around 1,500 direct jobs, with nearly one third held by foreigners”, and “it is estimated that from the US$1.2 billion revenue posted per year, only US$200 million enters the Mozambican economy ”. And the ratio of Mozambican people living under the basic poverty line is a stunning 46.1 percent.
 
-test7
+test8
 
 <iframe frameborder="0" width="100%" height="800" src="https://tz2436.github.io/ExtractiveUrbanism/index.html"></iframe>
 &nbsp;
@@ -114,7 +114,7 @@ Despite the outsized energy generation, there’s a huge gap between the demand 
 
 There are 4.1 million households with no power access in Mozambique. The current access rate for residence is 29%. This number is 57% in urban areas and 15% in rural areas, yet only 36.5% of the country’s people live in a city.
 
-<iframe frameborder="0" width="100%" height="100%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=858c6230-9313-11ea-a879-0edaf8f81e27"></iframe>
+<iframe frameborder="0" width="100%" height="900" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=858c6230-9313-11ea-a879-0edaf8f81e27"></iframe>
 &nbsp;
 
 **Cahora Bassa | Inbalanced Energy Distribution**  
