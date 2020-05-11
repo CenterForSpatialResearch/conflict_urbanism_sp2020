@@ -121,7 +121,7 @@ There are 4.1 million households with no power access in Mozambique. The current
 
 &nbsp;
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="3132" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=858c6230-9313-11ea-a879-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="2132" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=858c6230-9313-11ea-a879-0edaf8f81e27"></iframe>
 
 **Cahora Bassa | Inbalanced Energy Distribution**  
 At the heart of Mozambique’s energy system is Cahora Bassa, the giant hydroelectric dam on the Zambezi River in Tete province, opened in 1977. As a colonial legacy, this project is ﬁnanced by foreign investors and the guaranteed sale of electricity to South Africa at below-market prices, in exchange for its support in the colonial war.
