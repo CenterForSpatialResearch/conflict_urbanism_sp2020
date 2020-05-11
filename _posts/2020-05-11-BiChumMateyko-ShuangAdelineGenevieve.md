@@ -12,7 +12,9 @@ author: "Adeline Chum, Genevieve Mateyko, Shuang Bi"
 
 ![LNG import was confined to Japan up until the 1980s, before slowly expanding in the following decades.](/conflict_urbanism_sp2020/images/CoastalGaslink/Cover.jpg)  
 
-<div align="center"><i> CGL continues to clear pipeline route amidst COVID-19 pandemic (Source: 2020)</i></div>   
+<div align="center"><i> CGL continues to clear pipeline route amidst COVID-19 pandemic (Source: 2020) <i></div>  
+
+<div align="center"><i> CGL continues to clear pipeline route amidst COVID-19 pandemic (Source: 2020) <i></div>
 
 <br/>
 
@@ -26,8 +28,8 @@ While protests have stopped due to the pandemic, pipelines have been deemed by t
 
 **Gidimt’en Checkpoint: Access Point to the Wet’suwet’en lands**  
 
-![Wetsuweten Protest Bridge](../images/CoastalGaslink/RCMP_Blockade.jpg)  
-<div align="center"><i>Unistoten Blockade On Feb. 10, 2020 (Source:  2020)</i></div>   
+![Wetsuweten Protest Bridge](/conflict_urbanism_sp2020/images/CoastalGaslink//RCMP_Blockade.jpg)  
+<div align="center"><i> Unistoten Blockade On Feb. 10, 2020 (Source:  2020) </i></div>   
 
 <br/>
 
@@ -43,7 +45,7 @@ The proposed terminus point for the Coastal GasLink pipeline is at a Northern co
 <br/>
 
 
-<div align="center"> <b>Kitimat's Liquification Natural Gas Terminal</b></div>  
+<div align="center"><b> Kitimat's Liquification Natural Gas Terminal </b></div>  
 
 <!-- ![Kitimat LNG Satellite](/conflict_urbanism_sp2020/images/CoastalGaslink/Kitimaat.jpg)   -->
 <!-- <div align="center"><i> </i></div>   -->
@@ -69,7 +71,7 @@ Canada has historically relied on the United States as the number one importer o
 
 At the same time, Asian demand for oil has been increasing exponentially, with China being a particularly fast-growing market. As China moves away from coal-powered energy towards “cleaner” energy resources, Canada’s attention has been held captive by Asian markets seeking oil and gas imports. As imports of LNG decrease in the United States, Canada’s exports have correlated in a decrease as well, leaving the industry scrambling to find new customers to maintain economic feasibility.
 
-![LNG import was confined to Japan up until the 1980s, before slowly expanding in the following decades.](../images/CoastalGaslink/GlobalMap_Combined.gif)
+![LNG import was confined to Japan up until the 1980s, before slowly expanding in the following decades.](/conflict_urbanism_sp2020/images/CoastalGaslink/GlobalMap_Combined.gif)
 <div align="center"> <i>LNG import was confined to Japan up until the 1980s, before slowly expanding in the following decades.</i></div>  
 
 <br/>
@@ -87,7 +89,7 @@ At the same time, Asian demand for oil has been increasing exponentially, with C
 
 Historically, Canada has relied heavily on the United States as the number one importer of liquified natural gas, around 50% of Canada’s natural gas has been exported to the States, but the US has been seeking energy independence within about the last decade. At the same time, Asian imports have been increasing exponentially, China in particular, as they move away from coal powered energy in pursuit of so-called cleaner energy. You can see the relationships between a decrease import of natural gas in the US with decreasing exports from Canada, and the increasing demands from China, even as exports from the US ramps up
 
-![Graph showing change in demands for LNG from USA to China.](../images/CoastalGaslink/Graphs.jpg)
+![Graph showing change in demands for LNG from USA to China.](/conflict_urbanism_sp2020/images/CoastalGaslink/Graphs.jpg)
 <div align="center"> <i>The impetus for the Coastal Gaslink project is based not only on a growing demand from Asian markets, but also shaped by increasing pressure within the US to achieve energy independence from Canada.</i></div>  
 
 #### The Pipeline  
@@ -97,7 +99,7 @@ Coastal Gaslink Pipeline will operate between Dawson Creek and Kitimat, both sma
 
 <div align="center"> <b>The Original Proposal</b></div>  
 
-![Original Pipeline Proposal](../images/CoastalGaslink/OriginalPipeline.png)  
+![Original Pipeline Proposal](/conflict_urbanism_sp2020/images/CoastalGaslink/OriginalPipeline.png)  
 
 The original proposal for the Coastal GasLink pipeline was designed by TC Energy in 2012, and was presented for consultation with local First Nations elected councils for the territory that the pipeline was proposed to cross. The proposed route crossed twenty unceded First Nations territories, and was given approval by the elected councils of all bands.
 
@@ -114,7 +116,7 @@ The pipeline, while formally rejected, was counter-offered by the Wet’suwet’
 
 <div align="center"> <b>Wet’suwet’en Territory</b></div>   
 
-![Wet’suwet’en Territory](../images/CoastalGaslink/Wetsuweten.gif)  
+![Wet’suwet’en Territory](/conflict_urbanism_sp2020/images/CoastalGaslink/Wetsuweten.gif)  
 
 **McDonnel Lake Route**  
 
@@ -122,14 +124,14 @@ The Office of Wet’suwet’un proposes a route where is would be away from the 
 
 <div align="center"><b>Link to Greater TransCanada Pipeline Network</b></div>  
 
-![Final Modified Route](../images/CoastalGaslink/ModifiedPipeline.png)  
+![Final Modified Route](/conflict_urbanism_sp2020/images/CoastalGaslink/ModifiedPipeline.png)  
 
 
 Although Coastal GasLink claimed to have made concessions to appease the demands made by the Wet’suwet’en to alter the proposed route of the pipeline, the final amendment after consultation shows a difference of no more than 3.5 kilometres (2 miles) north at the most modified segment.
 
 <div align="center"><b>Link to Greater TransCanada Pipeline Network</b></div>  
 
-![TC Pipeline Network](../images/CoastalGaslink/NationalPipeline.png)  
+![TC Pipeline Network](/conflict_urbanism_sp2020/images/CoastalGaslink/NationalPipeline.png)  
 
 <br/>
 
