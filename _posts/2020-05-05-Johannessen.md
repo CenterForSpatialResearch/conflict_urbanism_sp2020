@@ -33,7 +33,7 @@ Next, we will explore the immediate and lasting implications of the map on New O
 While the Green Dot Map first reached the public via the Times-Picayune, its origins lie before the article, in the Urban Planning Committee of the Bring New Orleans Back Commission (BNOBC), a group convened by the mayor, Ray Nagin, to guide the recovery and reconstruction of the city.  
 
 ![History of Map and the BNOB Committee](/conflict_urbanism_sp2020/images/Green Dot Map/Historicalmaps.gif)  
-*Source: BNOBC, Times-Picayune*     
+*Source: ResearchGate*     
 
 An earlier version of the Green Dot Map was created by the BNOBC, a single image in a 69-slide powerpoint presentation titled: “Action Plan for New Orleans: The New American City”. The slides supporting the graphic discussed having parks in every neighborhood, incorporated into the city stormwater management system, and the green dots appeared visually quite different - drawn with dashed green lines and no fill.  Though the areas they covered were labeled "areas for future parkland," they were intended to be approximate locations where parks could be incorporated into the neighborhood, not suggestions that entire neighborhoods be replaced by parks. The presentation proposed a series of next steps, including identifying properties that could be part of the system and securing funding for “park restoration.”
 
@@ -92,20 +92,20 @@ In order to understand the impact of the Green Dot Map at the neighborhood level
 #### Broadmoor
 Broadmoor is generally regarded as one of the biggest "success stories" of post-Katrina neighborhood recovery, despite its location at the epicenter of New Orleans' crescent and the extensive flooding and damage it endured due to the hurricane. This success has been widely understood as a response to the Green Dot Map, which covered the entire Broadmoor neighborhood, and led to a huge community-led planning effort headed by Latoya Cantrell, then president of the Broadmoor Improvement Association, and current 2020 mayor of the city of New Orleans. Cantrell worked with residents and religious leaders in the community to oppose the plan laid out in the Green Dot Map and prove the viability of the neighborhood, establishing a platform through which neighborhood residents could volunteer or voice their opinions. A system of "block captains" ensured that a point person for each block was responsible for contacting displaced residents across the country, asking about their needs, and persuading them to return, even as the neighborhood was still rebuilding. As part of the planning process, Cantrell facilitated the rebuild and renovation of Andrew H. Wilson Highschool and the reopening of Rosa F. Keller Library. With the reopening of the library came the inaguaration of a new cafe inside it - the defiantly named Green Dot Cafe, a testament to the neighborhood's resiliency and the legacy of the Green Dot Map.   
 ![Broadmoor gif](/conflict_urbanism_sp2020/images/Green Dot Map/Broadmoorphotos.gif)  
-*Source:* 
+*Source: Clinton Foundation, Neighborhood Partnerships Network* 
 
 #### Lower Ninth Ward 
 The Lower Ninth Ward was one of the hardest hit neighborhoods because its location directly to the industrial canal, which failed during the storm. Not only did the neighborhood sustain huge damage in 2005, but its recovery efforts have been slow and ongoing, and many residents have still been unable to return to their homes, even in 2020.  
 
 Before the storm the neighborhood “was 98% African American, 59% of families owned their homes and more than half of them had no mortgage" (L9WHA 2020). Many non-profits and neighborhood groups emerged in 2006 to rebuild after the flood, such as lowernine.org, 9th Ward NENA, and L9WHA, and many of these organizations are still working to rebuild today. lowernine.org explains: “Rebuilding in the Lower Nine has lagged behind that of other neighborhoods as a result of poverty, the scale of the devastation and local, state and federal government inaction. Dealing first with toxic mold, then toxic FEMA trailers and toxic Chinese Sheetrock, then with unscrupulous contractors, insurance and mortgage companies, and finally struggling under a discriminatory governmental recovery program, it became clear that the Lower Ninth Ward would be much slower to recover than other areas of New Orleans.”   
 ![Lower Ninth Ward 2005](/conflict_urbanism_sp2020/images/Green Dot Map/LowerninthPhotos.gif)  
-*Source:*   
+*Source: Kevin Fujii, Ricky Carioti, L9WHA*   
 
 #### Lakeview 
 In contrast with Broadmoor and the Lower Ninth Ward, Lakeview was not covered by a Green Dot, though the neighborhood faced extremely high levels of flooding (higher than Broadmoor, and similar to the Lower Ninth Ward). Also notably, Lakeview is one of the few neighborhoods in New Orleans that has come back richer than before Katrina. In this predominantly white, middle-to-upper class neighborhood, recovery and reconstruction began quickly as people "could pay rent on a temporary place while paying a mortage on a destroyed home. They could use private funds to improve those homes while waiting for government rebuilding subsidies. And they could hire lawyers, as needed, to navigate the sea of paperwork" (Robertson & Fausset 2015). Many neighborhood associations pre-existed Katrina and contributed to the neighborhood redevelopment effort, however the Lakeview Civic Improvements Association (LCIA), was the most prominent in steering the City’s District 5 recovery plan. The LCIA issued a $114 Million recovery plan which would revitalize greenspace, rebuild private residences, build infrastructure and much more.
 
 ![Lakeview](/conflict_urbanism_sp2020/images/Green Dot Map/Lakeviewphotos.gif)  
-*Source:*  
+*Source: GoNOLA.com, Pinimg, Nolaplans.com*  
   
 #### Concluding Thoughts  
 While our research focuses on the implications of the Green Dot for reconstruction of New Orleans after Katrina, there are lessons to be learned for other cities. As Rebecca Solnit wrote,  
@@ -129,7 +129,30 @@ Zachary Lamb, "Connecting the Dots: The Origins, Evolutions, and Implications of
 
 Carol M. Reese, Michael Sorkin, Anthony Fontenot, "New Orleans Under Reconstruction: the Crisis of Planning," Verso Books, July 2014.  
 
-Kristina Shevory, "A New Orleans Neighborhood Rebuilds," February 2007.  Retrieved 11 May 2020, from https://www.nytimes.com/2007/02/25/realestate/25nati.html
+Kristina Shevory, "A New Orleans Neighborhood Rebuilds," February 2007.  Retrieved 11 May 2020, from https://www.nytimes.com/2007/02/25/realestate/25nati.html  
+
+#### Images  
+
+ResearchGate, https://www.researchgate.net/publication/337225537_Connecting_the_Dots_The_Origins_Evolutions_and_Implications_of_the_Map_that_Changed_Post-Katrina_Recovery_Planning_in_New_Orleans 
+
+GoNOLA.com, https://gonola.com/things-to-do-in-new-orleans/history/nola-history-the-lakeview-neighborhood  
+
+Pinimg, https://i.pinimg.com/originals/a9/78/a9/a978a94a35ea1150bf8c6d7320e8c739.jpg  
+
+Nolaplans.com, https://nolaplans.com/plans/Lambert%20Intermediate/District_5_Plan_FINAL%20PLAN%20REPORT%20Lakeview%2010-04-06.pdf  
+
+Clinton Foundation, https://stories.clintonfoundation.org/bringing-sound-back-to-broadmoor-how-we-saved-our-new-orleans-neighborhood-8e3d54c5c81f
+
+Neighborhood Partnerships Network, https://image.isu.pub/121115184932-2093e37a520b43f28f264849e42109e0/jpg/page_1.jpg  
+
+Kevin Fujii, http://www.kevinfujii.com/hurricanes  
+
+Ricky Carioti, https://ticotimes.net/2015/08/29/in-the-lower-ninth-ward-of-new-orleans-some-traditions-refuse-to-die  
+
+L9WHA, https://www.l9wha.org/single-post/2015/10/15/Detours-on-the-Road-Home  
+
+
+
 
 
 
