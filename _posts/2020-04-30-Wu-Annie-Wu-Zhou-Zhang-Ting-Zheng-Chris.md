@@ -67,7 +67,7 @@ In 2010, large reserves of natural gas were discovered in the Rovuma Basin, the 
 **Cabo Delgado | Licensed Gas Areas**  
 The Gas Fields were divided into onshore and offshore 6 areas held by different foreign companies, and a lot of those are owned by foreign governments. In each area, Mozambique holds 10-15 percent shares, but none of the areas is operated by Mozambique. In fact, most of LNG will be shipped to those countries instead of being locally used. To support the LNG production, an onshore facility will be constructed, which is projected to influence over 10,000 People.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_02.jpg)  
+![MAPPING_cabodelgado_lng](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_02.jpg)  
 &nbsp;
 
 <iframe frameborder="0" width="100%" height="100%" src="https://tz2436.github.io/ExtractiveUrbanism/Test.html"></iframe>
@@ -76,25 +76,25 @@ The Gas Fields were divided into onshore and offshore 6 areas held by different 
 **Afungi LNG Plant | Resettlement Plan**  
 A Resettlement plan was made for the construction of  the LNG plant, over 500 households are expected to be physically resettled and another 1000 are expected to lose access to their economic resource. The replacement village is located at the marginal area of the plant, but the replacement agricultural land will be 10-15 km away, and there is a delay in this process while the replacement village is being constructed now.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_03.jpg)  
+![MAPPING_afungilng_resettlements](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_03.jpg)  
 &nbsp;
 
 **Afungi LNG Plant | Loss of Main Source of Livelihoods**  
 Among the displaced households, 51% are engaging in fishing, and in coastal villages, the number can be more than 80%. This map shows the vessel fishing and intertidal collecting points as well as the home ports. The restricted marine area will have a huge impact on those fishing grounds.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_04.jpg)
+![MAPPING_afungilng_livelihoods](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_04.jpg)
 &nbsp;
 
 **Afungi LNG Plant | Development in Place**  
 As part of the resettlement plan, the project promised to provide more social services to the local people, However, there are concerns that the construction of the facilities is happening much faster than that of their supporting social services, which can be true through the satellite images.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_05.gif)  
+![GIF_afungilng_satellite](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_05.gif)  
 &nbsp;
 
 **Cabo Delgado | Emerging Insurgency**  
 Apart from the loss of livelihoods, there are also rising security concerns about the emerging attacks since 2017. A series of attacks by Islamist extremists on the civilians have causing dozens people killed. In 2019, they started to target LNG projects. The big companies have been seeking more troops from the government for protection. The ongoing conflict between the insurgents and the military forces have been bringing more pressure to the people who already have a relatively low socio-economic background in the poorest region. People are afraid of going to their fields, and the displaced households with a far allocated field will face potential starvation.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_06.jpg)  
+![MAPPING_afungilng_insurgency](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_06.jpg)  
 &nbsp;
 &nbsp;
 &nbsp;
@@ -107,7 +107,7 @@ The electricity system is one of the examples. In 2014, the country generated 2,
 
 On the other hand, Mozambique faces substantial challenges in reaching its goal of universal energy access. Its energy access rate is among the lowest of sub-Saharan countries. In a planned future, Mozambique will still sell most of its energy output to South Africa and the Southern African Power Pool, with only a small portion remaining for domestic consumption.
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Power_GenDist.jpg)  
+![MAPPING_moz_power](/conflict_urbanism_sp2020/images/extractive_moz/Power_GenDist.jpg)  
 &nbsp;
 
 **Domestic Power Access**  
@@ -125,7 +125,7 @@ In the post civil war era, Cahora Bassa was taken over by the Mozambique governm
 
 But as a major source of revenue income, annually 70% of the dam’s output has been committed to South Africa’s Eskom utility under a long-term agreement through 2029. A large portion of that is later reimported to Mozambique to serve large extraction industries owned by foreign shareholders. Beyond that, the country plans to expand sales to Malawi, Zambia and Tanzania. This all happens with a majority of the domestic population still having no access to electricity.
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/CahoraBassa.jpg)  
+![MAPPING_moz_distribution](/conflict_urbanism_sp2020/images/extractive_moz/CahoraBassa.jpg)  
 &nbsp;
 &nbsp;
 &nbsp;
