@@ -81,7 +81,7 @@ Rhino served as the primary topological modelling software. Contour lines at int
 
 #### Spatialization
 
-<div class="iframe-column"><iframe src="https://vimeo.com/417493210" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://player.vimeo.com/video/417493210?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 The video above shows the finished visualization. It shows a gradual zoom-in from the national scale down to Har Homa, putting the singular hilltop settlement just outside of Jerusalem proper in a larger national context. It highlights the ways in which Israel has deployed functions of bypass urbanism and the doubling of infrastructure inherent in the Israeli settlement endeavor.
 
