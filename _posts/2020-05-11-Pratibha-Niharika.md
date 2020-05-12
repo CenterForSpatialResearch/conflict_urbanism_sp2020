@@ -174,6 +174,7 @@ The Kaveri has been subject to a tradition of diversion and extraction of water 
  
 
 Concrete solutions are yet to be reached over access to this resource, while farmers in Tamil Nadu face droughts and are compelled to commit suicide, and large cities such as Bangalore run dry, as climate change strains the remnants of the once abundant stream.
+<br/>
 
 
 #### Rights of the River
