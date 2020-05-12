@@ -1,0 +1,88 @@
+:root{
+
+--text-left-1: 50px;
+/* --text-left-2: 1000px; */
+
+}
+
+#container {
+width: 80%;
+/* left: 20%; */
+height: 80%;
+/* top: 10%; */
+top: 50%;
+left: 45%;
+transform: translate(-50%,-50%);
+position: fixed;
+position: 100px;
+/* object-fit: fill; */
+background-image: url("images/OriginalPipeline.png");
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.container1{
+height: 1000px;
+width: 1000px;
+}
+
+.space_container{
+height: 8000px;
+width: 1000px;
+}
+
+body {
+  font: 400 14px/1.5 'Source Sans Pro',"Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #111111;
+	-webkit-text-size-adjust: 100%;
+-webkit-font-feature-settings: "kern" 1;
+-moz-font-feature-settings: "kern" 1;
+-o-font-feature-settings: "kern" 1;
+font-feature-settings: "kern" 1;
+font-kerning: normal;
+display: flex;
+min-height: 100vh;
+flex-direction: column; }
+
+.text{
+position: absolute;
+padding: 7px;
+max-width: 400px;
+background-color: black;
+border-radius: 5px;
+color: white;
+font-family: 400 14px/1.5 'Source Sans Pro',"Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+-webkit-text-size-adjust: 100%;
+font-weight: regular;
+opacity: 100%;
+}
+
+/* .title{
+	font-size: 24px;
+  letter-spacing: 1px;
+  line-height: 1; }
+  @media screen and (max-width: 800px) {
+    .post-title {
+      font-size: 24px; } */
+
+
+#text_1{
+right: var(--text-left-1);
+top: 1500px;
+}
+#text_2{
+right: var(--text-left-1);
+top: 3000px;
+}
+#text_3{
+right: var(--text-left-1);
+top: 4500px;
+}
+#text_4{
+right: var(--text-left-1);
+top: 6000px;
+}
+#text_5{
+right: var(--text-left-1);
+top: 7500px;
+}
