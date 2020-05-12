@@ -181,7 +181,7 @@ The Kaveri has been subject to a tradition of diversion and extraction of water 
 
 Concrete solutions are yet to be reached over access to this resource, while farmers in Tamil Nadu face droughts and are compelled to commit suicide, and large cities such as Bangalore run dry, as climate change strains the remnants of the once abundant stream.
 <br/>
-![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/riot.jpg)  
+![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/riot.JPG)  
 &nbsp;
 *Riots and protests against the Kaveri tribunal decision. Source: [Livemint](https://www.livemint.com/Sundayapp/ToUuDo1gOIFZ2Ebd12khZI/Cauvery-riots-belowpar-rainfall-and-rupee-trouble.html)*
  <br/> 
