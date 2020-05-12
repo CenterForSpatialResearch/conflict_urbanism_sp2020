@@ -71,6 +71,9 @@ In addition to the theories of optical urbanism and hilltop settlements as put f
 
 It is within these theoretical debates and academic forays into Israeli hilltop settlements that we wish to add to the conversation by providing a spatialized version of a settlement in an effort to expand on the work that has come before us. Recognizing the density of material written about this topic, we seek to focus on the combination of theory and spatial representation as a way to move the conversation forward and create new spaces for exploration and debate.
 
+![Gilo Highway](/conflict_urbanism_sp2020/images/har_homa_images_for_site/tunnel_2.jpg)
+***Highway 60 near Har Homa***
+
 #### Methodology
 
 Our approach to representation focused on moving imagery as a rhetorical tool. Due to the lack of an existing topographical model we could base our work on, we produced a digital file based on various archival maps & online sources. We extracted topographic contours and combined them in a hierarchy system based on each resource’s most up-to-date data. A GIS data-set supplemented this model with infrastructural information such as highways, bus stops and buildings geolocation. The resulting model allows us to shift between various layers of information and different scales. Colour-coding is used as a way of conveying information in the overall highly-abstracted representational realm of the animation.
@@ -86,24 +89,31 @@ Rhino served as the primary topological modelling software. Contour lines at int
 The video above shows the finished visualization. It shows a gradual zoom-in from the national scale down to Har Homa, putting the singular hilltop settlement just outside of Jerusalem proper in a larger national context. It highlights the ways in which Israel has deployed functions of bypass urbanism and the doubling of infrastructure inherent in the Israeli settlement endeavor.
 
 ![Jerusalem](/conflict_urbanism_sp2020/images/har_homa_images_for_site/2_hh.jpg)
+***Har Homa in the context of greater Jerusalem, with highways highlighted in pink, and the West Bank border in yellow***
 
 Within the urban fabric of Jerusalem and its suburban settlements, Har Homa is effectively an Israeli enclave surrounded by Palestinian towns and neighborhoods. With regard to function, however, Har Homa is connected via highways to other parts of Israel, as well as to other settlements via Highway 60; effectively entirely bypassing Palestine and along with its urban fabric.
 
 ![Har Homa](/conflict_urbanism_sp2020/images/har_homa_images_for_site/1_hh.jpg)
+***Topography and building print of Har Homa***
 
 Har Homa is built atop the Palestinian hilltop of Jabal Abu Ghneim - exemplifying the Israeli urban planning practice of optical urbanism transplanted onto the hilly portions of the occupied West Bank. Here, Jabal Abu Ghneim stands out as a particularly suitable object for this Israeli doctrine, offering a clearly defined landmass, and one that is clearly defined in the topography - offering one of the defining features of optical urbanism: outward surveillance. As explained earlier, the topography of the hill is the defining feature in the overall design of the settlement, and its lines become the very mechanisms of Har Homa’s defensive layout.
 
 ![Highways](/conflict_urbanism_sp2020/images/har_homa_images_for_site/3_hh.jpg)
+***Jerusalem and Har Homa on the national scale, highlighting highway connections***
 
 Har Homa is connected via a range of highways to the rest of Israel, as well as to the rest of the occupied West Bank. Highway 60 binds together Israeli settlements on the West Bank from north to south; Highway 1 links the northernmost part of the Dead City with Tel Aviv, constituting Israel’s defining east-west connection; a few other highway portions operate in the cluster in and around Jerusalem to aid these two main connections, as well as a range of other main roads spidering out into Israel and the Occupied Palestininan Territories. This imagery makes it clear how Har Homa is connected through these highways to other Israeli settlements and Israeli cities in a way it is not to even its neighboring Palestinian towns and neighborhoods. The notion of speed is important here as well: inherent in the idea of a highway is the ability to bypass points of lesser interest. In the design of the Israeli highway system in the Occupied Territories, Palestinian towns are by design bypassed and deemed less relevant, less important.
 
 ![Bus stops](/conflict_urbanism_sp2020/images/har_homa_images_for_site/4_hh.jpg)
+***Har Homa's bus stops***
 
 ![Bus stops detail](/conflict_urbanism_sp2020/images/har_homa_images_for_site/5_hh.jpg)
+***Bus stops with added line numbers***
 
 Public transport offers the final lens through which we were able to look at infrastructure in this context; Har Homa is dotted with bus stops - all of them connecting the settlement with a range of links to West Jerusalem. Not one of them provides a link to East Jerusalem. Just by the very design of the bus routes, the way in which Palestinian neighborhoods and towns are bypassed is heavily intensified.
 
 #### Conclusion
+
+Through exploring the infrastructure(s) of Har Homa, building on existing academic work - notably by Segal and Weizman, we have sought to add to this already rich literature on Israeli settlement in the Occupied Palestinian Territories through a work of spatialization and visualization. Through our visualization, we have been able to show ways in which Israeli urban planning politics further the dynamics of Israeli occupation; tackling the topic from a more visual point of view that has been done before. Through looking at highways, public transport infrastructure, as well as the street grid and building patterns of Har Homa, these practices by the Israeli government have become even more evident.
 
 #### References
 
@@ -125,6 +135,10 @@ Larkin, B. (2013). The Politics and Poetics of Infrastructure, Annual Review of 
 
 Lipschits, O., Gadot, Y., Arubas, B. & Oeming, M. (2011). Palace and Village, Paradise and Oblivion: Unraveling the Riddles of Ramat Rahel, Near Eastern Archaeology, 74(1), pp. 1-49
 
+Masferrer Pascual, M. (2007). Har Homa. Retrieved from: <https://commons.wikimedia.org/wiki/File:Har_Homa.jpg>
+
+McIntosh, J. (2004). Tunnel to Gush Etzion. Retrieved from: <https://commons.wikimedia.org/wiki/File:Tunnel_to_Gush_Etzion.jpg>
+
 OpenStreetMap data. (2020). © OpenStreetMap contributors. Licence: <www.openstreetmap.org/copyright>
 
 The Palestine Exploration Fund. (1888). The Survey of Western Palestine - A General Index. London: Harrison & Sons, 86.
@@ -134,3 +148,5 @@ Palestine Open Maps. Retrieved from: <https://palopenmaps.org/view>
 Segal, R. & Weizman, E. (2003). A Civilian Occupation: The Politics of Israeli Architecture. Verso Books.
 
 Rosen, S. J. (2012). Israeli Settlements, American Pressure, and Peace, Jewish Political Studies Review, 24(1/2), pp. 32-44
+
+zeevveez. (2014). Bridge that Unites with a Wall that Separates. Retrieved from: <https://www.flickr.com/photos/29001414@N00/15173489876>
