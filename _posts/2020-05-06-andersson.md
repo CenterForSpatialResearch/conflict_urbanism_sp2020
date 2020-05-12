@@ -1,3 +1,4 @@
+---
 layout: post
 date: 2020-05-11
 image: "/har_homa_images_for_site/thumbnail.png"
@@ -74,19 +75,19 @@ It is within these theoretical debates and academic forays into Israeli hilltop 
 
 The video above shows the finished visualization. It shows a gradual zoom-in from the national scale down to Har Homa, putting the singular hilltop settlement just outside of Jerusalem proper in a larger national context. It highlights the ways in which Israel has deployed functions of bypass urbanism and the doubling of infrastructure inherent in the Israeli settlement endeavor.
 
-![Jerusalem](conflict_urbanism_sp2020/images/har_homa_images_for_site/2_hh.jpg)
+![Jerusalem](/conflict_urbanism_sp2020/images/har_homa_images_for_site/2_hh.jpg)
 
 Within the urban fabric of Jerusalem and its suburban settlements, Har Homa is effectively an Israeli enclave surrounded by Palestinian towns and neighborhoods. With regard to function, however, Har Homa is connected via highways to other parts of Israel, as well as to other settlements via Highway 60; effectively entirely bypassing Palestine and along with its urban fabric.
 
-![Har Homa](conflict_urbanism_sp2020/images/har_homa_images_for_site/1_hh.jpg)
+![Har Homa](/conflict_urbanism_sp2020/images/har_homa_images_for_site/1_hh.jpg)
 
 Har Homa is built atop the Palestinian hilltop of Jabal Abu Ghneim - exemplifying the Israeli urban planning practice of optical urbanism transplanted onto the hilly portions of the occupied West Bank. Here, Jabal Abu Ghneim stands out as a particularly suitable object for this Israeli doctrine, offering a clearly defined landmass, and one that is clearly defined in the topography - offering one of the defining features of optical urbanism: outward surveillance. As explained earlier, the topography of the hill is the defining feature in the overall design of the settlement, and its lines become the very mechanisms of Har Homa’s defensive layout.
 
-![Highways](conflict_urbanism_sp2020/images/har_homa_images_for_site/3_hh.jpg)
+![Highways](/conflict_urbanism_sp2020/images/har_homa_images_for_site/3_hh.jpg)
 
 Har Homa is connected via a range of highways to the rest of Israel, as well as to the rest of the occupied West Bank. Highway 60 binds together Israeli settlements on the West Bank from north to south; Highway 1 links the northernmost part of the Dead City with Tel Aviv, constituting Israel’s defining east-west connection; a few other highway portions operate in the cluster in and around Jerusalem to aid these two main connections, as well as a range of other main roads spidering out into Israel and the Occupied Palestininan Territories. This imagery makes it clear how Har Homa is connected through these highways to other Israeli settlements and Israeli cities in a way it is not to even its neighboring Palestinian towns and neighborhoods. The notion of speed is important here as well: inherent in the idea of a highway is the ability to bypass points of lesser interest. In the design of the Israeli highway system in the Occupied Territories, Palestinian towns are by design bypassed and deemed less relevant, less important.
 
-![Bus stops](conflict_urbanism_sp2020/images/har_homa_images_for_site/4_hh.jpg)
+![Bus stops](/conflict_urbanism_sp2020/images/har_homa_images_for_site/4_hh.jpg)
 
 Public transport offers the final lens through which we were able to look at infrastructure in this context; Har Homa is dotted with bus stops - all of them connecting the settlement with a range of links to West Jerusalem. Not one of them provides a link to East Jerusalem. Just by the very design of the bus routes, the way in which Palestinian neighborhoods and towns are bypassed is heavily intensified.
 
