@@ -57,7 +57,7 @@ Shared river basins require cooperation to maintain peace. But within the Indian
 ![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/Compressed_FINAL_Catalog_Dam_GIF.gif)  
 &nbsp;
 *Points of Control along the Indus River Basin. Source: [NY Times](https://www.nytimes.com/2019/02/21/world/asia/india-pakistan-water-kashmir.html), [Science Friday](https://www.sciencefriday.com/articles/pakistan-faces-a-water-war-on-the-horizon/), [BBC World](https://www.bbc.com/news/world-asia-37521897), [Foreign Policy](https://foreignpolicy.com/2019/02/25/are-india-and-pakistan-on-the-verge-of-a-water-war-pulwama-kasmir-ravi-indus/), [Reuters](https://www.reuters.com/article/india-kashmir-pakistan-water/pakistan-accuses-india-of-using-water-as-a-weapon-in-kashmir-dispute-idUSL4N25F2I8), [News18](https://www.news18.com/videos/india/baglihar-dispute-300042.html), [The News](https://www.thenews.com.pk/print/583790-violating-iwt-india-starts-ratle-dam-s-construction), [Dawn](https://www.dawn.com/news/1408496), [Times of India](https://timesofindia.indiatimes.com/india/kishanganga-dam-world-bank-asks-pakistan-to-accept-indias-demand-of-neutral-expert/articleshow/64466122.cms), [Indian Express](https://indianexpress.com/article/news-archive/web/pak-objects-to-indias-move-to-fill-dam-in-jk/)*
-<br/>
+<br/> <br/>
 This territorial colonization of streams upstream permanently altered the water flow, capacity and quality downstream. Following the partition of India and West Pakistan, the “rivers were made the spines of the new nations. Their flows were turned more aggressively to improvement not just for security from flood and drought but to catalyze urbanization, industrialization, modernization, commercialization, and other processes by which the race to catch up with the developed world was envisioned.”
 
 <br/>
@@ -77,7 +77,7 @@ Usually these water bodies help form natural boundaries, and in several cases th
 *Source: The Geography of future water challenges, PBL netherlands environmental assessment agency*
 
 
- <br/> <br/>
+ <br/> 
 
 #### Water Insecurity
 For Pakistan, with its semi-arid climate and erratic rainfall patterns that get increasingly unpredictable every year due to effects of climate change, the availability of water resources is crucial for sustenance. The country is ravaged by frequent droughts, resulting in consequent shortage of drinking water supply for major cities. The Indus river basin forms the only major source of water for most of the country, and hence the need to channel and divert the water, which has been the motivation for construction of dams and barrages along the basin. Today, Pakistan has 3 large dams, 85 small dams, 19 barrages, 12 inter link canals, 45 canals and 0.7 million tube wells to meet its commercial, domestic and irrigation needs. It is these points of control however, that have directly impacted the river causing sedimentation and changes in flow dynamics, which has further resulted in additional problems such as extensive flooding. The 2010 monsoon floods affected approximately one-fifth of Pakistan’s total land area. The floods directly affected about 20 million people, mostly by destruction of property, livelihood and infrastructure, with a death toll of close to 2,000.
@@ -104,32 +104,30 @@ The Indus river system, with its complex braiding channel that is ever in flux, 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/combinedgif.gif)  
 &nbsp;
 *Kashmor and Firozpur landsat imagery showing seasonal variation*
- <br/>
+ <br/> <br/>
 Analysing Landsat imagery to show false colour composites for Kashmor, the agriculture pattern during the Monsoon and Winter seasons is shown in red, The river, its depth and flow pattern are visible in a contrasting blue.
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/Final Kashmor landsat compiled.jpg)  
 &nbsp;
 *Kashmor false colour landsat imagery showing seasonal variation over a decade*
- <br/>
+ <br/> <br/>
 Landsat image classification by supervised classification using spectral signatures from a training sample to represent water flow and agriculture pattern by pixels. It is visible how the monsoon season has affected water flow differently in the year 1998 and 2010
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="470" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=c1e697ca-93e3-11ea-a879-0edaf8f81e27"></iframe>
 *Kashmor image classification showing flow and agriculture variation during monsoon over a decade*
- <br/>
+ <br/> <br/>
 During the winter season the direction of river flow has changed due to channeling over the years. The agriculture pattern has shifted based on this change of flow of the river.
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="470" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1de95346-93e4-11ea-a879-0edaf8f81e27"></iframe>
 *Kashmor image classification showing flow and agriculture variation during winter over a decade*
- <br/>
+ <br/> <br/>
 Reclassifying the landsat to perform raster calculation to show how water has changed during monsoon and winter over the years. For monsoon, 70% of the water area converted to land over the decade, while only 1.6% of land converted to water during the same time showing how erratic monsoon flooding changes the water cover area. For winter, around 2,5% of land changed to water and vice versa, indicating that even though net water hasn’t changed, the direction and location of the river has changed which affects agriculture patterns around it.
 
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/Final_Raster change overtime.jpg)  
 &nbsp;
 *Kashmor image classification showing change in flow in Monsoon and winter over a decade*
-
-
- <br/>
+<br/> <br/>
 Landsat imagery showing false colour for our second focus area, Firozpur, shows agriculture patterns in red and river flow in blue. The pattern contrasts over the seasons showing difference in dependance on rain or river water for agriculture across the border.
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/borderlandsat.jpg)  
@@ -137,7 +135,7 @@ Landsat imagery showing false colour for our second focus area, Firozpur, shows 
 *Firozpur false colour landsat imagery showing seasonal variation*
 
 
- <br/> <br/>
+ <br/> 
 
 #### Case Study: Kaveri River
 Kaveri is the third largest river in India, flowing from the state of Karnataka into Tamil Nadu, with the watershed of its seven tributaries extending up to Kerala and Puducherry. The river has numerous sacred associations, in mythology and folklore, that make it a revered entity for the people of South India. It is the source of drinking water supply for major cities in Karnataka, and supports intensive agricultural activity in South India, being one of the most important sources for irrigation of paddy fields in Tamil Nadu. This has resulted in a long-standing dispute between the two states over sharing of the water resource. The Kaveri Water Tribunal was formed to address water shortages in the four states that were facing increased water demands. 
@@ -146,12 +144,9 @@ Kaveri is the third largest river in India, flowing from the state of Karnataka 
 <iframe width="650" height="400" src="https://www.youtube.com/embed/0vkGEz9kQbo?start=00&end=31" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Source: [NDTV](https://www.youtube.com/embed/0vkGEz9kQbo?start=00&end=31)*
 
-
  <br/>
 The Kaveri has been subject to a tradition of diversion and extraction of water for the purpose of irrigation and drinking water consumption, that has carried on since the Grand Anicut dam was built over the flowing water by the Chola dynasty in 100 BC. This practice was intensified during the British rule in India, and came to sustain the needs of the people in South India. 
-
-
-
+ <br/> <br/>
 <div class="iframe-column"><iframe src="https://www.arcgis.com/apps/MapJournal/index.html?appid=27f210f1ba314d2e8cab294c724abba8" style="position:absolute;top:0;left:-175;width:150%;height:800px;" frameborder="0" scrolling="no"></iframe></div>
 
   <br/>
