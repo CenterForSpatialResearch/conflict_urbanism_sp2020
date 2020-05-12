@@ -78,7 +78,7 @@ The dependence on the Indus for irrigation dates back to the early civilizations
 
 Pakistan is an agrarian economy, with over 90% of harvests within the country depending on this extensive canal network, which spans over an area of 36 million acres. According to Pakistan Economic Survey data, the agriculture sector of the country employs 42% of the entire labour force of the nation, which evidently illustrates the importance of the water sources from the Indus for the country. 
 
-![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/canals.jpg)  
+![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/canals_3.jpg)  
 &nbsp;
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/Final Kashmor landsat compiled.jpg)  
