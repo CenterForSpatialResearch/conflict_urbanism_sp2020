@@ -48,7 +48,7 @@ This is the map that features the most extensive data set in the Palestine Open 
 
 The top of the hill features a black rectangle, which represents an ‘isolated building’, and a perimetric thin black line, which represents a ‘wall, fence, hedge, canal, etc.’. Beneath these marks lies the inscription ‘Jebel Abū Ghunneim’ - the arabic name of the mount. On the basis of this, we may conclude that there is sufficient evidence to claim that in 1943 the site was occupied by some kind of settled Palestinian population.
 
-##### 1944 Map
+#### 1944 Map
 
 This document is another map for the Survey of Palestine, however its information is significantly reduced compared to the 1943 map. Here, the main highlights are the topographic contour lines, information regarding vegetation, the two paths around the hill and the indication of archeological sites (the ‘Khirbats and abandoned sites’). A dot at the top of the hill indicates the presence of a cistern.
 
