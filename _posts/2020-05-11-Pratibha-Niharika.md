@@ -90,10 +90,10 @@ Pakistan is an agrarian economy, with over 90% of harvests within the country de
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/borderlandsat.jpg)  
 &nbsp;
 
-![Points of water control along the Indus river basin (/conflict_urbanism_sp2020/images/Hydropolitics/kashmor-gif.gif)  
+![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/kashmor-gif.gif)  
 &nbsp;
 
-![Points of water control along the Indus river basin (/conflict_urbanism_sp2020/images/Hydropolitics/firozabad-gif.gif)  
+![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/firozabad-gif.gif)  
 &nbsp;
 
 #### Case Study: Kaveri River
