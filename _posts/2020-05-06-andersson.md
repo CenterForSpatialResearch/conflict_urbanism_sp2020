@@ -1,17 +1,21 @@
----
 layout: post
-date: 2020-05-08
-image: "/conflict_urbanism_sp2020/images/har_homa_images_for_site/thumbnail.png"
+date: 2020-05-11
+image: "/har_homa_images_for_site/thumbnail.png"
 title: "Har Homa: Exploring the Infrastructure(s) of an Israeli settlement"
 author: "Massimiliano Malago & Sebastian Andersson"
 ---
+
+<div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+
+All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:
+
+<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 #### Introduction
 
 We have chosen to look at the infrastructure(s) of Israeli settlements on the Palestinian Occupied Territories through a spatial exploration of the settlement of Har Homa (officially Homat Shmuel) just outside of Jerusalem. Building on a rich theoretical foundation and academic endeavours, we decided to continue the conversation of how Israel is using spatial practices to further its occupation of Palestinian lands through a visual case study. Har Homa stood out to us in several ways; first of all because of its proximity and de facto integration into Jerusalem’s wider urban fabric, second of all because its creation came about concurrently with the Oslo Peace Process, and third of all because it was built in part on Palestinian expropriated land. In addition to this, its development has continued since its construction in the latter half of the 1990s, and it has proved to be a continuing point of contention within the context of the Israeli-Palestinian conflict.
 
-![har homa](/conflict_urbanism_sp2020/images/har_homa_images_for_site/har_homa_2.jpg)
-*Har Homa*
+![Har Homa](conflict_urbanism_sp2020/images/har_homa_images_for_site/har_homa_3.jpg)
 
 #### Background
 
@@ -57,23 +61,34 @@ This cartographic comparison provides an important historical backdrop to our in
 #### Academic conversation & theoretical underpinnings
 
 Long-standing Israeli urban planning doctrines come together in the case of Har Homa; both the idea of building on hilltops, the principle of ‘optical urbanism’, and a preoccupation with the rural and the periphery. The workers’ moshav of Nahalal, founded in the 1920s, provides an important precedent in terms of form: the ‘perfectly oval scheme’ of the moshav is ‘an image at once hermetic, panoptic and defensive, while radiating outward and drawing in the landscape; a totalizing structure that consecrates the cohesive community’ (Efrat, 2018, p. 33). In the context of 1920s Mandatory Palestine and its Jewish population, this kind of building was predominantly made on the plains of what today is Israel; the 1970s West Bank settlement project which largely started in the 1970s, on the other hand, has been argued to be the ‘culmination of Zionism’s journey from the plains to the hills’ - a ‘topographical migration’ (Segal & Weizman, 2003, p. 80-81).
+
 As Segal & Weizman argues, following the Israeli occupation of the West Bank in 1967, its ‘mountain peaks [and barren hilltops] easily lent themselves to state seizure’ - with the ensuing urban typology of these mountain settlements being characterized by a ‘principle of concentric organization in which the topographical contours of the map are retraced as lines of infrastructure’, with ‘roads [...] laid out in rings around the summit with the water, sewage, electricity and telephone lines buried under them’ (Segal & Weizman, p. 82-83). The idea put forward here is that these mountain settlements, of which Har Homa is a schoolbook example, rather than being ‘exhibits of ordered forms’ actually are ‘manifestations of anti-forms, the end results of tactical, land-use and topographical constraints (Segal & Weizman, p. 83). There is also the double nature of these settlements: they are ‘not only places of residence, but [also] create a large-scale network of ‘civilian fortifications’’; the outward oriented gaze of the settlement ‘surveys the landscape around it’ (Segal & Weizman, p. 84-85).
+
 In addition to the theories of optical urbanism and hilltop settlements as put forward by Segal and Weizman, we also rely on theories around infrastructure, notably Larkin’s ideas on infrastructure as operating on several levels concurrently (Larkin, 2013, p. 335-336), and linked to this the idea of ‘doubling’ of infrastructure. As Larkin notes, infrastructures ‘execute technical functions [...] by mediating exchange over distance and binding people and things into complex heterogeneous systems and by operating as entextualized forms that have relative autonomy form their technical function’, by which a rearrangement of the ‘hierarchy of functions’ occurs ‘so that the aesthetic dimension (rather than its technical one) is dominant. In the case of the infrastructure(s) of Israeli settlements, and in the case of Har Homa, we can clearly see how they serve several purposes, and where the purposes of them can be variably masked and unmasked, and how often the line between is blurred to the point of obscurity.
+
 It is within these theoretical debates and academic forays into Israeli hilltop settlements that we wish to add to the conversation by providing a spatialized version of a settlement in an effort to expand on the work that has come before us. Recognizing the density of material written about this topic, we seek to focus on the combination of theory and spatial representation as a way to move the conversation forward and create new spaces for exploration and debate.
 
 #### Methodology
 
 #### Spatialization
 
-[insert video?]
+The video above shows the finished visualization. It shows a gradual zoom-in from the national scale down to Har Homa, putting the singular hilltop settlement just outside of Jerusalem proper in a larger national context. It highlights the ways in which Israel has deployed functions of bypass urbanism and the doubling of infrastructure inherent in the Israeli settlement endeavor.
 
-[Screenshot over Jerusalem & wider area] - discussion on the region and how Har Homa fits in with the Israeli urban fabric despite being surrounded by Palestinian urban centers
+![Jerusalem](conflict_urbanism_sp2020/images/har_homa_images_for_site/2_hh.jpg)
 
-[Screenshot of direct view of settlement + screenshot of topography + screenshot with only street grid highlighted] - discussion on the notion of optical urbanism and how Har Homa is a great example of it, master plan for the settlement, model for this kind of urban typology etc.
+Within the urban fabric of Jerusalem and its suburban settlements, Har Homa is effectively an Israeli enclave surrounded by Palestinian towns and neighborhoods. With regard to function, however, Har Homa is connected via highways to other parts of Israel, as well as to other settlements via Highway 60; effectively entirely bypassing Palestine and along with its urban fabric.
 
-[Screenshot of national-ish view with roads highlighted] - discussion on bypass urbanism and how Har Homa infrastructurally is connected to wider Israel and not Palestine
+![Har Homa](conflict_urbanism_sp2020/images/har_homa_images_for_site/1_hh.jpg)
 
-[Screenshot of bus stops] - discussion on public transport connections to Jerusalem and wider Israel
+Har Homa is built atop the Palestinian hilltop of Jabal Abu Ghneim - exemplifying the Israeli urban planning practice of optical urbanism transplanted onto the hilly portions of the occupied West Bank. Here, Jabal Abu Ghneim stands out as a particularly suitable object for this Israeli doctrine, offering a clearly defined landmass, and one that is clearly defined in the topography - offering one of the defining features of optical urbanism: outward surveillance. As explained earlier, the topography of the hill is the defining feature in the overall design of the settlement, and its lines become the very mechanisms of Har Homa’s defensive layout.
+
+![Highways](conflict_urbanism_sp2020/images/har_homa_images_for_site/3_hh.jpg)
+
+Har Homa is connected via a range of highways to the rest of Israel, as well as to the rest of the occupied West Bank. Highway 60 binds together Israeli settlements on the West Bank from north to south; Highway 1 links the northernmost part of the Dead City with Tel Aviv, constituting Israel’s defining east-west connection; a few other highway portions operate in the cluster in and around Jerusalem to aid these two main connections, as well as a range of other main roads spidering out into Israel and the Occupied Palestininan Territories. This imagery makes it clear how Har Homa is connected through these highways to other Israeli settlements and Israeli cities in a way it is not to even its neighboring Palestinian towns and neighborhoods. The notion of speed is important here as well: inherent in the idea of a highway is the ability to bypass points of lesser interest. In the design of the Israeli highway system in the Occupied Territories, Palestinian towns are by design bypassed and deemed less relevant, less important.
+
+![Bus stops](conflict_urbanism_sp2020/images/har_homa_images_for_site/4_hh.jpg)
+
+Public transport offers the final lens through which we were able to look at infrastructure in this context; Har Homa is dotted with bus stops - all of them connecting the settlement with a range of links to West Jerusalem. Not one of them provides a link to East Jerusalem. Just by the very design of the bus routes, the way in which Palestinian neighborhoods and towns are bypassed is heavily intensified.
 
 #### Conclusion
 
