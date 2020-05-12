@@ -15,7 +15,7 @@ The river was no longer what appeared as “natural”, it had become the lifeli
 
 ![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/AP-India-Hindu-Festival-3.jpg)  
 &nbsp;
-*Source: [The Baltimore Sun](http://darkroom.baltimoresun.com/2015/11/chhat-puja-festival-in-india/#1)*
+*Rivers are considered sacred. Source: [The Baltimore Sun](http://darkroom.baltimoresun.com/2015/11/chhat-puja-festival-in-india/#1)*
  <br/>
  <br/>
 #### Case Study : Indus River
