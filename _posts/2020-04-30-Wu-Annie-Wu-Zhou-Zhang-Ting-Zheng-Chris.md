@@ -69,7 +69,8 @@ The Gas Fields were divided into onshore and offshore 6 areas held by different 
 
 ![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_02.jpg)  
 &nbsp;
-<div class="iframe-column"><iframe src="https://tz2436.github.io/ExtractiveUrbanism/Test.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+<iframe frameborder="0" width="100%" height="100%" src="https://tz2436.github.io/ExtractiveUrbanism/Test.html"></iframe>
 &nbsp;
 
 **Afungi LNG Plant | Resettlement Plan**  
