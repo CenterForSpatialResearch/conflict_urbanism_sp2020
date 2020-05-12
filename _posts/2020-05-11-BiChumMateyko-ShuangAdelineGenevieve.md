@@ -6,9 +6,6 @@ title:  "Global GasLink: The Right to Land, from First Nations to Multinational 
 author: "Adeline Chum, Genevieve Mateyko, Shuang Bi"
 ---
 
-<html>
-   <head>
-      <title>HTML Meta Tag</title>
-      <meta http-equiv = "refresh" content = "0; url = "BiChumMateyko-ShuangAdelineGenevieve/CoastalGaslink.html" />
-   </head>
-</html>
+[<img src="conflict_urbanism_sp2020/images/CoastalGaslink/Cover.jpg" onmouseover="this.src='conflict_urbanism_sp2020/images/CoastalGaslink/CoverButton.jpg'" onmouseout="this.src='conflict_urbanism_sp2020/images/CoastalGaslink/Cover.jpg'">](http://globalgaslink.herokuapp.com)
+
+<img src="a.jpg" onmouseover="this.src='b.jpg'" onmouseout="this.src='a.jpg'" />
