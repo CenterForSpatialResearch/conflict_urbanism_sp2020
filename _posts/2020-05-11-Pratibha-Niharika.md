@@ -20,6 +20,7 @@ The river was no longer what appeared as “natural”, it had become the only l
 On Feb 20 2019, India announced the decision to block the flow of water from three tributaries of the Indus river into Pakistan, days after the Pulwama terror attack in which 40 soldiers were killed in Kashmir by a suicide bomber from Pakistan.
 
 <iframe width="650" height="400" src="https://www.youtube.com/embed/lxnNDWsHxos?start=00&end=32" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Source: [NDTV](https://www.youtube.com/embed/lxnNDWsHxos?start=00&end=32)*
 
 Water has become a persistent cause of tension between the two neighbouring countries, that mostly arose due to the allocation of the waters of the Indus river basin. A long standing agreement between Pakistan and its riparian neighbour has outlined the use of the water, which came to be known as the Indus Water Treaty. Since India lies upstream of the Indus river basin, it gains the upper hand in political matters.
 
@@ -59,6 +60,9 @@ Shared river basins require cooperation to maintain peace. But within the Indian
 
 ![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/Compressed_FINAL_Catalog_Dam_GIF.gif)  
 &nbsp;
+Points of Control along the Indus River Basin. *Source: [NY Times](https://www.nytimes.com/2019/02/21/world/asia/india-pakistan-water-kashmir.html), [Science Friday](https://www.sciencefriday.com/articles/pakistan-faces-a-water-war-on-the-horizon/), [BBC World](https://www.bbc.com/news/world-asia-37521897), [Foreign Policy](https://foreignpolicy.com/2019/02/25/are-india-and-pakistan-on-the-verge-of-a-water-war-pulwama-kasmir-ravi-indus/), [Reuters](https://www.reuters.com/article/india-kashmir-pakistan-water/pakistan-accuses-india-of-using-water-as-a-weapon-in-kashmir-dispute-idUSL4N25F2I8), [News18](https://www.news18.com/videos/india/baglihar-dispute-300042.html), [The News](https://www.thenews.com.pk/print/583790-violating-iwt-india-starts-ratle-dam-s-construction), [Dawn](https://www.dawn.com/news/1408496), [Times of India](https://timesofindia.indiatimes.com/india/kishanganga-dam-world-bank-asks-pakistan-to-accept-indias-demand-of-neutral-expert/articleshow/64466122.cms), [Indian Express](https://indianexpress.com/article/news-archive/web/pak-objects-to-indias-move-to-fill-dam-in-jk/)*
+
+
 
 This territorial colonization of streams upstream permanently altered the water flow, capacity and quality downstream. Following the partition of India and West Pakistan, the “rivers were made the spines of the new nations. Their flows were turned more aggressively to improvement not just for security from flood and drought but to catalyze urbanization, industrialization, modernization, commercialization, and other processes by which the race to catch up with the developed world was envisioned.”
 
