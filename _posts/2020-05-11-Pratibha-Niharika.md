@@ -49,7 +49,6 @@ Water has become a persistent cause of tension between the two neighbouring coun
 
 #### Water as Control
 
-
 Over the years, the race to utilize this abundant resource has intensified with pressures to meet the demands of the growing population, with both countries building dams and barrages as multiple points of control along the rivers to extract water for irrigation and hydro-power generation. This practice has been a long standing imperial legacy of control and maneuvering of the fluvial resources.
 
 Shared river basins require cooperation to maintain peace. But within the Indian subcontinent, these water resources are ill-managed, where built infrastructure is imposed on the natural flow of water for diversion and/or containment. 
@@ -174,8 +173,29 @@ Concrete solutions are yet to be reached over access to this resource, while far
 
 
 #### Rights of the River
+“The fluvial frontier is a complex and nuanced territorial condition braiding together multiple elements including conservation, transboundary river management, the geopolitics of resource logistics...”
 
+Rivers have historically been at the center of conflict and instability, and allowing for tools that advocate for equitable access to this valuable resource in practice and policy would be a detrimental first step. In the last few years, rivers have undergone drastic changes with respect to their water quality, volume and flow, catalyzed by climate change, that has consequently left detrimental impacts on riparian ecologies, freshwater systems and expanding human settlements. The situation calls for effective management and allocation of water, and requires flexible frameworks for protection of these water bodies, especially in light increased incidences of flooding and water scarcity. 
 
+The relationship between the river and mankind has always been one of reciprocity. The river provides us with water, food and life. Constant attempts to extract more, have left them in a state of disarray. Many environmental movements have advocated for the rights of the rivers, to ensure protection of the inherent right of ecosystems in order to restore their health. Imposition of man-made infrastructures and policies on natural resources such as the rivers continues to affect the landscape and ecologies that survive along the riparian system. The river needs to be celebrated instead of being weaponized for control and conflict.
+
+<br/>
+<br/>
 #### References
+1. Chaudhry, Nadeem. “The 2010 Floods – A case study.” 
+2. Cunha, Dilip da. The Invention of Rivers: Alexander's Eye and Ganga's Descent. Philadelphia, PA: University of Pennsylvania Press, 2019.
+3. Duncan, Ifor, and Stefanos Levidis. “Weaponizing a River.” e-flux architecture, April 11, 2020. https://www.e-flux.com/architecture/at-the-border/325751/weaponizing-a-river/
+4. Gettleman, Jeffrey. “India Threatens a New Weapon Against Pakistan: Water.” New York Times, February 21, 2019. https://www.nytimes.com/2019/02/21/world/asia/india-pakistan-water-kashmir.html
+5. Iqbal, Jaffar. “Irrigation System and issues in Pakistan.” Technology Times, January 9, 2019. https://www.technologytimes.pk/2019/01/09/irrigation-system-issues/
+Johnson, Keith. “Are India and Pakistan on the Verge of a Water War?” Foreign Policy, February 25, 2019. https://foreignpolicy.com/2019/02/25/are-india-and-pakistan-on-the-verge-of-a-water-war-pulwama-kasmir-ravi-indus/
+Khadka, Navin Singh. “Are India and Pakistan set for water wars?” British Broadcasting Corporation, December 22, 2016. https://www.bbc.com/news/world-asia-37521897
+“Kishanganga dam issue: World Bank asks Pakistan to accept India’s demand of ‘neutral expert’.” Times of India, June 5, 2018. https://timesofindia.indiatimes.com/india/kishanganga-dam-world-bank-asks-pakistan-to-accept-indias-demand-of-neutral-expert/articleshow/64466122.cms
+Mustafa, Waqar. “As rains grow erratic, Pakistan taps irrigation to protect Punjab crops.” Reuters, November 25, 2017. https://www.reuters.com/article/us-pakistan-farming-irrigation/as-rains-grow-erratic-pakistan-taps-irrigation-to-protect-punjab-crops-idUSKBN1DO2OD
+Nadeem, Mehr, and Sayeed, Saad. “Pakistan accuses India of using water as a weapon in Kashmir dispute.” Reuters, August 19, 2019. https://www.reuters.com/article/india-kashmir-pakistan-water/pakistan-accuses-india-of-using-water-as-a-weapon-in-kashmir-dispute-idUSL4N25F2I8
+Nesbit, Jeff. This Is The Way The World Ends. Thomas Dunne Books, 2018.
+Singapore Red Cross. “Pakistan Floods:The Deluge of Disaster - Facts & Figures.” ReliefWeb, September 15, 2010. https://reliefweb.int/report/pakistan/pakistan-floodsthe-deluge-disaster-facts-figures-15-september-2010
+Singh, Harjeet. “Water Availability in Pakistan.” Indian Defence Review Vol. 25.4 (October-December 2010)
+Zaafir, Muhammad Saleh. “Violating IWT India starts Ratle Dam’s construction.” The News, December 15, 2019. https://www.thenews.com.pk/print/583790-violating-iwt-india-starts-ratle-dam-s-construction
+
 
 To be updated
