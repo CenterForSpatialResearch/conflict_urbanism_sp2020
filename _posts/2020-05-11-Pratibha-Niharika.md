@@ -187,17 +187,17 @@ The relationship between the river and mankind has always been one of reciprocit
 <br/>
 <br/>
 #### References
-1.Chaudhry, Nadeem. “The 2010 Floods – A case study.” 
-2.Cunha, Dilip da. The Invention of Rivers: Alexander's Eye and Ganga's Descent. Philadelphia, PA: University of Pennsylvania Press, 2019.
-3.Duncan, Ifor, and Stefanos Levidis. “Weaponizing a River.” e-flux architecture, April 11, 2020. https://www.e-flux.com/architecture/at-the-border/325751/weaponizing-a-river/
-4.Gettleman, Jeffrey. “India Threatens a New Weapon Against Pakistan: Water.” New York Times, February 21, 2019. https://www.nytimes.com/2019/02/21/world/asia/india-pakistan-water-kashmir.html
-5.Iqbal, Jaffar. “Irrigation System and issues in Pakistan.” Technology Times, January 9, 2019. https://www.technologytimes.pk/2019/01/09/irrigation-system-issues/
-6.Johnson, Keith. “Are India and Pakistan on the Verge of a Water War?” Foreign Policy, February 25, 2019. https://foreignpolicy.com/2019/02/25/are-india-and-pakistan-on-the-verge-of-a-water-war-pulwama-kasmir-ravi-indus/
-7.Khadka, Navin Singh. “Are India and Pakistan set for water wars?” British Broadcasting Corporation, December 22, 2016. https://www.bbc.com/news/world-asia-37521897
-8.“Kishanganga dam issue: World Bank asks Pakistan to accept India’s demand of ‘neutral expert’.” Times of India, June 5, 2018. https://timesofindia.indiatimes.com/india/kishanganga-dam-world-bank-asks-pakistan-to-accept-indias-demand-of-neutral-expert/articleshow/64466122.cms
-9.Mustafa, Waqar. “As rains grow erratic, Pakistan taps irrigation to protect Punjab crops.” Reuters, November 25, 2017. https://www.reuters.com/article/us-pakistan-farming-irrigation/as-rains-grow-erratic-pakistan-taps-irrigation-to-protect-punjab-crops-idUSKBN1DO2OD
-10.Nadeem, Mehr, and Sayeed, Saad. “Pakistan accuses India of using water as a weapon in Kashmir dispute.” Reuters, August 19, 2019. https://www.reuters.com/article/india-kashmir-pakistan-water/pakistan-accuses-india-of-using-water-as-a-weapon-in-kashmir-dispute-idUSL4N25F2I8
-11.Nesbit, Jeff. This Is The Way The World Ends. Thomas Dunne Books, 2018.
-12.Singapore Red Cross. “Pakistan Floods:The Deluge of Disaster - Facts & Figures.” ReliefWeb, September 15, 2010. https://reliefweb.int/report/pakistan/pakistan-floodsthe-deluge-disaster-facts-figures-15-september-2010
-13.Singh, Harjeet. “Water Availability in Pakistan.” Indian Defence Review Vol. 25.4 (October-December 2010)
-14.Zaafir, Muhammad Saleh. “Violating IWT India starts Ratle Dam’s construction.” The News, December 15, 2019. https://www.thenews.com.pk/print/583790-violating-iwt-india-starts-ratle-dam-s-construction
+1.Chaudhry, Nadeem. “The 2010 Floods – A case study.” <br/>
+2.Cunha, Dilip da. The Invention of Rivers: Alexander's Eye and Ganga's Descent. Philadelphia, PA: University of Pennsylvania Press, 2019.<br/>
+3.Duncan, Ifor, and Stefanos Levidis. “Weaponizing a River.” e-flux architecture, April 11, 2020. https://www.e-flux.com/architecture/at-the-border/325751/weaponizing-a-river/<br/>
+4.Gettleman, Jeffrey. “India Threatens a New Weapon Against Pakistan: Water.” New York Times, February 21, 2019. https://www.nytimes.com/2019/02/21/world/asia/india-pakistan-water-kashmir.html<br/>
+5.Iqbal, Jaffar. “Irrigation System and issues in Pakistan.” Technology Times, January 9, 2019. https://www.technologytimes.pk/2019/01/09/irrigation-system-issues/<br/>
+6.Johnson, Keith. “Are India and Pakistan on the Verge of a Water War?” Foreign Policy, February 25, 2019. https://foreignpolicy.com/2019/02/25/are-india-and-pakistan-on-the-verge-of-a-water-war-pulwama-kasmir-ravi-indus/<br/>
+7.Khadka, Navin Singh. “Are India and Pakistan set for water wars?” British Broadcasting Corporation, December 22, 2016. https://www.bbc.com/news/world-asia-37521897<br/>
+8.“Kishanganga dam issue: World Bank asks Pakistan to accept India’s demand of ‘neutral expert’.” Times of India, June 5, 2018. https://timesofindia.indiatimes.com/india/kishanganga-dam-world-bank-asks-pakistan-to-accept-indias-demand-of-neutral-expert/articleshow/64466122.cms<br/>
+9.Mustafa, Waqar. “As rains grow erratic, Pakistan taps irrigation to protect Punjab crops.” Reuters, November 25, 2017. https://www.reuters.com/article/us-pakistan-farming-irrigation/as-rains-grow-erratic-pakistan-taps-irrigation-to-protect-punjab-crops-idUSKBN1DO2OD<br/>
+10.Nadeem, Mehr, and Sayeed, Saad. “Pakistan accuses India of using water as a weapon in Kashmir dispute.” Reuters, August 19, 2019. https://www.reuters.com/article/india-kashmir-pakistan-water/pakistan-accuses-india-of-using-water-as-a-weapon-in-kashmir-dispute-idUSL4N25F2I8<br/>
+11.Nesbit, Jeff. This Is The Way The World Ends. Thomas Dunne Books, 2018.<br/>
+12.Singapore Red Cross. “Pakistan Floods:The Deluge of Disaster - Facts & Figures.” ReliefWeb, September 15, 2010. https://reliefweb.int/report/pakistan/pakistan-floodsthe-deluge-disaster-facts-figures-15-september-2010<br/>
+13.Singh, Harjeet. “Water Availability in Pakistan.” Indian Defence Review Vol. 25.4 (October-December 2010)<br/>
+14.Zaafir, Muhammad Saleh. “Violating IWT India starts Ratle Dam’s construction.” The News, December 15, 2019. https://www.thenews.com.pk/print/583790-violating-iwt-india-starts-ratle-dam-s-construction<br/>
