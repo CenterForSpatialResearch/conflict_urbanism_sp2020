@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-05-11
-image: "/har_homa_images_for_site/thumbnail.png"
+image: "/conflict_urbanism_sp2020/images/har_homa_images_for_site/thumbnail.png"
 title: "Har Homa: Exploring the Infrastructure(s) of an Israeli settlement"
 author: "Massimiliano Malago & Sebastian Andersson"
 ---
@@ -16,7 +16,7 @@ All you need to do to use one is replace the url that is between the two " ". He
 
 We have chosen to look at the infrastructure(s) of Israeli settlements on the Palestinian Occupied Territories through a spatial exploration of the settlement of Har Homa (officially Homat Shmuel) just outside of Jerusalem. Building on a rich theoretical foundation and academic endeavours, we decided to continue the conversation of how Israel is using spatial practices to further its occupation of Palestinian lands through a visual case study. Har Homa stood out to us in several ways; first of all because of its proximity and de facto integration into Jerusalem’s wider urban fabric, second of all because its creation came about concurrently with the Oslo Peace Process, and third of all because it was built in part on Palestinian expropriated land. In addition to this, its development has continued since its construction in the latter half of the 1990s, and it has proved to be a continuing point of contention within the context of the Israeli-Palestinian conflict.
 
-![Har Homa](conflict_urbanism_sp2020/images/har_homa_images_for_site/har_homa_3.jpg)
+![Har Homa](/conflict_urbanism_sp2020/images/har_homa_images_for_site/har_homa_3.jpg)
 
 #### Background
 
