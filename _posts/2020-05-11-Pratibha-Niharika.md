@@ -13,10 +13,7 @@ The namesake for the Indian subcontinent, Indus, is believed to be one of the ri
 
 The river was no longer what appeared as “natural”, it had become the lifeline for millions of people. They were divided by a politically charged line, giving birth to the volatile hydropolitics in the Indian subcontinent, and its varied repercussions at different scales between and within the nations.
 
-![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/AP-India-Hindu-Festival-3.jpg)  
-&nbsp;
-*Rivers are considered sacred. Source: [The Baltimore Sun](http://darkroom.baltimoresun.com/2015/11/chhat-puja-festival-in-india/#1)*
- <br/>
+
  <br/>
 #### Case Study : Indus River
 On Feb 20 2019, India announced the decision to block the flow of water from three tributaries of the Indus river into Pakistan, days after the Pulwama terror attack in which 40 soldiers were killed in Kashmir by a suicide bomber from Pakistan.
