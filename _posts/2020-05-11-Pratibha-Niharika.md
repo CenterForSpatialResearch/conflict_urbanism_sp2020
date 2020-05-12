@@ -7,11 +7,12 @@ author: "Niharika Shekhawat, Pratibha Singh"
 ---
 
 
-Water is one of the most basic needs for survival, but it also fuels commerce, trade and economic advancements. Water insecurity continues to be an indicator of instability in many regions of the Indian subcontinent, leading to shortage of drinking water, agriculture and food causing forced displacement and destruction of livelihoods. Usually these water bodies help form natural boundaries, and in several cases their access is shared by adjacent entities. The problem between transboundary water bodies is that the upstream regions can at any moment reduce, stop or pollute the flow of water to the downstream regions. This transforms water reserves into a competitive resource giving way to what is known as “Water World wars''. The theme of our project is to understand this hydropolitics in the Indian subcontinent, looking at the different scales of inter- and intra- hydropolitics and their varied repercussions.
+The geography of the Indian subcontinent has been a function of mountains, plains and rich monsoons, that cradled and shaped the land, giving birth to a river system that feeds and enriches. Rivers “made the rich, fertile ground that allowed the emergence of agriculture and sedentary living” and “instigated the emergence of cities”.  Since the advent of settlements, people have utilized the dynamism of the fluvial landscape - to obtain water, one of the most basic needs for survival, and also to fuel commerce, trade and economic advancements. To the people of the subcontinent, the rivers appear as gods, and their water seen as a boon that provided for their needs. These revered rivers shaped the land and cultures and were in turn transformed by their associations.
 
-This transforms water reserves into a competitive resource giving way to what is known as “***Water World wars***". The theme of our project is to understand this hydropolitics in the Indian subcontinent, looking at the different scales of inter- and intra- hydropolitics and their varied repercussions.
+The namesake for the Indian subcontinent, Indus, is believed to be one of the rivers that flow from paradise, giving birth to one of the oldest civilizations in the world. Rigveda reveres the indus as a mighty flow as for years settlements revolved around the seasonal changes of the river. The volatile nature of the river banks and the ever changing flow became an enemy to stable settlements. But as time passed and technology advanced, humans found themselves with the desire to control what was more powerful than themselves - hence began the articulation of channelized streams. As Dilip da Cunha puts it, “the river can be worked to make life more comfortable. It can be channeled, dammed, diverted, divided, dispersed, linked and extended to serve a variety of needs and aspirations. It is no doubt why the line of separation, containment and calibration was conceived in the first place.”
 
-The river was no longer what appeared as “natural”, it had become the only lifeline for millions of people, separated by a politically charged line, giving birth to the volatile hydropolitics in the Indian subcontinent, and its varied repercussions at different scales between and within the nations.
+The river was no longer what appeared as “natural”, it had become the lifeline for millions of people. They were divided by a politically charged line, giving birth to the volatile hydropolitics in the Indian subcontinent, and its varied repercussions at different scales between and within the nations.
+
  <br/>
 
 #### Case Study : Indus River
@@ -21,9 +22,9 @@ On Feb 20 2019, India announced the decision to block the flow of water from thr
  <br/>
 <iframe width="650" height="400" src="https://www.youtube.com/embed/lxnNDWsHxos?start=00&end=32" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Source: [NDTV](https://www.youtube.com/embed/lxnNDWsHxos?start=00&end=32)*
- <br/>
+ <br/> <br/>
 Water has become a persistent cause of tension between the two neighbouring countries, that mostly arose due to the allocation of the waters of the Indus river basin. A long standing agreement between Pakistan and its riparian neighbour has outlined the use of the water, which came to be known as the Indus Water Treaty. Since India lies upstream of the Indus river basin, it gains the upper hand in political matters.
-
+ <br/> <br/>
 
 <div class="iframe-column"><iframe src="https://www.arcgis.com/apps/MapJournal/index.html?appid=a901523dff224ec59a73930d1e98bd5f" style="position:absolute;top:0;left:-175;width:150%;height:800px;" frameborder="0" scrolling="no"></iframe></div>
 
@@ -101,36 +102,45 @@ Pakistan is an agrarian economy, with over 90% of harvests within the country de
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/canals_3.jpg)  
 &nbsp;
-Irrigation canal network in Pakistan
+*Irrigation canal network in Pakistan*
 
 
 #### Seasonal Changes along the river
 
 
-The Indus river system, with its complex braiding channel that is ever in flux, forming a dynamic landscape ecology, that changes drastically over seasons, months and years. 
+The Indus river system, with its complex braiding channel that is ever in flux, forms a dynamic landscape ecology, that changes drastically over seasons, months and years. On closer inspection while trying to analyse the seasonal changes along the river, we focus on two areas - Kashmor and Firozpur. Kashmor lies closer to the river and therefore is prone to monsoon flooding. Firozpur lies closer to the India-Pakistan border and since India is dependent on rain and river water for irrigation, while Pakistan relies on stored and channelized river water, agricultural patterns differ across the border. 
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/combinedgif.gif)  
 &nbsp;
-Kashmor and Firozpur landsat imagery showing seasonal variation
+*Kashmor and Firozpur landsat imagery showing seasonal variation*
+
+Analysing Landsat imagery to show false colour composites for Kashmor, the agriculture pattern during the Monsoon and Winter seasons is shown in red, The river, its depth and flow pattern are visible in a contrasting blue.
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/Final Kashmor landsat compiled.jpg)  
 &nbsp;
-Kashmor false colour landsat imagery showing seasonal variation over a decade
+*Kashmor false colour landsat imagery showing seasonal variation over a decade*
+
+Landsat image classification by supervised classification using spectral signatures from a training sample to represent water flow and agriculture pattern by pixels. It is visible how the monsoon season has affected water flow differently in the year 1998 and 2010
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="500" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=c1e697ca-93e3-11ea-a879-0edaf8f81e27"></iframe>
-Kashmor image classification showing flow and agriculture variation during monsoon over a decade
+*Kashmor image classification showing flow and agriculture variation during monsoon over a decade*
+
+During the winter season the direction of river flow has changed due to channeling over the years. The agriculture pattern has shifted based on this change of flow of the river.
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="500" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1de95346-93e4-11ea-a879-0edaf8f81e27"></iframe>
-Kashmor image classification showing flow and agriculture variation during winter over a decade
+*Kashmor image classification showing flow and agriculture variation during winter over a decade*
+
+Reclassifying the landsat to perform raster calculation to show how water has changed during monsoon and winter over the years. For monsoon, 70% of the water area converted to land over the decade, while only 1.6% of land converted to water during the same time showing how erratic monsoon flooding changes the water cover area. For winter, around 2,5% of land changed to water and vice versa, indicating that even though net water hasn’t changed, the direction and location of the river has changed which affects agriculture patterns around it.
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/Final_Raster change overtime.jpg)  
 &nbsp;
-Kashmor image classification showing change in flow in Monsoon and winter over a decade
+*Kashmor image classification showing change in flow in Monsoon and winter over a decade*
 
+Landsat imagery showing false colour for our second focus area, Firozpur, shows agriculture patterns in red and river flow in blue. The pattern contrasts over the seasons showing difference in dependance on rain or river water for agriculture across the border.
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/borderlandsat.jpg)  
 &nbsp;
-Firozpur false colour landsat imagery showing seasonal variation 
+*Firozpur false colour landsat imagery showing seasonal variation*
 
 
 
