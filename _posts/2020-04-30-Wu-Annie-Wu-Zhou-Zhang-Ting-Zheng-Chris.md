@@ -28,21 +28,21 @@ Moreover, In terms of annual profits, most of the highest value-creating ones do
 **Brief Introduction of Coal Mining**  
 In Mozambique, coal mining is the fastest growing industrial segment. Significant reserves of coking coal have been discovered in the Tete province, which have attracted numbers of prominent foreign mining companies. According to Business Monitor International Report, coal production in Mozambique has been rapidly increasing since 2009. And make Mozambique itself rank among the top 10 largest coal production and export countries in the world.
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.jpg)
+![GRAPH_moz_mining](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.jpg)
 &nbsp;
 
 **Foreign Investment in Coal Related Infrastructure**  
 Not only focusing on the development of mines in the country, key infrastructure would also be invested and constructed to facilitate export of mining commodities. There are two developing railroad projects which Brazilian Company Vale Mining has invested— the Sena railroad project and the Nacala corridor. Both are mainly serving for transporting coal or other products for export from the Moatize mine to the seaport like City Beira and Nacala for exports, instead of passenger use.
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_01.jpg)  
+![MAPPING_corridors](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_01.jpg)  
 &nbsp;
 
 **Land Acquisition Conflicts**  
 Tete Province, located at northwestern of Mozambique, is a "commodity extraction frontier" rich in coal. It holds an approximately 23 billion tons of mostly untapped coal reserves, with the natural resource boom still in its early stages. Mining concessions and exploration licenses approved by the government cover around thirty-four percent of Tete province land. Including licenses pending approval, around sixty percent of the province's land are covered. Zooming into Moatize District of Tete, around ninety percent of the district’s land is divided and licensed to FDI.
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_02.jpg)   
+![MAPPING_tete_acquisition](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_02.jpg)   
 &nbsp;
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_03.jpg)  
+![MAPPING_moatize_acquisition](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_03.jpg)  
 &nbsp;
 
 **Resource Access Rights and Resettlements**  
@@ -50,9 +50,9 @@ As two major extraction companies, Vale Mining and Rio Tinto have been producing
 The local population of Tete province has suffered from this coal boom led by the foreign companies, since large-scale resettlements have been taking place. As a result, the communities have faced disruptions in accessing food, water, and work.
 Living conditions have decreased drastically, as many farming households who had “previously been living along a river” and were therefore “self-sufficient”, have now been resettled to sites far away from the markets in Moatize, with agricultural land of  “uneven quality and unreliable access to water”. Food insecurity and dependence on food assistance provided by the mining companies has become a serious issue for the families.
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_04.gif)  
+![GIF_resettlements](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_04.gif)  
 &nbsp;
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.gif)
+![GIF_resettlements](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.gif)
 &nbsp;
 &nbsp;
 &nbsp;
@@ -61,7 +61,7 @@ Living conditions have decreased drastically, as many farming households who had
 **Cabo Delgado | Revuma Gas Fields**  
 In 2010, large reserves of natural gas were discovered in the Rovuma Basin, the offshore area of Cabo Delgado Province, northern Mozambique, which attracted a lot of foreign investment and will make Mozambique the third largest country of Liquefied Natural Gas (LNG). There are also future plans for pipeline and natural gas plants, yet it remains unknown who will invest in this development. However, the existing pipeline plan in Maputo is going to transport huge natural gas to South Africa.  
 
-![description of image](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_01.jpg)  
+![MAPPING_moz_pipelines](/conflict_urbanism_sp2020/images/extractive_moz/Cabo_01.jpg)  
 &nbsp;
 
 **Cabo Delgado | Licensed Gas Areas**  
