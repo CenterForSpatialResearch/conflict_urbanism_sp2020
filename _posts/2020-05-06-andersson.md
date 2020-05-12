@@ -73,11 +73,15 @@ It is within these theoretical debates and academic forays into Israeli hilltop 
 
 #### Methodology
 
-Our approach to representation focused on moving imagery as a rhetorical tool. Due to the lack of an existing topographical model we could base our work on, we produced a digital file based on various archival maps & online sources. We extracted topographic contours and combined them in a hierarchy system based on each resource’s most up-to-date data. A GIS data-set supplemented this model with infrastructural information such as highways, bus stops and buildings geolocation. The resulting model allows us to shift between various layers of information and different scales. Colour-coding is used as a way of conveying information in the overall highly-abstracted representational realm of the animation. 
+Our approach to representation focused on moving imagery as a rhetorical tool. Due to the lack of an existing topographical model we could base our work on, we produced a digital file based on various archival maps & online sources. We extracted topographic contours and combined them in a hierarchy system based on each resource’s most up-to-date data. A GIS data-set supplemented this model with infrastructural information such as highways, bus stops and buildings geolocation. The resulting model allows us to shift between various layers of information and different scales. Colour-coding is used as a way of conveying information in the overall highly-abstracted representational realm of the animation.
 
 The animation takes the viewer through three principal scales: national (with highways and borders), regional (with neighbourhoods surrounding Har Homa and the topography) and finally, local (with existing transport infrastructure and the settlement’s urban  and architectural configuration).
 
+Rhino served as the primary topological modelling software. Contour lines at intervals of 10ft of altitude were drawn and lofted together. GIS layers of data were then projected onto the meshes and extruded according to buildings heights, or in case of bus stops, an arbitrary visible height. 3DsMax was used to refine the images of the ground through displacement, bump and refraction maps, and the entire animation was rendered through V-ray.
+
 #### Spatialization
+
+<div class="iframe-column"><iframe src="https://vimeo.com/417493210" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 The video above shows the finished visualization. It shows a gradual zoom-in from the national scale down to Har Homa, putting the singular hilltop settlement just outside of Jerusalem proper in a larger national context. It highlights the ways in which Israel has deployed functions of bypass urbanism and the doubling of infrastructure inherent in the Israeli settlement endeavor.
 
