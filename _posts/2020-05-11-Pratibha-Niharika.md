@@ -103,11 +103,9 @@ Pakistan is an agrarian economy, with over 90% of harvests within the country de
 
 The Indus river system, with its complex braiding channel that is ever in flux, forming a dynamic landscape ecology, that changes drastically over seasons, months and years. 
 
-![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/kashmor-gif.gif)  
+![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/combinedgif.gif)  
 &nbsp;
 
-![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/firozabad-gif.gif)  
-&nbsp;
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/Final Kashmor landsat compiled.jpg)  
 &nbsp;
