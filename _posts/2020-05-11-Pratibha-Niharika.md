@@ -12,6 +12,10 @@ The geography of the Indian subcontinent has been a function of mountains, plain
 The namesake for the Indian subcontinent, Indus, is believed to be one of the rivers that flow from paradise, giving birth to one of the oldest civilizations in the world. Rigveda reveres the indus as a mighty flow as for years settlements revolved around the seasonal changes of the river. The volatile nature of the river banks and the ever changing flow became an enemy to stable settlements. But as time passed and technology advanced, humans found themselves with the desire to control what was more powerful than themselves - hence began the articulation of channelized streams. As Dilip da Cunha puts it, “the river can be worked to make life more comfortable. It can be channeled, dammed, diverted, divided, dispersed, linked and extended to serve a variety of needs and aspirations. It is no doubt why the line of separation, containment and calibration was conceived in the first place.”
 
 The river was no longer what appeared as “natural”, it had become the lifeline for millions of people. They were divided by a politically charged line, giving birth to the volatile hydropolitics in the Indian subcontinent, and its varied repercussions at different scales between and within the nations.
+
+![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/AP-India-Hindu-Festival-3.jpg)  
+&nbsp;
+*Source: [The Baltimore Sun](http://darkroom.baltimoresun.com/2015/11/chhat-puja-festival-in-india/#1)*
  <br/>
  <br/>
 #### Case Study : Indus River
