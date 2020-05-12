@@ -99,6 +99,8 @@ Har Homa is connected via a range of highways to the rest of Israel, as well as 
 
 ![Bus stops](/conflict_urbanism_sp2020/images/har_homa_images_for_site/4_hh.jpg)
 
+![Bus stops detail](/conflict_urbanism_sp2020/images/har_homa_images_for_site/5_hh.jpg)
+
 Public transport offers the final lens through which we were able to look at infrastructure in this context; Har Homa is dotted with bus stops - all of them connecting the settlement with a range of links to West Jerusalem. Not one of them provides a link to East Jerusalem. Just by the very design of the bus routes, the way in which Palestinian neighborhoods and towns are bypassed is heavily intensified.
 
 #### Conclusion
