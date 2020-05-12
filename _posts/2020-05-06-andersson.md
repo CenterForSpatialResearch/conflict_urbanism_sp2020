@@ -27,13 +27,13 @@ A short foray into the land use politics surrounding settlements and neighborhoo
 
 As part of looking into the history of our site, we decided to analyze historical maps. Our main source for this comparison was the online platform Palestine Open Maps. Figure 1 shows an animated layering of the available maps for our site, with material ranging from a 1879 British map to contemporary satellite imagery. The comparative study of the maps reveals how the de facto ownership and occupation of the land changed over the course of 150 years. For every new map, we describe the content and the discrepancy of information between the various sets of cartographic data.
 
-##### 1879 Map
+**1879 Map**
 
 This document is a British map issued by the Palestine Exploration Fund, a semi-secular society based in London, whose topographic and ethnographic surveys of Ottoman Palestine served as a hybrid of military intelligence information-base and exploratory research (Howe, 1997, p. 37). By examining the document we find that the settlement of Har Homa lies where the inscriptions “Bir El Katt” and below, slightly larger, “Kh. Umm el’Asâtir” are. A circled dashed line perimeter that indicates a pocket of settled population can be seen next to these annotations. Additionally, we find that the multiple black lines surrounding the site stand for the desiccated streams of the region - the legend of the map (see Fig.1) notes “Single black lines represent dry water courses except where aqueduct is written.”
 
 The term “Kh.” stands for “khirbet” - “ruin of” in Arabic. “Bir El Katt” instead stands for “the well of the crag” according to the 1888 Palestine Exploration Fund’s general index of the Survey of Western Palestine. [see Fig.2] It is unclear whether in 1879 this site was occupied, but the presence of well does suggest this.
 
-##### 1943 Map
+**1943 Map**
 
 This map was produced for the Survey of Palestine, in the context of the 1946 Anglo-American Committee of Inquiry; a joint British and American commission set up to provide guidance on the introduction of 100,000 Holocaust survivors (as suggested by the 1945 Harrison report) on British-ruled Palestinian territory.
 This is the map that features the most extensive data set in the Palestine Open Maps repertoire. It provides urban, agricultural, infrastructural, topographic, as well as fine-grained architectural information. New particulars regarding our site are:
@@ -48,11 +48,11 @@ This is the map that features the most extensive data set in the Palestine Open 
 
 The top of the hill features a black rectangle, which represents an ‘isolated building’, and a perimetric thin black line, which represents a ‘wall, fence, hedge, canal, etc.’. Beneath these marks lies the inscription ‘Jebel Abū Ghunneim’ - the arabic name of the mount. On the basis of this, we may conclude that there is sufficient evidence to claim that in 1943 the site was occupied by some kind of settled Palestinian population.
 
-#### 1944 Map
+**1944 Map**
 
 This document is another map for the Survey of Palestine, however its information is significantly reduced compared to the 1943 map. Here, the main highlights are the topographic contour lines, information regarding vegetation, the two paths around the hill and the indication of archeological sites (the ‘Khirbats and abandoned sites’). A dot at the top of the hill indicates the presence of a cistern.
 
-##### 2019 Satellite image
+**2019 Satellite image**
 
 Finally, this up to date image of the site reveals the radically altered, and henceforth inherently urban, scenario of the hill. The picture shows a highly-developed network of internal roads and buildings. The settlement is, however, a closed loop onto itself and remains isolated owing to the fact that it only has one entry/exit route (located north-west of the hill, in the direction of Jerusalem).
 
