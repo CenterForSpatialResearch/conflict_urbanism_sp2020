@@ -89,7 +89,18 @@ Usually these water bodies help form natural boundaries, and in several cases th
  <br/> 
 
 #### Water Insecurity
-For Pakistan, with its semi-arid climate and erratic rainfall patterns that get increasingly unpredictable every year due to effects of climate change, the availability of water resources is crucial for sustenance. The country is ravaged by frequent droughts, resulting in consequent shortage of drinking water supply for major cities. The Indus river basin forms the only major source of water for most of the country, and hence the need to channel and divert the water, which has been the motivation for construction of dams and barrages along the basin. Today, Pakistan has 3 large dams, 85 small dams, 19 barrages, 12 inter link canals, 45 canals and 0.7 million tube wells to meet its commercial, domestic and irrigation needs. It is these points of control however, that have directly impacted the river causing sedimentation and changes in flow dynamics, which has further resulted in additional problems such as extensive flooding. The 2010 monsoon floods affected approximately one-fifth of Pakistan’s total land area. The floods directly affected about 20 million people, mostly by destruction of property, livelihood and infrastructure, with a death toll of close to 2,000.
+For Pakistan, with its semi-arid climate and erratic rainfall patterns that get increasingly unpredictable every year due to effects of climate change, the availability of water resources is crucial for sustenance. The country is ravaged by frequent droughts, resulting in consequent shortage of drinking water supply for major cities. The Indus river basin forms the only major source of water for most of the country, and hence the need to channel and divert the water, which has been the motivation for construction of dams and barrages along the basin. Today, Pakistan has 3 large dams, 85 small dams, 19 barrages, 12 inter link canals, 45 canals and 0.7 million tube wells to meet its commercial, domestic and irrigation needs. It is these points of control however, that have directly impacted the river causing sedimentation and changes in flow dynamics, which has further resulted in additional problems such as extensive flooding. 
+<br/>
+
+![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/pasted image 0.png)  
+&nbsp;
+*People evacuating with remaining belongings in the aftermath of the 2010 floods. Source: [Britannica](https://www.britannica.com/place/Sindh-province-Pakistan)*
+ <br/>
+ <br/>
+
+
+
+The 2010 monsoon floods affected approximately one-fifth of Pakistan’s total land area. The floods directly affected about 20 million people, mostly by destruction of property, livelihood and infrastructure, with a death toll of close to 2,000.
 
 
 <iframe width="650" height="400" src="https://www.youtube.com/embed/c85lDN-eDz0?start=194&end=233" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
