@@ -19,7 +19,7 @@ The river was no longer what appeared as “natural”, it had become the only l
 
 On Feb 20 2019, India announced the decision to block the flow of water from three tributaries of the Indus river into Pakistan, days after the Pulwama terror attack in which 40 soldiers were killed in Kashmir by a suicide bomber from Pakistan.
 
-<iframe width="1075" height="860" src="https://www.youtube.com/embed/lxnNDWsHxos?start=00&end=32" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="550" src="https://www.youtube.com/embed/lxnNDWsHxos?start=00&end=32" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="iframe-column"><iframe src="https://www.arcgis.com/apps/MapJournal/index.html?appid=a901523dff224ec59a73930d1e98bd5f" style="position:absolute;top:0;left:-175;width:150%;height:800px;" frameborder="0" scrolling="no"></iframe></div>
 
