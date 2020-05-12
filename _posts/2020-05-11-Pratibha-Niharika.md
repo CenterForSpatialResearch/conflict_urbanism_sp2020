@@ -179,6 +179,7 @@ Rivers have historically been at the center of conflict and instability, and all
 
 The relationship between the river and mankind has always been one of reciprocity. The river provides us with water, food and life. Constant attempts to extract more, have left them in a state of disarray. Many environmental movements have advocated for the rights of the rivers, to ensure protection of the inherent right of ecosystems in order to restore their health. Imposition of man-made infrastructures and policies on natural resources such as the rivers continues to affect the landscape and ecologies that survive along the riparian system. The river needs to be celebrated instead of being weaponized for control and conflict.
 
+
 <br/>
 <br/>
 #### References
