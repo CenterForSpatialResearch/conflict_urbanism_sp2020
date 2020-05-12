@@ -15,8 +15,6 @@ The river was no longer what appeared as “natural”, it had become the lifeli
  <br/>
 
 #### Case Study : Indus River
-
- 
 On Feb 20 2019, India announced the decision to block the flow of water from three tributaries of the Indus river into Pakistan, days after the Pulwama terror attack in which 40 soldiers were killed in Kashmir by a suicide bomber from Pakistan.
  <br/>
 <iframe width="650" height="400" src="https://www.youtube.com/embed/lxnNDWsHxos?start=00&end=32" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
