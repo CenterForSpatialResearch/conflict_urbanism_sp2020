@@ -70,7 +70,7 @@ With the rapid increase in water scarcity exacerbated by the climate crisis, exp
 
 ![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/000_APW2000081431302.jpg)  
 &nbsp;
-*Conflict over water. Source: [News Week Pakistan](https://www.newsweekpakistan.com/labor-of-love/)*
+*People in Pakistan protesting over construction of Kalabagh Dam. Source: [News Week Pakistan](https://www.newsweekpakistan.com/labor-of-love/)*
  <br/>
  <br/>
 The race to capitalize on this abundant natural resource has resulted in self-inflicted disaster, which has led to unequitable scarcity of water in many areas, and increased instances of flooding and riverbank erosion in others, impacting the daily lives of millions of people and therefore laying the seeds to conflict. This has consequently resulted in political interventions to manage resource allocation and control over the river.
