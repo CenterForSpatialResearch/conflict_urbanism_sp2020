@@ -67,6 +67,12 @@ This territorial colonization of streams upstream permanently altered the water 
 #### Water as Conflict
 With the rapid increase in water scarcity exacerbated by the climate crisis, explosive population growth is straining world resources, and hyper-nationalism is testing diplomatic relations, water demand is expected to go up 55% between 2000 and 2050. Water insecurity continues to be an indicator of instability in many regions of South Asia, leading to shortage of drinking water, agriculture and food causing forced displacement and destruction of livelihoods. 
 
+
+![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/000_APW2000081431302.jpg)  
+&nbsp;
+*Conflict over water. Source: [News Week Pakistan](https://www.newsweekpakistan.com/labor-of-love/)*
+ <br/>
+ <br/>
 The race to capitalize on this abundant natural resource has resulted in self-inflicted disaster, which has led to unequitable scarcity of water in many areas, and increased instances of flooding and riverbank erosion in others, impacting the daily lives of millions of people and therefore laying the seeds to conflict. This has consequently resulted in political interventions to manage resource allocation and control over the river.
 
 Usually these water bodies help form natural boundaries, and in several cases their access is shared by adjacent entities. The predicament with transboundary water bodies is that the upstream regions can at any moment reduce, stop or pollute the flow of water to the downstream regions. This transforms water reserves into a competitive resource giving way to what is known as “Water Wars''. 
@@ -175,6 +181,12 @@ The Kaveri has been subject to a tradition of diversion and extraction of water 
 
 Concrete solutions are yet to be reached over access to this resource, while farmers in Tamil Nadu face droughts and are compelled to commit suicide, and large cities such as Bangalore run dry, as climate change strains the remnants of the once abundant stream.
 <br/>
+![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/riot.jpg)  
+&nbsp;
+*Riots and protests against the Kaveri tribunal decision. Source: [Livemint](https://www.livemint.com/Sundayapp/ToUuDo1gOIFZ2Ebd12khZI/Cauvery-riots-belowpar-rainfall-and-rupee-trouble.html)*
+ <br/> 
+  <br/>
+
 
 
 #### Rights of the River
