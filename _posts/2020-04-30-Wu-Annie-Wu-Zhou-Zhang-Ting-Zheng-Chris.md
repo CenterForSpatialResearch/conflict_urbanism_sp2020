@@ -7,7 +7,7 @@ author: "Annie Wu, Chris Zheng, Ting Zhang, Zhou Wu"
 ---
 Mozambique’s booming extractive industries have spurred the country’s making of modernity in the post civil war era. Through the lens of urbanism - urban development, foreign investments, infrastructure construction, settlements and resettlements, etc. - this project looks at how the extractive boom is building the country’s economy while characterizing it with spatial and socio economic fragmentation across the national territory.
 
-#### **Overview**  
+### **Overview**  
 
 The conflict this project addresses is extractive urbanism, a model for the development of new cities. Many places rich in natural resources have reaped great benefits by simply exploiting and exporting themselves. Urban construction of these places is aiming to reinforce this low-cost money-making cycle, called extractive urbanism.
 
@@ -21,8 +21,7 @@ Moreover, In terms of annual profits, most of the highest value-creating ones do
 <iframe frameborder="0" width="100%" height="900" src="https://tz2436.github.io/ExtractiveUrbanism/index.html"></iframe>
 ***<center>Net Profits and Nationalities of Large Mining Companies</center>***
 &nbsp;
-&nbsp;
-&nbsp;
+
 
 #### **City Scale Research | Moatize, Tete Province, Mozambique**  
 **Brief Introduction of Coal Mining**  
