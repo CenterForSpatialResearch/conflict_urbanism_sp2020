@@ -27,7 +27,7 @@ Moreover, In terms of annual profits, most of the highest value-creating ones do
 In Mozambique, coal mining is the fastest growing industrial segment. Significant reserves of coking coal have been discovered in the Tete province, which have attracted numbers of prominent foreign mining companies. According to Business Monitor International Report, coal production in Mozambique has been rapidly increasing since 2009. And make Mozambique itself rank among the top 10 largest coal production and export countries in the world.
 
 ![GRAPH_moz_mining](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.jpg)
-***<center>Mozambique Coal Production</center>***. Source: Business Monitor International Q2 2013 Report
+***<center>Mozambique Coal Production.</center>*** <center>Source: Business Monitor International Q2 2013 Report</center>
 &nbsp;
 
 ##### **Foreign Investment in Coal Related Infrastructure**  
