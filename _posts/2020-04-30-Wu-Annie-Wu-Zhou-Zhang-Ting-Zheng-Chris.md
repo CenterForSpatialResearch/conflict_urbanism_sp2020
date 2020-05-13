@@ -24,11 +24,10 @@ Moreover, In terms of annual profits, most of the highest value-creating ones do
 
 #### **City Scale Research | Moatize, Tete Province, Mozambique**  
 ##### **Brief Introduction of Coal Mining**
-
 In Mozambique, coal mining is the fastest growing industrial segment. Significant reserves of coking coal have been discovered in the Tete province, which have attracted numbers of prominent foreign mining companies. According to Business Monitor International Report, coal production in Mozambique has been rapidly increasing since 2009. And make Mozambique itself rank among the top 10 largest coal production and export countries in the world.
 
 ![GRAPH_moz_mining](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_06.jpg)
-**<center>Mozambique Coal Production/center>**
+**<center>Mozambique Coal Production</center>**
 <center>Source: Business Monitor International Q2 2013 Report</center>
 &nbsp;
 
@@ -36,6 +35,8 @@ In Mozambique, coal mining is the fastest growing industrial segment. Significan
 Not only focusing on the development of mines in the country, key infrastructure would also be invested and constructed to facilitate export of mining commodities. There are two developing railroad projects which Brazilian Company Vale Mining has invested— the Sena railroad project and the Nacala corridor. Both are mainly serving for transporting coal or other products for export from the Moatize mine to the seaport like City Beira and Nacala for exports, instead of passenger use.
 
 ![MAPPING_corridors](/conflict_urbanism_sp2020/images/extractive_moz/Moatize_01.jpg)  
+**<center>Major Logistics Corridors</center>**
+<center>Source: Business Monitor International Q2 2013 Report</center>
 &nbsp;
 
 ##### **Land Acquisition Conflicts**  
