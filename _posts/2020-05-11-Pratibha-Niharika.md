@@ -9,7 +9,7 @@ author: "Niharika Shekhawat, Pratibha Singh"
 
 The geography of the Indian subcontinent has been a function of mountains, plains and rich monsoons, that cradled and shaped the land, giving birth to a river system that feeds and enriches. Rivers “made the rich, fertile ground that allowed the emergence of agriculture and sedentary living” and “instigated the emergence of cities”.  Since the advent of settlements, people have utilized the dynamism of the fluvial landscape - to obtain water, one of the most basic needs for survival, and also to fuel commerce, trade and economic advancements. To the people of the subcontinent, the rivers appear as gods, and their water seen as a boon that provided for their needs. These revered rivers shaped the land and cultures and were in turn transformed by their associations.
 
-![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/Aarti.jpg)  
+![Sacred Rivers](/conflict_urbanism_sp2020/images/Hydropolitics/Aarti.jpg)  
 &nbsp;
 *Aarti (licensed under CC BY-NC-SA 2.0). Source: [AnimeshHazra](https://www.flickr.com/photos/33463116@N00/23643639654)*
  <br/>
