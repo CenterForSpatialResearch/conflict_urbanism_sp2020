@@ -29,7 +29,7 @@ On Feb 20 2019, India announced the decision to block the flow of water from thr
 Water has become a persistent cause of tension between the two neighbouring countries, that mostly arose due to the allocation of the waters of the Indus river basin. A long standing agreement between Pakistan and its riparian neighbour has outlined the use of the water, which came to be known as the Indus Water Treaty. Since India lies upstream of the Indus river basin, it gains the upper hand in political matters.
  <br/> <br/>
 
-<div class="iframe-column"><iframe src="https://www.arcgis.com/apps/MapJournal/index.html?appid=a901523dff224ec59a73930d1e98bd5f" style="position:absolute;top:0;left:-600;width:230%;height:800px;" frameborder="0" scrolling="no"></iframe></div>
+<div class="iframe-column"><iframe src="https://www.arcgis.com/apps/MapJournal/index.html?appid=a901523dff224ec59a73930d1e98bd5f" style="position:absolute;top:0;left:-600;width:250%;height:800px;" frameborder="0" scrolling="no"></iframe></div>
 
   <br/>
   <br/>
