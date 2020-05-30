@@ -65,9 +65,9 @@ This territorial colonization of streams upstream permanently altered the water 
 With the rapid increase in water scarcity exacerbated by the climate crisis, explosive population growth is straining world resources, and hyper-nationalism is testing diplomatic relations, water demand is expected to go up 55% between 2000 and 2050. Water insecurity continues to be an indicator of instability in many regions of South Asia, leading to shortage of drinking water, agriculture and food causing forced displacement and destruction of livelihoods. 
 
 
-![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/000_APW2000081431302.jpg)  
+![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/pakistan protest.jpg)  
 &nbsp;
-*People in Pakistan protesting over construction of Kalabagh Dam. Source: [News Week Pakistan](https://www.newsweekpakistan.com/labor-of-love/)*
+*"Long March in Pakistan Over the Indus River" by International Rivers is licensed under CC BY-NC-SA 2.0. Source: [International Rivers](https://www.flickr.com/photos/27779597@N04/4460379858)*
  <br/>
  <br/>
 The race to capitalize on this abundant natural resource has resulted in self-inflicted disaster, which has led to unequitable scarcity of water in many areas, and increased instances of flooding and riverbank erosion in others, impacting the daily lives of millions of people and therefore laying the seeds to conflict. This has consequently resulted in political interventions to manage resource allocation and control over the river.
