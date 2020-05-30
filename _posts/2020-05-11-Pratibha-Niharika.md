@@ -143,7 +143,7 @@ During the winter season the direction of river flow has changed due to channeli
 <iframe frameborder="0" class="juxtapose" width="100%" height="470" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1de95346-93e4-11ea-a879-0edaf8f81e27"></iframe>
 *Kashmor image classification showing flow and agriculture variation during winter over a decade*
  <br/> <br/>
-Reclassifying the landsat to perform raster calculation to show how water has changed during monsoon and winter over the years. For monsoon, 70% of the water area converted to land over the decade, while only 1.6% of land converted to water during the same time showing how erratic monsoon flooding changes the water cover area. For winter, around 2,5% of land changed to water and vice versa, indicating that even though net water hasn’t changed, the direction and location of the river has changed which affects agriculture patterns around it.
+Reclassifying the landsat to perform raster calculation to show how water has changed during monsoon and winter over the years. For monsoon, 70% of the water area converted to land over the decade, while only 1.6% of land converted to water during the same time showing how erratic monsoon flooding changes the water cover area. For winter, around 2.5% of land changed to water and vice versa, indicating that even though net water hasn’t changed, the direction and location of the river has changed which affects agriculture patterns around it.
 
 
 ![Variation over seasons](/conflict_urbanism_sp2020/images/Hydropolitics/Final_Raster change overtime.jpg)  
