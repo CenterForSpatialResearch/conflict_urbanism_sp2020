@@ -196,11 +196,7 @@ Concrete solutions are yet to be reached over access to this resource, while far
 <br/>
 <br/>
 <br/>
-![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/riot2.jpg)  
-&nbsp;
-*Riots and protests against the Kaveri tribunal decision. Source: [Livemint](https://www.livemint.com/Sundayapp/ToUuDo1gOIFZ2Ebd12khZI/Cauvery-riots-belowpar-rainfall-and-rupee-trouble.html)*
- <br/> 
-  <br/>
+
 
 
 
