@@ -67,7 +67,7 @@ With the rapid increase in water scarcity exacerbated by the climate crisis, exp
 
 ![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/pakistan protest.jpg)  
 &nbsp;
-*"Long March in Pakistan Over the Indus River" by International Rivers is licensed under CC BY-NC-SA 2.0. Source: [International Rivers](https://www.flickr.com/photos/27779597@N04/4460379858)*
+*"Long March in Pakistan Over the Indus River" is licensed under CC BY-NC-SA 2.0. Source: [International Rivers](https://www.flickr.com/photos/27779597@N04/4460379858)*
  <br/>
  <br/>
 The race to capitalize on this abundant natural resource has resulted in self-inflicted disaster, which has led to unequitable scarcity of water in many areas, and increased instances of flooding and riverbank erosion in others, impacting the daily lives of millions of people and therefore laying the seeds to conflict. This has consequently resulted in political interventions to manage resource allocation and control over the river.
@@ -89,9 +89,9 @@ Usually these water bodies help form natural boundaries, and in several cases th
 For Pakistan, with its semi-arid climate and erratic rainfall patterns that get increasingly unpredictable every year due to effects of climate change, the availability of water resources is crucial for sustenance. The country is ravaged by frequent droughts, resulting in consequent shortage of drinking water supply for major cities. The Indus river basin forms the only major source of water for most of the country, and hence the need to channel and divert the water, which has been the motivation for construction of dams and barrages along the basin. Today, Pakistan has 3 large dams, 85 small dams, 19 barrages, 12 inter link canals, 45 canals and 0.7 million tube wells to meet its commercial, domestic and irrigation needs. It is these points of control however, that have directly impacted the river causing sedimentation and changes in flow dynamics, which has further resulted in additional problems such as extensive flooding. 
 <br/>
 
-![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/pasted image 0.png)  
+![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/Indus flood.jpg)  
 &nbsp;
-*People evacuating with remaining belongings in the aftermath of the 2010 floods. Source: [Britannica](https://www.britannica.com/place/Sindh-province-Pakistan)*
+*"People flee from the floods, Sindh, Pakistan" is licensed under CC BY-NC-ND 2.0. Source: [Oxfam International](https://www.flickr.com/photos/8470194@N02/6149852938)*
  <br/>
  <br/>
 
