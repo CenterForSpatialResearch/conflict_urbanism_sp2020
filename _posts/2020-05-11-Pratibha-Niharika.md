@@ -195,11 +195,6 @@ The Kaveri has been subject to a tradition of diversion and extraction of water 
 Concrete solutions are yet to be reached over access to this resource, while farmers in Tamil Nadu face droughts and are compelled to commit suicide, and large cities such as Bangalore run dry, as climate change strains the remnants of the once abundant stream.
 <br/>
 <br/>
-<br/>
-
-
-
-
 #### Rights of the River
 “The fluvial frontier is a complex and nuanced territorial condition braiding together multiple elements including conservation, transboundary river management, the geopolitics of resource logistics...”
 
