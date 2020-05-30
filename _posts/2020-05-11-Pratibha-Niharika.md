@@ -9,6 +9,11 @@ author: "Niharika Shekhawat, Pratibha Singh"
 
 The geography of the Indian subcontinent has been a function of mountains, plains and rich monsoons, that cradled and shaped the land, giving birth to a river system that feeds and enriches. Rivers “made the rich, fertile ground that allowed the emergence of agriculture and sedentary living” and “instigated the emergence of cities”.  Since the advent of settlements, people have utilized the dynamism of the fluvial landscape - to obtain water, one of the most basic needs for survival, and also to fuel commerce, trade and economic advancements. To the people of the subcontinent, the rivers appear as gods, and their water seen as a boon that provided for their needs. These revered rivers shaped the land and cultures and were in turn transformed by their associations.
 
+![Points of water control along the Indus river basin](/conflict_urbanism_sp2020/images/Hydropolitics/Aarti.jpg)  
+&nbsp;
+*Aarti (licensed under CC BY-NC-SA 2.0). Source: [AnimeshHazra](https://www.flickr.com/photos/33463116@N00/23643639654)*
+ <br/>
+ <br/>
 The namesake for the Indian subcontinent, Indus, is believed to be one of the rivers that flow from paradise, giving birth to one of the oldest civilizations in the world. Rigveda reveres the indus as a mighty flow as for years settlements revolved around the seasonal changes of the river. The volatile nature of the river banks and the ever changing flow became an enemy to stable settlements. But as time passed and technology advanced, humans found themselves with the desire to control what was more powerful than themselves - hence began the articulation of channelized streams. As Dilip da Cunha puts it, “the river can be worked to make life more comfortable. It can be channeled, dammed, diverted, divided, dispersed, linked and extended to serve a variety of needs and aspirations. It is no doubt why the line of separation, containment and calibration was conceived in the first place.”
 
 The river was no longer what appeared as “natural”, it had become the lifeline for millions of people. They were divided by a politically charged line, giving birth to the volatile hydropolitics in the Indian subcontinent, and its varied repercussions at different scales between and within the nations.
