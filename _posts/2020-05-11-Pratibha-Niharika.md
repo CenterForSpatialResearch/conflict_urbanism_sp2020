@@ -169,7 +169,7 @@ Kaveri is the third largest river in India, flowing from the state of Karnataka 
  <br/>
 The Kaveri has been subject to a tradition of diversion and extraction of water for the purpose of irrigation and drinking water consumption, that has carried on since the Grand Anicut dam was built over the flowing water by the Chola dynasty in 100 BC. This practice was intensified during the British rule in India, and came to sustain the needs of the people in South India. 
  <br/> <br/>
-<div class="iframe-column"><iframe src="https://www.arcgis.com/apps/MapJournal/index.html?appid=27f210f1ba314d2e8cab294c724abba8" style="position:absolute;top:0;left:-175;width:150%;height:800px;" frameborder="0" scrolling="no"></iframe></div>
+<div class="iframe-column"><iframe src="https://www.arcgis.com/apps/MapJournal/index.html?appid=27f210f1ba314d2e8cab294c724abba8" style="position:absolute;top:0;left:-500;width:250%;height:800px;" frameborder="0" scrolling="no"></iframe></div>
 
   <br/>
   <br/>
