@@ -8,7 +8,7 @@
 baseurl: "/conflict_urbanism_sp2020" # the subpath of your site, replace with the name of the github repository where you will host your site
 url: "" # the base hostname & protocol for your site, e.g. http://github-username.io
 
-title: Conflict Urbanism
+title: Conflict Urbanism, Spring 2020
 author: Laura Kurgan
 externallink: ljk33@columbia.edu #can include an external url here
 description:  >- # this means to ignore newlines until "baseurl:"
